@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",5,4,"HOME","PORRIDGE","UNGA WA DONA, WATER, SUGAR.","BOILED FOR TWENTY MINUTES","TWO CUP C PORRIDGE"
-,,"Morning snack",1,"1/0/1900",4,3,"NEIGHBOUR","CASSAVA","CASSAVA, SALT, WATER",,"TWO CASSAVA A"
-,,"Lunch",2,,,,,,,,
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",5,4,"HOME","UGALI","UNGA WA DONA, WATER","COOKED FOR 25 MINUTES","UGALI SHARED PLATE H"
-,,"Supper",1,"1/0/1900",5,4,"HOME","MCHICHA","MCHICHA, ONION, COOKING OIL, SALT.","COOKED FOR 10 MINUTES.","SAURCER B MCHICHA."
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

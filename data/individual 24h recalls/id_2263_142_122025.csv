@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAI","TEA LEAF SUGAR, WATER","BOILED FOR 20 MINUTES","1 CUP C"
-,,"Breakfast",1,"1/0/1900",5,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","4 ANDAZI A"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",5,4,"HOME","PILAU NYAMA","RICE, DUCK OIL, ONION CARROT, SALT","COOKED FOR 1 HOUR","PLATE A DUCK SIZE AS CHICKEN A"
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",4,5,"HOME","PILAU NA NYAMA","RICE, DUCK OIL, CARROT SALT, SPICES","COOKED FOR 1 HOUR","PLATE A DUCK SIZE AS CHICKEN B"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

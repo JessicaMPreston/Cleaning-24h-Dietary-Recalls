@@ -1,8 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",5,3,"HOME","BANANA","BANANA, COOKING OIL, SALT, ONION, TOMATO","FRIED FOR 15 MINUTES","NDIZI PLATE C"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",2,,,,,,,,
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",4,2,"HOME","AVOCADO","EATEN RAW","EATEN RAW","AVOCADO PORTION A"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

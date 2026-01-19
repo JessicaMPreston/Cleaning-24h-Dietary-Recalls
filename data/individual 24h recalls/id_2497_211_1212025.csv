@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",2,,,,,,,,
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN","1 PLATE C"
-,,"Lunch",1,"1/0/1900",4,4,"HOME","BEANS","BEAN'S, ONION NAZI, SALT WATER","BOILED FOR 2 HOUR'S","1 SAURCER B"
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",3,4,"HOME","MAKANDE","MAIZE, BEAN'S NAZI, SALT, WATER","BOILED FOR 2 HOURS","1 PLATE A"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

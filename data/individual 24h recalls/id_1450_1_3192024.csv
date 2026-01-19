@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",3,4,"HOME","PORRIDGE (UJI)","UNGA WA DONA,SALT, WATER, MILK","BOILING FOR 30 MINUTES","CUP C"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA WA SEMBE, MAJI","COOKED 25 MIN","UGALI -PLATE D"
-,,"Lunch",1,"1/0/1900",3,4,"HOME","FISH","FISH, SALT, LEMON","BOILED 15 MIN","FISH-PLATE B"
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",2,3,"HOME","MILK","MILK","BOILED FOR 5 MINUTES","CUP C"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

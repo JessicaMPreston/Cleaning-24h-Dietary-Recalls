@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",4,3,"HOME","UJI","MAIZE  FLOUR, MILK, WATER, SUGAR","BOILED FOR 1 HOUR","1 CUP B"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR, WATER,","COOKED FOR 50 MIN.","1 PLATE D,"
-,,"Lunch",1,"1/0/1900",3,2,"HOME","MCHICHA","MCHICHA, ONION, TOMATOES, SALT, COOKING OIL","COOKED FOR 20 MIN.","1 SAURCER A"
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",4,3,"HOME","NDIZI","NDIZI, WATER, COCONUT,OIL, SALT","BOILED FOR 1 HOUR","1 PLATE C"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

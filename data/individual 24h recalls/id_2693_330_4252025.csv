@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TEA LEAVES, SUGAR, MILK","BOILED FOR 10 MINUTES","1 CUP C"
-,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",3,4,"HOME","TAMBI","TAMBI, COOKING OIL, SUGAR","COOKED FOR 10 MINUTES","1 PLATE B"
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",3,4,"HOME","CHIPS","POTATOES, SALT","FRIED FOR 10 MINUTES","NOT SHARED 1 PLATE A"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

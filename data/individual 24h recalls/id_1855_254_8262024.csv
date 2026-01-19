@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","WATER SUGAR MAIZE FLOUR DONA","BOILED FOR 20 MINUTES","CUP-C-TWO CUPS"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",4,4,"HOME","UJI","WATER SUGAR MAIZE FLOUR DONA","BOILED FOR 20 MINUTES","CUPC-ONE CUP"
-,,"Snack afternoon",1,"1/0/1900",3,3,"HOME","NDIZI MBIVU","BOUGHT",,"4 PIECES"
-,,"Supper",1,"1/0/1900",5,5,"HOME","BOILED BANANA","WATER SALT","BOILED FOR 25 MINUTES","PLATE C"
-,,"Supper",1,"1/0/1900",5,5,"HOME","CHAI","WATER TANGAWIZI SUGAR","BOILED FOR 10 MINUTES","CUP C-1 1/2 CUP"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

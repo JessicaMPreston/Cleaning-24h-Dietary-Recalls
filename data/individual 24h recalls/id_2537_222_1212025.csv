@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","SALT MAIZE FLOUR DONE","COOKED FOR 30 MINUTES","CUP C - TWO CUP"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",2,,,,,,,,
-,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","EMBE",,,
-,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR DONA, WATER","COOKED FOR TWENTY MINUTES","PLATE B- ONE"
-,,"Supper",1,"1/0/1900",4,4,"HOME","MCHICHA","SALT","COOKED FOR FIVE MINUTES","PLATE B- ONE"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",1,"1/0/1900",2,3,"HOME","EMBE",,,"EMBE C TWO EMBE"

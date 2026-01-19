@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, SUKARI MDALASINI","BOILING FIFTEEN MINUTES","CUP C-ONE CUP"
-,,"Breakfast",1,"1/0/1900",5,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",5,5,"HOME","MAKANDE, MAHARAGE","MAHINDI, MAHARAGE, NAZI, KITUNGUU, CHUMVI, MAJI.","BOILING, TWO HOURS","PLATE B"
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",4,4,"HOME","NDIZI","NDIZI, MAJI NYANYA KITUNGUU MAFUTA, CHUMVI","ROASTING, FOURTY MINUTES","PLATE A"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",1,"1/0/1900",2,2,"HOME","MUWA","MUWA","BOUGHT EATEN RAW","PLATE D"

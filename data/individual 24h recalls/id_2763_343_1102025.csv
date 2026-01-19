@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",2,,,,,,,,
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",1,"1/0/1900",5,1,"HOME","UGALI","MAIZE FLOUR WATER.","COOKED FOR 10 MIN.","1 PLATE D"
-,,"Lunch",1,"1/0/1900",5,1,"HOME","FISH","FISH, SALT, ONION, LEMON COOKING OIL.","FRIED FOR 5 MIN.","2 FISH A."
-,,"Snack afternoon",2,,,,,,,,
-,,"Supper",1,"1/0/1900",3,3,"HOME","CHIPS MAYAI","BOUGHT","BOUGHT","1 PLATE A"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,

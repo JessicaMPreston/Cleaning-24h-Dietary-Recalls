@@ -1,9 +1,0 @@
-"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",1,"1/0/1900",2,2,"HOME","UJI","UNGA, SALT MILK, SUGAR","BOILED FOR 10 MIN","1 CUP B"
-,,"Morning snack",2,,,,,,,,
-,,"Lunch",2,,,,,,,,
-,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","EMBE","BOUGHT","BOUGHT","1 EMBE A"
-,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, OIL, SALT","COOKED FOR 20 MIN","1 PLATE B SHARED"
-,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, SALT COCONUT, ONION","COOKED FOR 45 MIN","1 SAURCER B SHARED"
-,,"Snack evening",2,,,,,,,,
-,,"Night snack",2,,,,,,,,
