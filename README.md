@@ -1,21 +1,14 @@
-TODO: Add more to the title of your project here
-
-# Clean 24h Recalls:
-
-TODO: Give a brief description of what your project is about
-
-This project...
+Clean 24h Recalls
+This project takes the data collected from the field of 24h dietary recalls, 
+and transforms it into a format appropriate for downstream work.
 
 # Brief description of folder and file contents
 
-TODO: As project evolves, add brief description of what is inside the
-data, docs and R folders.
-
 The following folders contain:
-
--   `data/`:
--   `docs/`:
--   `R/`:
+-   `data-raw/`: tb24Hour and 24HR Recall FINAL CRF
+-   `data/`: metadata, all recalls, combined recall
+-   `docs/`: quarto file
+-   `R/`: Targets pipeline, Functions
 
 # Installing project R package dependencies
 

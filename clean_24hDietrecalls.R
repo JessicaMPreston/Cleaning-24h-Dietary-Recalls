@@ -15,4 +15,6 @@ list2env(seperate_metadata(df_raw), envir = .GlobalEnv)
 individuals_dffood <- clean_dffood(df_food)
 list2env(individuals_dffood, envir = .GlobalEnv)
 
-#
+# Combine all 24h Recalls
+h24recalls_combined <- combined_dffood(individuals_dffood)
+list2env(h24recalls_combined, envir = .GlobalEnv)

@@ -34,10 +34,13 @@ seperate_metadata <- function(df) {
 
 clean_dffood <- function(df_food) {
   #  name from cols 1:3, then split, then drop cols 1:3
+  date_clean <- gsub("\\D+", "", as.character(df_food[[3]]))
+  date_clean[is.na(date_clean) | date_clean == ""] <- "0000"
+
   nm <- paste("id",
     gsub("\\D+", "", as.character(df_food[[1]])),
     gsub("\\D+", "", as.character(df_food[[2]])),
-    gsub("\\D+", "", as.character(df_food[[3]])),
+    date_clean,
     sep = "_"
   ) |>
     make.unique(sep = "_")
@@ -141,27 +144,35 @@ clean_dffood <- function(df_food) {
 
 ########################################################################
 ########################################################################
-combined_dffood <- function(individuals_dffood) {
+#' Combine DFs Food
+#'
+#' @param individuals_dffood
+#'
+#' @returns h24recalls_combined
+#' @export all_24hrecalls.csv
 
+combined_dffood <- function(individuals_dffood) {
   # helper: parse "id_<AutoID>_<IdentificationNo>_<Date>" from list element name
+#' Title
+#'
+#' @param nm
+#'
+#' @returns
+#' @export
+#'
+#' @examples
   parse_id_fields <- function(nm) {
     parts <- strsplit(nm, "_", fixed = TRUE)[[1]]
 
-    # Expect at least: id, AutoID, IdentificationNo, Date (Date may itself contain underscores if make.unique appended, etc.)
-    if (length(parts) < 4 || parts[1] != "id") {
-      stop("Unexpected name format: '", nm, "'. Expected 'id_<AutoID>_<IdentificationNo>_<Date>'.")
-    }
-
-    AutoID <- parts[2]
-    IdentificationNo <- parts[3]
-    Date <- paste(parts[4:length(parts)], collapse = "_")
-
-    list(AutoID = AutoID, IdentificationNo = IdentificationNo, Date = Date)
+    list(
+      AutoID = parts[2],
+      IdentificationNo = parts[3],
+      Date = paste(parts[4:length(parts)], collapse = "_")
+    )
   }
 
-  # add ID columns to each df, then row-bind by matching column names
+  # add ID columns to each df
   dfs_tagged <- purrr::imap(individuals_dffood, \(df, nm) {
-    if (!is.data.frame(df)) stop("All elements of individuals_dffood must be data.frames.")
     ids <- parse_id_fields(nm)
 
     dplyr::mutate(
@@ -174,6 +185,14 @@ combined_dffood <- function(individuals_dffood) {
   })
 
   h24recalls_combined <- dplyr::bind_rows(dfs_tagged)
+
+  # save combined df
+  utils::write.csv(
+    h24recalls_combined,
+    file = file.path("data", "all_24hrecalls.csv"),
+    row.names = FALSE,
+    na = ""
+  )
 
   h24recalls_combined
 }

@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+food_files|stem|08d5f59e833de599|60db46eff53a8e37|2c530c1562a7fbd1|-1680856487||t0s|s0b|0|file|local|vector|||0.002||
+recall_file|stem|a524f4a318b6a6ad|faefa00916d08405|2c530c1562a7fbd1|1283376472|data-raw/tb24Hour(tb24Hour).csv|t20416.3279322574s|s1122717b|1122717|file|local|vector|||0.086||
+df_raw|stem|b184e57d081eb434|aee968fe25208c63|936e638171864fc2|-796806726||t20472.510460608s|s197626b|197626|rds|local|vector|||0.169|One or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)|
+metadata|stem|999607dc93c14fba|046f85520825f3b6|35c494879f6b2f9c|1529494452||t20472.5104616857s|s213193b|213193|rds|local|vector|||0.038||
+individuals_dffood|stem|25137ecbbe86efeb|fc1d84d34e581de7|54ce99e2407b429b|2018421972||t20472.5108600273s|s256970b|256970|rds|local|vector|||34.359||
+h24recalls_combined|stem|be7b3c36b03d3767|dbc8dedcfedce233|fbfb8b6ee9b998fd|759281504||t20472.5108753965s|s175899b|175899|rds|local|vector|||1.256||
+combined_dffood|function|71a1d472cac0047d
+seperate_metadata|function|481b6f5866f6d2fa
+clean_dffood|function|31d083dcccac62e8
+report_clean_24hrecalls|stem|e84c4269585c4dc7|10c62a6a0012cd7f|67df1cb9cb79e4ae|-1142264621|docs/Clean_24hRecalls_Report.html*docs/Clean_24hRecalls_Report.qmd|t20472.5349910971s|s77441b|77441|file|local|vector|||2.219||
