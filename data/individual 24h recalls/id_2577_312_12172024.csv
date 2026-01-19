@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,2,"HOME","TEA","MCHAICHAI, WATER, SUGAR","BOILED FOR 30 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",5,2,"HOME","MIHOGO","MIHOGO, WATER SALT.","BOILED FOR 1 HOUR.","1 PLATE C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 40 MIN","1 PLATE B"
+,,"Lunch",1,"1/0/1900",4,3,"HOME","SAMAKI","FISH, SALT, COOKING OIL, VIUNGO","FRIED FISH FOR 10 MIN","3 FISH B."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

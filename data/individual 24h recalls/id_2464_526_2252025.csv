@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",2,"",,,"",,,,
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR.","UGALI PLATE D."
+,,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","DAGAA, BAMIA, NYANYA, MAFUTA CHUMVI","COOKED FOR 45 MINUTES.","DAGAA SAURCER D."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","UGALI PLATE D"
+,,"Supper",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, BAMIA, MAFUTA, NYANYA CHUMVI","COOKED FOR 45 MINUTES","DAGAA SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

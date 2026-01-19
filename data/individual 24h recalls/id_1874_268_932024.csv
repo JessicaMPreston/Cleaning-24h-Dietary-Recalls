@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,5,"HOME","CHAI","MAJI MDALASINI SUKARI","BOILED FOR 10 MINUTES","CUP-B-ONE CUP"
+2,,"Breakfast",1,"1/0/1900",2,5,"HOME","VIAZI VITAMU","MAJI CHUMVI","COOKED FOR 30 MINUTES","VIAZI VITAMU AS CASSAVA A-6 PIECES"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI","MAJI, MAIZE FLOUR SEMBE. MAJI,","COOKED FOR 35 MINUTES","PLATE D"
+2,,"Lunch",1,"1/0/1900",2,5,"HOME","DAGAA","SALT, NYANYA, KITUNGUU, COOKING OIL","COOKED FOR 20 MINUTES PLATE D SAURCER -C","SAURCER-C"
+2,,"Snack afternoon",1,"1/0/1900",1,4,"HOME","MAPERA",,,"THREE MAPERA"
+1,2,"Supper",1,"1/0/1900",2,5,"HOME","WALI","MAJI, SALT, COOKING OIL","COOKED FOR 1 HOUR","PLATE -C"
+1,2,"Supper",1,"1/0/1900",2,5,"HOME","MAHARAGE","MAJI, KITUNGUU, NAZI, SALT","COOKED FOR 1 HOUR","SAURCER-D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

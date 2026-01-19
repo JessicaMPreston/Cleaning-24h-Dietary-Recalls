@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 10 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","MANDAZI","BOUGHT","BOUGHT.","3 ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 40 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, ONION TOMATOE, COOKING OIL, SALT","COOKED FOR 1 HOUR","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN","1 PLATE D"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MLENDA","BAMIA, MAJANI YA MABOGA, ONION SALT","COOKED FOR 15 MIN.","1 SAURCER"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

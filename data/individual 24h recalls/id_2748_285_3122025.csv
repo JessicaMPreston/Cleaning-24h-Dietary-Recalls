@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES SUGAR","BOILED FOR 05 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","MANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE C"
+1,4,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","SAMAKI, NAZI TOMATOE, ONION SALT, COOKING OIL","COOKED FOR 35 MINUTES","NOT SHARED 1 FISH C"
+1,4,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","MCHICHA, ONION COOKING OIL, SALT TOMATOE","COOKED FOR 10 MINUTES","SHARED 2 SAURCER C"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 40 MINUTES","SHARED 1 PLATE C"
+1,4,"Supper",1,"1/0/1900",4,4,"HOME","MCHICHA","MCHICHA, ONION TOMATOE, COOKING OIL SALT","COOKED FOR 10 MINUTES","SHARED 2 SAURCER C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

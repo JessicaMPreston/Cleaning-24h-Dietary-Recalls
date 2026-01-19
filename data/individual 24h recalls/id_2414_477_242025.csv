@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES, SUGAR","COOKED FOR 10MIN,","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","CHAPATI","BOUGHT","BOUGHT","1 CHAPATI"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,2,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",2,2,"HOME","MAHARAGE","MAHARAGE, COCONUT SALT","COOKED FOR 45 MIN","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,2,"HOME","WALI","WALI, COOKING OIL, SALT","COOKED FOR 15 MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",2,2,"HOME","MAHARAGE","MAHARAGE, SALT, COCONUT","COOKED FOR 45 MIN","1 SAURCER B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","TEA","MDALASINI,WATER, SUGAR,","BOILED FOR 20 MINUTES.","ONE CUP C TEA"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","TAMBI","TAMBI, ILIKI, SUGAR, COOKING OIL, SALT","BOILED AND FRIED FOR 30 MINUTES.","PLATE D. TAMBI"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","ANDAZI","GIVEN BY NEIGHBOUR",,"TWO ANDAZI A"
+2,,"Morning snack",2,"",,,"",,,,
+1,7,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA SEMBE, WATER","COOKED FOR 30 MINUTES,","PLATE E SHARED"
+1,7,"Lunch",1,"1/0/1900",4,3,"HOME","BEANS","SALT, COOKING OIL, BEANS, ONION, HOHO, KAROTI","COOKED FOR 2 HOURS","TWO SAURCER B BEANS SHARED"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,2,"HOME","TEA","WATER, SUGAR, MDALASINI","BOILED FOR 20 MINUTES","ONE CUP C"
+2,,"Supper",1,"1/0/1900",3,2,"HOME","CHAINIZI","CHAINIZI, ONION, COOKING OIL SALT,","COOKED FOR 10 MINUTES,","CHAINIZI SAURCER D MATEMBELE"
+2,,"Supper",1,"1/0/1900",3,2,"HOME","VIAZI MVIRINGO","TOMATO, ONION, TOMATO,SALT, COOKING OIL, WATER","COOKED FOR 20 MINUTES","PLATE D VIAZI MVIRINGO"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

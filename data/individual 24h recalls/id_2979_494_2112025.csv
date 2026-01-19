@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,2,"HOME","UJI","MAIZE FLOUR, SUGAR","BOILED FOR 30 MIN","2 CUP B"
+2,,"Breakfast",1,"1/0/1900",2,2,"HOME","FENESI","BOUGHT","BOUGHT","1 PLATE A"
+2,,"Morning snack",2,"",,,"",,,,
+1,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE SHARED B"
+1,,"Lunch",1,"1/0/1900",3,3,"HOME","KUKU","FRIED KUKU","COOKED FOR 10 MIN","CHICKEN B"
+1,,"Lunch",1,"1/0/1900",3,3,"HOME","MATEMBELE","MATEMBELE, ONION, NDIMU, OIL, SALT","COOKED FOR 10 MIN","1 SAURCER D SHARED"
+2,2,"Snack afternoon",1,"1/0/1900",2,2,"HOME","EMBE","BOUGHT","BOUGHT","5 EMBE C"
+2,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, ONION, SALT, OIL","COOKED FOR 1 HOUR","1 PLATE D"
+2,,"Supper",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, NAZI, BAMIA, SALT, OIL","COOKED FOR 45 MIN","1 FISH D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

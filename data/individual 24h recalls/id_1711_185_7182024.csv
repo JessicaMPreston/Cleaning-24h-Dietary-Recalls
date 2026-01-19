@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAI","MAJI, SUKARI, MDALASINI, IRIKI.","BOILING, FIFTEEN MINUTES.","CUP C - ONE CUP"
+2,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAPATI","BOUGHT","BOUGHT","CHAPATI - ONE PIECE"
+2,,"Morning snack",1,"1/0/1900",3,3,"HOME","CHUNGWA","CHUNGWA","EATEN RAW","ORANGE A - TWO PIECES"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, FIFTEEN MINUTES.","PLATE E"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI,","SAMAKI, MAFUTA CHUMVI, LIMAO","FRYING, TWENTY FIVE MINUTES","FISH B - 2 PIECES"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, CHUMVI, KITUNGUU, NYANYA MAFUTA","FRYING, TWENTY MINUTES","SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,7,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, TWENTY MINUTES","PLATE E"
+1,7,"Supper",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA, CHUMVI, LIMAO.","LEFT OVER, PREPARED IN THE AFTERNOON. PREPARED IN THE AFTERNOON.","FISH B - 2 PIECES"
+1,7,"Supper",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, NYANYA, KITUNGUU, MAFUTA, CHUMVI",,"SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

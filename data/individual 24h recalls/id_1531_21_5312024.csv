@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","KARAFUU, SUGAR","BOILED FOR 10 MINUTES.","1CUP B"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","5 ANDAZI A"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MINUTES.","1 UGALI C"
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","KACHUMBARI","NYANYA, KITUNGUU, LIMAO, CHUMVI","EATEN RAW.","1 SAURCER A"
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","MEAT (GOAT MEAT)","BOUGHT","FRIED","GOAT MEAT COMPARED TO BEEF 1 SAURCER A"
+2,,"Snack afternoon",1,"1/0/1900",3,4,"HOME","ORANGES",,,"5 ORANGE A"
+1,1,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","1 UGALI D SHARED"
+1,1,"Supper",1,"1/0/1900",2,3,"HOME","KACHUMBARI","NYANYA, KITUNGUU, LIMAO, SALT","EATEN RAW","1 SALAD SAURCER A"
+1,1,"Supper",1,"1/0/1900",2,3,"HOME","MEAT (GOAT MEAT)","BOUGHT","FRIED","GOAT MEAT COMPARED TO BEEF 1 SAURCER A"
+2,,"Snack evening",1,"1/0/1900",2,2,"HOME","SAMBUSA","BOUGHT","BOUGHT","4 SAMBUSA SIZE SAMBUSA COMPARED TO CAKE A"
+2,,"Night snack",2,"",,,"",,,,

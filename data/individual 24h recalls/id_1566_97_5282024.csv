@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,4,"HOME","TEA","GINGER, SUGAR, WATER.","BOILING FOR 30 MINUTES.","CUP C"
+2,,"Breakfast",1,"1/0/1900",4,4,"HOME","ANDAZI","WHEAT FLOUR, SUGAR, YEAST.","BOUGHT","ANDAZI A (1)"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 45 MINUTES","UGALI PLATE F"
+1,2,"Lunch",1,"1/0/1900",3,5,"HOME","MAHARAGE","BEANS, COCONUT MILK, ONION, SALT","COOKING FOR 2 HOURS","SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","GINGER, WATER, SUGAR","BOILING FOR 30 MINUTES","CUP C"
+1,2,"Supper",1,"1/0/1900",4,4,"HOME","ANDAZI","WHEAT FLOUR, SUGAR, YEAST.","BOUGHT","ANDAZI A (2)"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,5,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAI","TEA LEAF SUGAR, WATER","BOILED FOR 10 MINUTES","1 CUP C"
+1,5,"Breakfast",1,"1/0/1900",4,4,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,5,"Lunch",1,"1/0/1900",4,5,"HOME","WALI","RICE, COCONUT WATER, SALT","COOKED FOR 1 HOUR","PLATE F"
+1,5,"Lunch",1,"1/0/1900",4,5,"HOME","MAHARAGE","BEANS, OIL ONION, SALT COCONUT","COOKED FOR 1 HOUR","SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,5,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 45 MINUTES","UGALI SHARED PLATE E"
+1,5,"Supper",1,"1/0/1900",4,4,"HOME","NYAMA","CHICKEN, TOMATO ONION, ONION LEMON, SALT","COOKED FOR 1 HOUR","CHICKEN B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

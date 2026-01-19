@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","TEA LEAVES WATER, SUGAR ILIKI, KARAFU","BOILED FOR 20 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","NDIZI","NDIZI, WATER SALT.","BOILED FOR 40 MIN.","1 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",5,2,"HOME","NDIZI","NDIZI, ONION SALT, WATER COCONUT OIL, CARROTS","BOILED FOR 40 MIN","1 PLATE B"
+,,"Supper",1,"1/0/1900",5,2,"HOME","TEA","ILIKI, KARAFU WATER, SUGAR","BOILED FOR 20 MIN","1 CUP B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

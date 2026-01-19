@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","PORRIDGE","MTAMA, NGANO, UFUTA, MAHINDI","COOKED FOR 20 MIN","2 CUP C"
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","RICE,","RICE, SALT, COOKING OIL. .","LEFT OVERS OF PREVIOUS MILL. COOKED FOR 30 MIN. .","PLATE D, ,"
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","MAHARAGE,","MAHARAGE, ONION, TOMATOE, COOKING OIL","LEFT OVER OF PREVIOUS NIGHT MILL COOKED FOR 40 MIN","1 SAURCER A"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN,","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI,SALT","FRIED FOR 10 MIN,","1FISH A"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA","COOKED FOR 10 MIN","MCHUNGA 1 SAURCER A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR,WATER","COOKED FOR 20 MIN","UGALI 1 PLATE D"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MLENDA","MLENDA, NGOGWE, TOMATOE, SALT,","COOKED FOR 10 MIN,","SAURCER D BAMIA,"
+,,"Supper",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, TOMATOE, HOHO, CARROTS","COOKED FOR 15 MIN","1 SAURCER B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

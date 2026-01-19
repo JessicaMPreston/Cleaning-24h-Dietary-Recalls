@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI YA MAZIWA,","MAZIWA, MAJI, SUKARI, MDALASINI, IRIKI.","BOILING, FIFTEEN MINUTES.","TWO CUP C."
+1,2,"Breakfast",1,"1/0/1900",3,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","THREE ANDAZI A"
+2,,"Morning snack",1,"1/0/1900",3,3,"HOME","NDIZI ZA KUIVA,","NDIZI ZA KUIVA,","EATEN RAW.","PLATE A - TWO PIECES."
+2,,"Morning snack",1,"1/0/1900",3,3,"HOME","MUWA","MUWA","EATEN RAW","PLATE C"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","NDIZI - MTORI","NDIZI, NYAMA, KITUNGUU HOHO, KAROTI, CHUMVI, MAFUTA, MAJI","BOILING, ONE HOUR","PLATE D"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, TEN MINUTES","PLATE D"
+1,2,"Supper",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, CHUMVI, MAJI, MAFUTA, KAROTI, HOHO, KITUNGUU, NYANYA","BOILING, TWENTY MINUTES","TWO FISH B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

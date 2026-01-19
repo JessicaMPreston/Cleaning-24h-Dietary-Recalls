@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, MDALASINI, ILIKI, MAJI.","BOILED FOR 10 MINUTES.","ONE CUP C."
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","NDIZI","NDIZI, NGANO, MAFUTA","FRYING FOR 45 MINUTES","4 NDIZI SIZE D"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA DONA, MAJI.","COOKED FOR 30 MINUTES","ONE SHARED PLATE B."
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","MCHICHA","MCHICHA, NYANYA, KITUNGUU, MAFUTA, CHUMVI.","COOKED FOR 10 MINUTES","ONE SHARED SAURCER D."
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","SAMAKI","SAMAKI, LIMAO, KITUNGUU SAUMU, CHUMVI, MAFUTA","FRIED FOR 30 MINUTES","ONE FISH B."
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,4,"HOME","CHAI","MDALASINI, ILIKI, MAJI, SUKARI","BOILED FOR 10 MINUTES","ONE CUP C"
+2,,"Supper",1,"1/0/1900",3,4,"HOME","MKATE","BOUGHT","BOUGHT","MKATE (SKONZI) MBILI"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

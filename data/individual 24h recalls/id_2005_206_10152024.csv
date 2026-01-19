@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,1,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MCHAICHAI, SUKARI, WATER,","BOILED FOR 15 MINUTES","ONE CUP-CUP C"
+1,1,"Breakfast",1,"1/0/1900",2,3,"HOME","MIHOGO","CASSAVA, SALT WATER","BOILEDF OR 20 MINUTES","ONE PLATE-PLATE C"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",1,1,"HOME","UGALI","WATER, MAIZE FLOUR DONA,","COOKED FOR 35 MINUTES","ONE PLATE PLATE -A"
+1,1,"Lunch",1,"1/0/1900",1,1,"HOME","DAGAA","COOKING OIL, SALT, NYANYA ONION","COOKED FOR 30 MINUTES","ONE PLATE SAURCER-D"
+2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","EMBE","BOUGHT","BOUGHT","EMBE A, TWO EMBE"
+1,1,"Supper",1,"1/0/1900",2,4,"HOME","WALI","WATER, SALT, COOKING OIL","COOKED FOR 40 MINUTES","PLATE - G - ONE PLATE"
+1,1,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","WATER, SALT, CORROTE, PILIPILI HOHO, ONION, COOKING OIL","COOKED FOR 1 HOUR","SAURCER-C-ONE PLATE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","SUGAR, TEA LEAVES","BOILED FOR 7 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","CASSAVA","BOUGHT","BOUGHT","1 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","UNGA, WATER","COOKED FOR 17 MIN","1 PLATE D."
+,,"Lunch",1,"1/0/1900",3,3,"HOME","KABICHI","KABICHI, ONION, NYANYA, SALT, ONION","COOKED FOR 15 MIN","1 PLATE B."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

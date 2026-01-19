@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","UJI","UNGA WA MAHINDI, MAFUTA, CHUMVI.","PREPARED BY MOTHER.","THREE CUPS - CUP C"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","NDIZI YA KUIVA","NDIZI","EATEN RAW","ONE RIPE BANANA"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,3,"HOME","UJI","UNGA WA MAHINDI, MAFUTA, CHUMVI","PREPARED BY MOTHER","TWO CUPS - CUP C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

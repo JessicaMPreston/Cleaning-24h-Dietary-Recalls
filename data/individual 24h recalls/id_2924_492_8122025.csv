@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MILK","MILK, SUGAR","BOILED FOR 10 MIN.","1 CUP B"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER.","COOKED FOR 20 MIN.","1 PLATE C."
+,,"Lunch",1,"1/0/1900",4,4,"HOME","NYAMA","NYAMA, ONION, TOMATOES, SALT, COOKED OIL, WATER.","COOKED FOR 1 HOUR.","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","MILK","MILK, SUGAR","BOILED FOR 10 MIN","1 CUP B"
+,,"Supper",1,"1/0/1900",4,4,"HOME","BREAD","BOUGHT","BOUGHT","2 BREAD C."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

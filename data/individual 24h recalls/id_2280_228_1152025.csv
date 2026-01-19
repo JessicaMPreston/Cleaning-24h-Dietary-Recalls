@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MCHAI CHAI SUKARI MDALASINI","BOILED FOR 15 MINUTES","CUP C-"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MKATE","BOUGHT","BOUGHT","ONE TWO SLICES-BREAD- A"
+2,,"Morning snack",1,"1/0/1900",1,1,"HOME","EMBE",,,"EMBE - C THREE EMBE"
+1,1,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","PLATE B ONE"
+1,1,"Lunch",1,"1/0/1900",1,4,"HOME","SAMAKI","COOKING OIL PILIPILI HOHO ONION SALT TOMATOES","COOKED FOR 20 MINUTES","FISH- B ONE FISH"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",1,4,"HOME","KABICHI","COOKING OIL, SALT, ONION","PREPARED FOR HER MOTHER","PLATE B"
+1,2,"Supper",1,"1/0/1900",1,4,"HOME","WALI","SALT, COOKING OIL.","PREPARED FOR HER MOTHER","PLATE - A ONE MCHUZI - D"
+1,2,"Supper",1,"1/0/1900",1,4,"HOME","SAMAKI","SALT, NAZI,, COOKING OIL, PILIPILI HOHO, ONION, NYANYA","PREPARED FOR HER MOTHER","ONE FISH FISH B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

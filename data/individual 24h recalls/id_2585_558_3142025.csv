@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, SUGAR","BOILED FOR 10 MINUTES","ONE CUP C."
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","SAMBUSA","BOUGHT","BOUGHT","3 SAMBUSA"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",2,"",,,"",,,,
+1,1,"Snack afternoon",1,"1/0/1900",3,4,"HOME","TEA","MDALASINI SUGAR.","BOILED FOR 5 MINUTES","ONE CUP C"
+1,1,"Snack afternoon",1,"1/0/1900",3,4,"HOME","TAMBI","TAMBI, COOKING OIL SALT, ILIKI","COOKED FOR 15 MINUTES","SHARED TAMBI PLATE C."
+2,,"Supper",2,"",,,"",,,,
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

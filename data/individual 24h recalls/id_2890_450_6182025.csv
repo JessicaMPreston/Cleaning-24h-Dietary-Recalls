@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","MDALASINI, SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE D"
+1,2,"Lunch",1,"1/0/1900",2,4,"HOME","SAMAKI","SAMAKI, LEMON, SALT","FRIED FOR 10 MINUTES","SHARED 2 FISH D"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,3,"HOME","TEA","MDALASINI SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+2,,"Supper",1,"1/0/1900",3,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

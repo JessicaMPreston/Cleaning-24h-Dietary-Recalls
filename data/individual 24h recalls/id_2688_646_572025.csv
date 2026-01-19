@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","MAJI, MAJANI YA CHAI,SUKARI","BOILED FOR 15 MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 45 MINUTES","UGALI SHARED 2 PLATE A"
+1,4,"Lunch",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, NYANYA, MAFUTA, CHUMVI, NGOGWE, KITUNGUU","COOKED FOR 15 MINUTES","SAMAKI PLATE C"
+1,4,"Lunch",1,"1/0/1900",3,5,"HOME","MCHICHA","MCHICHA, MAFUTA, KITUNGUU, CHUMVI","COOKED FOR 10 MINUTES","MCHICHA SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

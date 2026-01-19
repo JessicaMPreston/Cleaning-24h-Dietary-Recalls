@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","JUICE","BOUGHT","BOUGHT","ONE GLASS OF 250MLS."
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAPATI","BOUGHT","BOUGHT","ONE CHAPATI C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",1,"1/0/1900",5,4,"HOME","AVOCADO","AVOCADO","CHOPPING, EATEN RAW","PORTION A"
+,,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, TEN MINUTES","HALF PLATE D"
+,,"Supper",1,"1/0/1900",5,5,"HOME","MAHARAGE","MAHARAGE, KITUNGUU MAJI, NAZI, CHUMVI","BOILING, TEN MINUTES.","HALF SAURCER D."
+,,"Supper",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, PILIPILI, LIMAO","BOILING, TWO HOURS.","FISH A"
+,,"Supper",1,"1/0/1900",5,5,"HOME",,,"FRYING, BOUGHT",
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

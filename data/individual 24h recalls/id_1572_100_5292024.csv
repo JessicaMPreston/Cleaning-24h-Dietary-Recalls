@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","POURIAGE","MAIZE FLOUR, WATER & SUGAR","BOILED FOR 30 MINUTES","1 CUP B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","UGALI PLATE B"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","FISH, TOMATOES, ONION, SALT, & COOKING OIL","COOKED FOR 30 MIN","2 FISH B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR & WATER","COOKED FOR 30 MIN","1 PLATE B"
+,,"Supper",1,"1/0/1900",4,5,"HOME","FISH","FISH, COOKING OIL, SALT, TOMATO & ONIONS","COOKED FOR 30 MIN.","2 FISH B."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

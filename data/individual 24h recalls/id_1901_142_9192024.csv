@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAI","SUKARI, MCHAICHAI,","BOILED FOR TEN MINUTES.","CUP C- ONE CUP"
+2,,"Breakfast",1,"1/0/1900",4,4,"HOME","MKATE","BOUGHT",,"BREAD B- FIVE SLICE"
+2,,"Morning snack",1,"1/0/1900",1,2,"HOME","PAW PAW",,,"TWO PIECES PORTION C"
+1,1,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","WATER, MAIZE, FLOUR SEMBE","COOKED FOR 30 MINUTES","PLATE-B"
+1,1,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","COOKING OIL, TOMATOES, ONION, SALT, LIMAO","COOKED FOR 30 MINUTES","SAURCER-D"
+2,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","SUGAR CANE, ORANGE","NA. NA","NA. NA","PLATE -C, TWO ORANGE, ORANGE B"
+1,1,"Supper",1,"1/0/1900",2,5,"HOME","WALI","WATER SALT, COOKING OIL","COOKED FOR 1 HOUR","PLATE-A"
+1,1,"Supper",1,"1/0/1900",2,5,"HOME","DAGAA","COOKING OIL, TOMATOES, ONION, LIMAO, SALT","COOKED FOR 30 MINUTES","SAURCER -D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",1,"1/0/1900",1,5,"HOME","NDIZI MBIVU","BOUGHT",,"ONE NDIZI MBIVU"

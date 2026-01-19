@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MILK","MILK","BOILED FOR 10 MINUTES","1 CUP B."
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","VITUMBUA","BOUGHT","BOUGHT","5 VITUMBUA A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","NDIZI NYAMA","NDIZI, ONION, COOKING OIL NYAMA, SALT CAROT'S, TOMATOES, HOHO","COOKED FOR 2 HOURS","1 PLATE B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","CHIPS MAYAI","BOUGHT","BOUGHT","1 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

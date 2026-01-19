@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","UJI","UNGA WA MAHINDI MAJI, ASALI","BOILED FOR 30 MIN","3 CUP C"
+,,"Morning snack",1,"1/0/1900",1,2,"HOME","MILK","MILK","BOILED FOR 15","1 CUP C"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","FISH","FISH, LEMON, SALT","FRIED FOR 10 MIN.","2 FISH B."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MAKANDE","KITUNGUU, MAHARAGE MAHINDI YA KUKOBOA, MAFUTA, CHUMVI HOHO","COOKED FOR 3 HRS","1 PLATE B."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","NDIZI","NYANYA, KITUNGUU MAFUTA, HOHO CHUMVI, KAROTI","COOKED FOR 20 MIN","1 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

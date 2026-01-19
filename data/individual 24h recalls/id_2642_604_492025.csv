@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,2,"HOME","PORRIDGE","BOUGHT","BOUGHT","2 CUP B."
+2,,"Morning snack",1,"1/0/1900",2,3,"HOME","TEA","TEA LEAVES ILIKI, MDALASINI","BOILED FOR 5 MINUTES","1 CUP C"
+2,,"Morning snack",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
+1,1,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE D"
+1,1,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, TOMATOE ONION, CARROT","COOKED FOR 30 MIN COOKING ON","NOT SHARED 1 FISH"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 30 MINUTES","1 PLATE D"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, TOMATOE ONION, SALT","COOKED FOR 45 MINUTES","1 FISH A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

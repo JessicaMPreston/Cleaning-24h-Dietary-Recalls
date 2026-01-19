@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,4,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, MDALASINI IRIKI, SUKARI, MAJANI","BOILING, TWENTY MINUTES","ONE CUP C"
+1,4,"Breakfast",1,"1/0/1900",5,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","2 ANDAZI C"
+2,,"Morning snack",1,"1/0/1900",2,2,"HOME","NDIZI YA KUIVA","BOUGHT","EATEN RAW","2 PLATE A"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI.","BOILING, THIRTY MINUTES","PLATE F"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","MAHARAGE","MAHARAGE, MAFUTA, KITUNGUU, MAJI, CHUMVI.","BOILING, ONE HOUR TWENTY MINUTES","SAURCER D"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, MAFUTA KITUNGUU, NYANYA, CHUMVI.","FRYING, TWENTY MINUTES","SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, TWENTY MINUTES","PLATE D"
+2,,"Supper",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, CHUMVI, VITUNGUU, NYANYA MAFUTA, MAJI","ROSTING, THIRTY MINUTES","2 FISH C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

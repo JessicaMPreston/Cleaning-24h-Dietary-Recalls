@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI YA MAZIWA","PREPARED BY HER DAUGHTER","PREPARED BY HER DAUGHTER","ONE CUP C"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MAANDAZI","PREPARED BY HER DAUGHTER","PREPARED BY HER DAUGHTER","TWO ANDAZI C"
+2,,"Morning snack",1,"1/0/1900",2,3,"HOME","EMBE","EMBE","EATEN RAW","TWO EMBE NYONYO"
+1,5,"Lunch",1,"1/0/1900",3,5,"HOME","WALI","COOKED BY HER DAUGHTER","COOKED BY HER DAUGHTER","PLATE D"
+1,5,"Lunch",1,"1/0/1900",3,5,"HOME","NYAMA YA KUKU","COOKED BY HER DAUGHTER,","COOKED BY HER DAUGHTER","CHICKEN B HALF"
+1,5,"Lunch",1,"1/0/1900",3,5,"HOME","MAHARAGE","COOKED BY HER DAUGHTER","COOKED BY HER DAUGHTER","SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,5,"Supper",2,"",,,"",,,,
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

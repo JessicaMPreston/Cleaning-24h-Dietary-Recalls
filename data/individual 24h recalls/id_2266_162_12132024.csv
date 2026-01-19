@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","KARAFUU SUKARI MDALASINI PILIPILI MANGA","BOILED FOR 5 MINUTES.","CUP C- ONE"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","BANANA FLIED","COOKING OIL SALT","FLIED FOR 30 MINUTES","PLATE B -  ONE"
+,,"Morning snack",1,"1/0/1900",1,1,"HOME","EMBE",,,"EMBE C 3 EMBE"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","WALI","SALT COOKING OIL","COOKED FOR ONE HOUR","PLATE B - ONE"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","MAHARAGE","TUI LA NAZI SALT ONION PILIPILI HOHO","COOKED FOR 1 1/2 HOUR","PLATE D - ONE"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,5,"HOME","WALI","SALT, COOKING OIL","COOKED FOR ONE HOUR","PLATE C - ONE"
+,,"Supper",1,"1/0/1900",3,5,"HOME","MAHARAGE","SALT, ONION, PILIPILI HOHO, TUI LA NAZI.","COOKED FOR 1 1/2 HOUR.","PLATE D - ONE."
+,,"Supper",1,"1/0/1900",3,5,"HOME","AFYA PASSION","BOUGHT","BOUGHT","350MLS"
+,,"Snack evening",1,"1/0/1900",1,1,"HOME","FENESI",,,"PLATE B- ONE"
+,,"Night snack",2,"",,,"",,,,

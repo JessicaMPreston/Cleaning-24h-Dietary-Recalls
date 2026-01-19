@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","TEA","KARAFUU, MDALASINI","BOILING -20 MINUTES.","CUP B"
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","MANDAZI","BOUGHT","BOUGHT","ANDAZI D - 5"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAJI, MAIZE FLOUR","30 MINUTES,","DAGAA SAURCER -D"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","SALT, OIL","15 MINUTES","DAGAA SAURCER -D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAJI, MAIZE FLOUR, OIL, SALT","30 MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MBWEMBWE","OIL, SALT","30 MINUTES","SAURCER - B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

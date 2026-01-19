@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,2,"HOME","JUICE","BOUGHT","BOUGHT","1 SODA"
+2,,"Breakfast",1,"1/0/1900",2,2,"HOME","NDIZI","FRIED BANANAS","FRIED FOR 15 MIN","1 PLATE B"
+2,,"Morning snack",1,"1/0/1900",2,2,"HOME","MAGIMBI","MAGIMBI, NAZI, COOKING OIL","COOKED FOR 15 MIN","MAGIMBI COMPARED TO MIHOGO 1 PLATE A"
+2,,"Lunch",1,"1/0/1900",2,2,"HOME","MAKANDE","MAIZE, BEANS, COOKING OIL","COOKED FOR 45 MIN","1 PLATE B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR",,"1 SHARED PLATE B"
+1,2,"Supper",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, ONION, NYANYA, OIL",,"1 SAURCER D SHARED"
+1,2,"Supper",1,"1/0/1900",3,3,"HOME","MATEMBELE","ONION, MATEMBELE",,"1 SAURCER B SHARED"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

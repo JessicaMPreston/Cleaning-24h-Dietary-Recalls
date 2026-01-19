@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, SUKARI MDALASINI, KARAFUU","BOILING, FIFTEEN MINUTES,","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI","BOUGHT","BOUGHT","ONE CHAPATI B"
+,,"Morning snack",1,"1/0/1900",2,2,"HOME","MACHUNGWA","MACHUNGWA","EATEN RAW","2 ORANGE B"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI,","BOILING, TWENTY MINUTES,","PLATE D,"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MAHARAGE","MAHARAGE, NAZI, KITUNGUU, HOHO, CHUMVI,","BOILING, ONE AND HALF HOUR,","SAURCER D,"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, MAJI, NYANYA, CHUMVI","BOILING, TEN MINUTES","SAURCERCE D"
+,,"Snack afternoon",1,"1/0/1900",3,3,"HOME","CHUNGWA, MATUNDA DAMU, PEARS","CHUNGWA, MATUNDA DAMU, PEARS","EATEN RAW, EATEN RAW, EATEN RAW","HALF ORANGE B, 5 PIECES OF MATUNDA DAMU, ONE PEARS"
+,,"Supper",1,"1/0/1900",3,3,"HOME","CHAI","SUKARI, TANGAWIZI,MDALASINI, MAJI","BOILING, FIFTEEN MINUTES","ONE CUP C"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MKATE","BOUGHT","BOUGHT","BREAD B THREE SLICES"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

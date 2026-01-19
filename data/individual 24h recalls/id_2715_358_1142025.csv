@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","MDALASINI, SUGAR","BOILED FOR 5 MINUTES","CUP C-ONE"
+2,,"Breakfast",1,"1/0/1900",2,4,"HOME","MANDAZI","BOUGHT","BOUGHT","4 ANDAZI A"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","PLATE F-ONE"
+1,2,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","COOKING OIL,SALT, TOMATOES, ONION, WATER","COOKED FOR 15 MINUTES","PLATE D-ONE"
+1,2,"Lunch",1,"1/0/1900",4,5,"HOME","MBOGA ZA MABOGA","COCONUT CREAM,SALT, ONION, NYANYA","COOKED FOR 20 MINUTES","PLATE B-ONE"
+2,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","EMBE",,,"EMBE - C TWO EMBE"
+2,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","SODA PINEPLE","BOUGHT","BOUGHT",
+2,,"Supper",1,"1/0/1900",1,5,"HOME","VIAZI MVIRINGO","COOKING OIL,SALT, ONION, NYANYA WATER","COOKED FOR 40 MINUTES","PLATE B-ONE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

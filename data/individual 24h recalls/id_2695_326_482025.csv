@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MAJI, SUKARI, MDALASINI","COOKED FOR 30 MIN","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MKATE","ALINUNUA","ALINUNUA","2 BREAD A"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA WA MAHINDI, SEMBE, MAJI","COOKED FOR 40 MIN","1  PLATE D"
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA, KITUNGUU, MAFUTA YA KUPIKIA, CHUMVI","COOKED FOR 30MIN","1 SAURCER A"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, MAJI, MDALASINI","BOILED FOR 30 MIN","1 CUP C SHARED"
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, NAZI, KITUNGUU MAJI, CHUMVI","COOKED FOR 2HRS","1 SAURCER A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

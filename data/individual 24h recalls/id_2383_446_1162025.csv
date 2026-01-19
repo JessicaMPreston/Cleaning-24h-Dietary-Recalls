@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,1,"HOME","CHAI","SUKARI MDALASINI","BOILED FOR 15 MINUTES","CUP C- ONE"
+2,,"Breakfast",1,"1/0/1900",1,1,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI - B 3 MANDAZI"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","PLATE A -ONE"
+1,2,"Lunch",1,"1/0/1900",1,4,"HOME","MAHARAGE","NAZI SALT ONION,COOKING OIL","COOKED FOR 2 HOURS","SAURCER - B ONE"
+1,2,"Lunch",1,"1/0/1900",1,4,"HOME","SAMAKI FRIES","SALT COOKING OIL","FLIES FOR 30 MINUTES","10 FISHES FISH D"
+2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","EMBE",,,"EMBE D THREE EMBE"
+1,2,"Supper",1,"1/0/1900",1,5,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 30 MINUTES","PLATE F"
+1,2,"Supper",1,"1/0/1900",1,5,"HOME","MAHARAGE","NAZI ONION SALT COOKING OIL,","COOKED FOR TWO HOURS","ONE SAURCER - B ONE"
+1,2,"Supper",1,"1/0/1900",1,5,"HOME","SAMAKI",,"FLIES FOR 30 MINUTES","10 FISHES FISH D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

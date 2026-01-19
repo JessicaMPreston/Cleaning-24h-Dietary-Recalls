@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES SUGAR.","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","MKATE","BOUGHT","BOUGHT","5 BREAD B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","1 PLATE C"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAK","SAMAKI, TOMATOE ONION, COOKING OIL CARROTS, SALT","COOKED FOR 45 MINUTES","1 FISH A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 40 MINUTES","1 PLATE B"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MAHARAGE","MAHARAGE, ONION TOMATOE, COOKING OIL SALT.","COOKED FOR 40 MINUTES","1 SAURCER A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

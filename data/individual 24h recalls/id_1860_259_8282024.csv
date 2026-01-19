@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAI","MAJI, SUKARI, MAJANI, MDALASINI IRIKI","BOILING, TEN MINUTES","ONE CUP C"
+1,2,"Breakfast",1,"1/0/1900",3,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, FIFTEEN MINUTES.","PLATE F"
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, KITUNGUU NYANYA, CHUMVI, MAFUTA","FRYING, FIFTEEN MINUTES.","SAURCER D"
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, KITUNGUU, NYANYA, KAROTI, MAJI, MAFUTA","ROASTING, THIRTY MINUTES","THREE FISH D"
+2,,"Snack afternoon",1,"1/0/1900",3,3,"HOME","PAPAI","PAPAI","EATEN RAW",
+1,2,"Supper",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, SUKARI, MAJANI, MDALASINI IRIKI","BOILING, TEN MINUTES","ONE CUP C"
+1,2,"Supper",1,"1/0/1900",4,5,"HOME","VIAZI VITAMU","VIAZI VITAMU, MAJI, CHUMVI","BOILING, THIRTY MINUTES","SAME AS PLATE B OF CASSAVA"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

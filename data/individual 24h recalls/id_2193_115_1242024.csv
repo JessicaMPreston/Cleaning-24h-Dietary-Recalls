@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,3,"Breakfast",1,"1/0/1900",1,3,"HOME","TEA","TEA LEAVES, PILI PILI MANGA","BOILED FOR 15 MIN.","1 CUP C"
+1,3,"Breakfast",1,"1/0/1900",1,3,"HOME","MANDAZI","BOUGHT","BOUGHT.","3 ANDAZI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",2,"",,,"",,,,
+2,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","MANGO","EATEN RAW","EATEN RAW","FOUR EMBE C"
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 35 MIN","PLATE H"
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","KUNDE","KUNDE, ONION TOMATOE, COOKING OIL, SALT","COOKED FOR 1 HOUR.","SAME AS SAURCER C OF MAHARAGE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

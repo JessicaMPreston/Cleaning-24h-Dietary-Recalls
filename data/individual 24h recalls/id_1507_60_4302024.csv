@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,1,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","TANGAWIZI, SUGAR.","BOILED FOR 15 MIN.","1 CUP 2"
+1,1,"Breakfast",1,"1/0/1900",3,4,"HOME","CASSAVA","CASSAVA, SALT.","FRIED FOR 20MIN","5 CASSAVA A"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",3,2,"HOME","CHIPSY","BOUGHT","BOUGHT","2 PLATE A SHARED"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, SALT, COOKING OIL","COOKED FOR 20 MIN","1 SHARED PLATE A"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE,COOKING OIL,TOMATOE,SALT ONION.","COOKED FOR 1 HOUR","1 SAURCER D"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","SAMAKI","BOUGHT","BOUGHT","EACH. 4 FISH B NOT SHARED"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

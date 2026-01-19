@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, SUKARI, KARAFUU, TANGAWIZI,","BOILING, FIFTEEN MINUTES","ONE CUP C"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","THREE ANDAZI A"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, THIRTY MINUTES","PLATE D"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","DAGAA","DAGAA, MAFUTA, LIMAO, KITUNGUU NYANYA","ROASTING, TWENTY MINUTES","SAURCER D"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","MAZIWA MTINDI","MAZIWA MTINDI","EATEN RAW","200MLS"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",5,5,"HOME","UJI WA MCHELE","MCHELE, MAFUTA, MAJI, CHUMVI","BOILING, TWENTY MINUTES","ONE CUP A"
+2,,"Snack evening",1,"1/0/1900",4,5,"HOME","MIHOGO","MIHOGO","EATEN RAW, BOUGHT","SAURCER D"
+2,,"Snack evening",1,"1/0/1900",4,5,"HOME","KACHUMBARI","NYANYA, KITUNGUU KAROTI, HOHO, LIMAO","BOUGHT","THREE PIECES OF SAME SIZE AS PLATE B OF MAGIMBI"
+2,,"Night snack",2,"",,,"",,,,

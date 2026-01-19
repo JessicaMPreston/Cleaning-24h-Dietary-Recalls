@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MILK","MILK","BOILED FOR 15 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","1 SLACE OF BREAD"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","NDIZI","NDIZI,TOMATOE, ONION,COOKING OIL, SALT","COOKED FOR 40 MINUTES","1 PLATE B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

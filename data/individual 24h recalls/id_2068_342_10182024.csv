@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","SUPU ( GOAT MEAT)","GOAT MEAT, WATER, SALT","COOKED FOR 30 MINUTES","1 SOUP B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI ,","MAIZE FLOUR, WATER.","COOKED FOR 30 MINUTES.","1 PLATE D."
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","FISH, WATER, LEMON, SALT","BOILED FOR 30 MINUTES","7 FISH B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","IRISH POTATOES","IRISH POTATOES, TOMATO, ONION, COOKING OIL, WATER","COOKED FOR 1 HOUR","1 PLATE D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

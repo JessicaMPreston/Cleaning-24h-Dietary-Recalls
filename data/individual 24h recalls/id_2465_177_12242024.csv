@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,2,"HOME","CHICKEN SOUP","BOUGHT","BOUGHT","2 CHICKEN B"
+,,"Breakfast",1,"1/0/1900",4,2,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 40 MIN","1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","MCHICHA","MCHICHA, ONION, CARROTS, SALT, COOKING OIL","COOKED FOR 20 MIN","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,2,"HOME","WALI","RICE, SALT WATER, NAZI","BOILED FOR 1 HOUR","1 PLATE A"
+,,"Supper",1,"1/0/1900",3,2,"HOME","BEAN'S","BEAN'S, SALT, ONION, CAROT'S NAZI.","BOILED FOR 2HOURS","1 SAURCER B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

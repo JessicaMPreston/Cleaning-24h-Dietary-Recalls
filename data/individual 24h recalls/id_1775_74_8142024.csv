@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","WATER, SUGAR, MDALASINI.","BOILED FOR 20 MIN,","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","BREAD","BOUGHT.","BOUGHT","2 BREAD B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 35 MIN,","1 PLATE B"
+,,"Lunch",1,"1/0/1900",2,3,"HOME","FISH","FISH, ONION, TOMATO, CAROTS, SALT, COCONUT OIL","COOKED FOR 40 MIN","3 FISH B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","MILK","MILK AND SUGAR","BOILED FOR 10 MIN","1 CUP B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

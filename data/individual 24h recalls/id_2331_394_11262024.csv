@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,5,"HOME","UJI","MAIZE FLOUR SALT, OIL","BOILED FOR 30 MINUTES","1 CUP C"
+2,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","1/2 PLATE D"
+1,4,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","FISH, SALT COOKING OIL LEMON","FRIED FOR 20 MINUTES","1 FISH B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,6,"Supper",1,"1/0/1900",5,5,"HOME","(CHIPS) IRISH POTATOES","POTATOES COOKING OIL SALT","FRIED FOR 20 MINUTES","PLATE C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

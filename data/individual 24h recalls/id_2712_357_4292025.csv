@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","ILIKI, MDALASINI, SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","6 ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 45 MINUTES","1 UGALI PLATE A"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","SAMAKI, TOMATOE, ONION, COCONUT JUICE","COOKED FOR 20 MINUTES","1 SAMAKI A"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","TEMBERE","SALT, TEMBERE, ONION","COOKED FOR 20 MINUTES","1 SAURCER A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES,SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MANDAZI","BOUGHT","BOUGHT","5 ANDAZI B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

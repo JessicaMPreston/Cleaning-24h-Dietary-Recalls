@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","WATER MDALASINI SUGAR","BOILED FOR 10 MINUTES","CUP - ONE CUP"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MKATE","BOUGHT",,"TWO SLICE-BREAD-B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","WATER MAIZE FLOUR SEMBE","COOKED FOR 45 MINUTES","PLATE-D- HALF PLATE"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","COOKING OIL ONION SALT TOMATOES WATER","COOKED FOR 25 MINUTES","SAURCER-D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","SALT CARROT WATER ONION COOKING OIL",,"SAURCER-B"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MANDAZI","BOUGHT",,"TWO MAANDAZI ANDAZI A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

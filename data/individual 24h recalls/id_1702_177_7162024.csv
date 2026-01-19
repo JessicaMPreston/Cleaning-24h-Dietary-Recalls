@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAI","TEA LEAF, SUGAR.","BOILING FOR 20 MINUTES","CUP C."
+2,,"Breakfast",1,"1/0/1900",5,4,"HOME","VITUMBUA","RICE FLOUR, SUGAR, COOKING OIL","BOUGHT","VITUMBUA A 3"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","UGALI SHARED PLATE E"
+1,2,"Lunch",1,"1/0/1900",5,4,"HOME","NYAMA","CHICKEN, TOMATO, ONION, SALT, COOKING OIL","COOKING FOR 1 HOUR","CHICKEN A"
+1,2,"Lunch",1,"1/0/1900",5,4,"HOME","TEMBELE","TEMBELE, ONION, SALT","COOKING FOR 30 MINUTES","SAURCER C"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","WALI","RICE, COCONUT MILK, COOKING OIL, SALT","COOKING FOR 1 HOUR","SHARED PLATE E"
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","MAHARAGE","BEANS, ONION, COOKING OIL, SALT.","COOKING FOR 2 HOURS","SAURCER A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

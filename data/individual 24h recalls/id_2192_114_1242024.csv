@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,3,"Breakfast",1,"1/0/1900",2,5,"HOME","CHAI","MAJI, SUKARI MAJANI","BOILING, TEN MINUTES","CUP C- ONE"
+1,3,"Breakfast",1,"1/0/1900",2,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","ONE ANDAZI C"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILING, TWENTY MINUTES","PLATE B"
+1,3,"Lunch",1,"1/0/1900",2,5,"HOME","DAGAA","DAGAA, CHUMVI NYANYA, KITUNGUU MAFUTA, NGOGWE MAJI","ROAST, TWENTY MINUTES","SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILING, TWENTY MINUTES","PLATE B"
+1,3,"Supper",1,"1/0/1900",3,5,"HOME","BAMIA NA MAJANI YA MABOGA (MLENDA)","BAMIA, MAJANI YA MABOGA, CHUMVI, MAJI","BOILING, FIFTEEN MINUTES","SAME AS SAURCER C OF MAJANI YA MABOGA"
+2,,"Snack evening",1,"1/0/1900",2,2,"HOME","EMBE","EMBE","EATEN RAW","EMBE C - ONE"
+2,,"Night snack",2,"",,,"",,,,

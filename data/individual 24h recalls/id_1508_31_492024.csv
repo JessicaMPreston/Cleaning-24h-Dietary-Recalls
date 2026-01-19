@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","MILK","BOILED MILK","BOILED FOR 20MINUTES,","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","BREAD","BOUGHT","BOUGHT","2 BREAD -A"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR & WATER","COOKED FOR 30MINUTES","SHARED UGALI PLATE - A"
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","MCHUNGA","MCHUNGA, NAZI, ONION, TOMATO, OIL","COOKED FOR 30MINUTES","SHARED MCHUNGA SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,3,"HOME","NDIZI","BANANA'S, OIL, TOMATO, ONIONS, SALT","COOKED FOR 40MINUTES","NDIZI PLATE - C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

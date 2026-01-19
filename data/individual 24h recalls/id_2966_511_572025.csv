@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","MDALASINI, ILIKI KARAFUU, SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","HALF CAKE","BOUGHT","BOUGHT","CAKE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 PLATE D."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, NAZI, TOMATOE, ONION, COOKING OIL","COOKED FOR 30 MINUTES","1 FISH A"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, CARROT HOHO, NAZI SALT","COOKED FOR 1 HOUR.","1 SAURCER A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL SALT","COOKED FOR 30 MINUTES","1 PLATE C"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, TOMATOE ONION, COOKING OIL SALT","COOKED FOR 1 HOUR.","1 SAURCER A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,1,"HOME","TEA","WATER, IRIKI, MDALASINI.","BOILED 15 MINUTES.","CUP C - ONE CUP"
+,,"Breakfast",1,"1/0/1900",2,1,"HOME","MANDAZI","BOUGHT","BOUGHT.","CASSAVA B - ONE CASSAVA. ANDAZI A TWO SLICE"
+,,"Morning snack",1,"1/0/1900",1,1,"HOME","ORANGE","GOT FROM NEIGHBOUR",,"ONE ORANGE PLATE A"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED 30 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MAHARAGE","WATER, ONION, SALT, COCONUT CREAM","COOKED ONE AND HALF HOUR","SAURCER C"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHICHA","COOKING OIL, ONION, TOMATOES, SALT","FRIED 10 MINUTES","SAURCER D"
+,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","FENESI","GOT FROM NEIGHBOUR",,"PLATE C"
+,,"Supper",1,"1/0/1900",1,2,"HOME","TEA","WATER, IRIKI, MDALASINI","BOILED 15 MINUTES","CUP C - HALF CUP"
+,,"Supper",1,"1/0/1900",1,2,"HOME","MAANDAZI","BOUGHT","N/A","ANDAZI A TWO SLICE."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

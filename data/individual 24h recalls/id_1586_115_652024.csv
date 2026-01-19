@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","UJI","WATER SALT FLOUR","BOILED  - 30 MINUTES.","CUP C - ONE CUP"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","WATER, MCHAICHAI,SUGAR","BOILED - 15 MINUTES.","CUP C - HALF CUP"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","CASSAVA","WATER, SALT, CASSAVA","BOILED  - 30 MINUTES","ONE PIECE OF CASSAVA"
+2,,"Morning snack",1,"1/0/1900",3,3,"HOME","JUICE YA UKWAJU","BOUGHT",,"ONE BOTTLE 300MLS"
+2,,"Lunch",2,"",,,"",,,,
+2,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",5,4,"HOME","UGALI","CASSAVA FLOUR. SALT","COOKED 45 MINUTES","PLATE H - QUARTER PLATE"
+1,4,"Supper",1,"1/0/1900",5,4,"HOME","DAGAA","LIMAO, COOKING OIL.","FRIED 30 MINUTES","SAURCER - D HALF PLATE."
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

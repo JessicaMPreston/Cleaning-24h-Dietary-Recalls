@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","TEA LEAVES SUGAR, WATER","BOILED FOR 20 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","MANDAZI","BOUGHT","BOUGHT","5 MANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN","1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,2,"HOME","SAMAKI","FISH, ONION CARROT, SALT WATER.","BOILED FOR 20 MIN","3 FISH B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","NDIZI","NDIZI, ONION CAROT'S HOHO SALT, TOMATO, COOKING OIL, WATER","COOKED FOR 1 HOUR","1 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

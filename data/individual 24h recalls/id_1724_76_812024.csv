@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","TEA","TEA LEAVES, SUGAR, MDALASINI","BOILED FOR 05 MIN.","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","MANDAZI","BOUGHT","BOUGHT.","2 ANDAZI A"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20MIN,","SHARED 1 PLATE C"
+1,2,"Lunch",1,"1/0/1900",2,3,"HOME","SPINACHI","SPINACHI, ONION TOMATOE, SALT","COOKED FOR 15MIN","SHARED 1 SAURCER B-MAJANI MABOGA COMPARED TO SPINACH"
+1,2,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","SAMAKI, SALT LEMON.","FRIED FOR 10 MIN","1 FISH B-NOT-SHARED."
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","SHARED 1 PLATE C"
+1,2,"Supper",1,"1/0/1900",2,4,"HOME","MATEMBERE","MATEMBERE, OIL, SALT, ONION,","COOKED FOR 10 MIN,","SHARED 1 SAURCER A"
+1,2,"Supper",1,"1/0/1900",2,4,"HOME","DAGAA","DAGAA, COCONUT JUICE, SALT, ONION","COOKED FOR 20MIN","SHARED 1 SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

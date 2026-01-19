@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","SUGAR, TEA LEAVES","BOILED FOR 10 MIN","1 CUP B"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","ANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,2,"HOME","MCHUNGA","MCHUNGA,  ONION, COOKING OIL","COOKED FOR 10 MIN","1 SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,2,"HOME","TEA","SUGAR, TEA LEAVES","BOILED FOR 10 MIN","1 CUP B"
+,,"Supper",1,"1/0/1900",3,2,"HOME","SKONZI","BOUGHT","BOUGHT","4 SKONZI"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

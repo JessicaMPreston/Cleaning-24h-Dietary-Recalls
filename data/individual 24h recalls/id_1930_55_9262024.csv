@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,5,"HOME","CHAI","MDALASINI,SUGAR","BOILED FOR 10 MINUTES,","CUP C-ONE CUP"
+2,,"Breakfast",1,"1/0/1900",2,5,"HOME","MAANDAZI","HAMIRA, SUKARI, COOKING OIL","FRIED FOR 45 MINUTES,","ANDAZI A, 4 MAANDAZI,"
+2,,"Breakfast",1,"1/0/1900",2,5,"HOME","BOILED BANANA","SALT, WATER","BOILED FOR 30 MINUTES","PLATE -D"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",4,5,"HOME","WALI","COOKING OIL, SALT","COOKED FOR 1 HOUR","PLATE -E"
+1,2,"Lunch",1,"1/0/1900",4,5,"HOME","NYAMA YA KUKU","CARROTE SALT, PILIPILI HOHO, KITUNGUU, NYANYA, WATER","COOKING FOR 1 HOUR","SAURCER-B-MCHUZI, CHICKEN B-TWO PIECES"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",1,4,"HOME","CHAI","MDALASINI, SUGAR","BOILED FOR 10 MINUTES","CUP-C-ONE-CUP"
+2,,"Supper",1,"1/0/1900",1,4,"HOME","MAANDAZI","COOKING OIL, SUGAR, HAMIRA, UNGA WA NGANO","FRIED FOR 1 HOUR","ANDAZI-A THREE MAANDAZI"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

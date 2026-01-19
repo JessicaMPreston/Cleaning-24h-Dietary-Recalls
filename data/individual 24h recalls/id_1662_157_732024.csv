@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",4,3,"HOME","MILK","MILK, MAJANI YA CHAIM SUKARI.","BOILING, PREPARED BY MOTHER IN LAW.","CUP C - ONE AND HALF CUP"
+1,2,"Breakfast",1,"1/0/1900",4,3,"HOME","BREAD","BOUGHT","BOUGHT","BREAD A - THREE PIECES"
+2,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, DAKIKA KUMI NA TANO","PLATE E."
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, NYANYA, KITUNGUU, MAFUTA, MAJI","ROAST, FOUTY MINUTES","FISH B - ONE PIECE."
+2,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","MIWA, PARACHICHI","MUWA, PARACHICHI","EATEN RAW. EATEN RAW","PLATE D. PORTION A."
+1,4,"Supper",1,"1/0/1900",5,4,"HOME","CHAI","SUKARI, MAJI, IRIKI, MDALASINI","BOILING, 30 MINUTES","CUP C - ONE CUP"
+1,4,"Supper",1,"1/0/1900",5,4,"HOME","KALIMATI","BOUGHT","BOUGHT","THREE KALIMATI"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

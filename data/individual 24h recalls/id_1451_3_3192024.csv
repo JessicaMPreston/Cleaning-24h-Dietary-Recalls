@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","UJI","UNGA WA SEMBE, MAJI - SUKARI","BOILED FOR NUSU SAA (DAKIKA THELATHINI)","500mls"
+,,"Morning snack",1,"1/0/1900",2,1,"SHOP","AFYA SODA","-","-","350mls"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","MAKANDE","MAHINDI, MAKANDE, CHUMVI, NAZI, KITUNGUU","MASAA MAWILI","MAKANDE PLATE B"
+,,"Snack afternoon",1,"1/0/1900",2,1,"HOME","CHUNGWA","-","-","ORANGE A"
+1,2,"Supper",1,"1/0/1900",4,3,"HOME","MAKANDE","MAFUTA, CHUMBI, MAJI, NAZI, MAHINDI, MAHARAGE","MASAA MAWILI","PLATE A MAKANDE"
+1,2,"Supper",1,"1/0/1900",4,3,"HOME","CHAI","SUKARI, MAJI, MAJANI YA CHAI","DAKIKA 15","250MLS CUP C"
+1,2,"Supper",1,"1/0/1900",4,3,"HOME","CHAPATI","BOUGHT","BOUGHT","CHAPATI PLATE D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

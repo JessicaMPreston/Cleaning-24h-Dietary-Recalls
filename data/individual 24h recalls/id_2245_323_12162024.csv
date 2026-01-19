@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","TEA LEAF SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","ANDAZI","BOUGHT","BOUGHT","4 ANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MATEMBELE","TEMBELE TOMATO SALT, OIL","COOKED FOR 15 MINUTES","SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",5,4,"HOME","WALI","RICE, SALT OIL","COOKED FOR 1 HOUR","PLATE D"
+,,"Supper",1,"1/0/1900",5,4,"HOME","MAHARAGE","BEANS, CARROT SALT HOHO, OIL, ONION","COOKED FOR 1 HOUR","SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

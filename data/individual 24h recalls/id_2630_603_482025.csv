@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","CHAI, MAJI, SUKARI MDALASINI","BOILED FOR 10 MINUTES","ONE CUP C."
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAPATI","BOUGHT","BOUGHT","ONE CHAPATI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","PILAU","BOUGHT","BOUGHT","PILAU PLATE C"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","KACHUMBARI","BOUGHT","BOUGHT","KACHUMBARI SAURCER B"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","MAHARAGE","BOUGHT","BOUGHT","MAHARAGE SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","CHIPS","BOUGHT","BOUGHT","SHARED CHIPSI PLATE A"
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","KUKU","BOUGHT","BOUGHT","SHARED CHICKEN A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

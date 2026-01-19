@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 10 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI"
+,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE C SHARED."
+1,2,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","MCHICHA, ONION. SALT","COOKED FOR 10 MIN","1 SAURCER B SHARED."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,2,"HOME","JUICE","BOUGHT","BOUGHT","2 MIKATE"
+,,"Supper",1,"1/0/1900",2,2,"HOME","MKATE","BOUGHT","BOUGHT",
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

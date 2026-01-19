@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","NDIZI ZA KUCHEMSHA","NDIZI, CHUMVI MAJI","BOILING, PREPARED BY HER DAUGHTER","PLATE D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA MAJI","BOILING COOKED BY HER DAUGHTER","ONE FOURTH OF PLATE H"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MAHARAGE","MAHARAGE, HOHO, NAZI, CHUMVI, KAROTI, CHUMVI, MAJI","BOILING, COOKED BY HER DAUGHTER","SAUCER D"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, KITUNGUU, NYANYA, MAFUTA","FRYING, COOKED BY HER DAUGHTER","SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","UNGA WA DONA MAJI","BOILING, COOKING BY HER DAUGHTER","ONE FOURTH OF PLATE H"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MSHIKAKI","BOUGHT","BOUGHT","PLATE B"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA, CHUMVI NYANYA, MAFUTA KITUNGUU","BOILING AND FRYING, COOKED BY HER DAUGHTER","SAURCER B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

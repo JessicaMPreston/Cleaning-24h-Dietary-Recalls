@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, WATER, SUGAR,","BOILED FOR 20 MIN,","1 CUP B"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","WALI","RICE, WATER, COCONUT OIL","LEFT OVER KIPORO","1 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR (DONA) WATER","COOKED FOR 30MIN","1 PLATE C"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","FISH,","FISH, SALT COOKING OIL.","FRIED FISH FOR 10MIN","3 FISH-B"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","KACHUMBARI","ONION, TOMATOES, SALT, TANGO HOHO.","PREPARED FOR 10 MIN","1 PLATE -B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR DONA, WATER","COOKED FOR 30MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, COOKING OIL, ONION, TOMATOES, SALT","COOKED FOR 40 MIN","1 SAURCER C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

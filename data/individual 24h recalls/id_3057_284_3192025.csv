@@ -1,0 +1,15 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","FRESH COWS MILK","COWS MILK","BOILED FOR TEN MINUTES","CUP C- ONE"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","MAGIMBI","SALT","COOKED FOR 30 MINUTES","PLATE A ONE"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME",,,,"4 PIECES"
+2,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI",,,
+1,4,"Lunch",1,"1/0/1900",2,5,"HOME","SAMAKI","MAIZE FLOUR SEMBE","COOKED FOR 35 MINUTES","PLATE E-ONE"
+1,4,"Lunch",1,"1/0/1900",2,5,"HOME",,"VIAZI MVIRINGO, ONION, NAZI, NYANYA,SALT","COOKED FOR 20 MINUTES","THREE FISH, FISH C"
+1,4,"Lunch",1,"1/0/1900",2,5,"HOME",,,,"MCHUZI SAURCER D ONE"
+2,0,"Snack afternoon",2,"",,,"",,,,
+2,0,"Supper",1,"1/0/1900",3,5,"HOME","WALI","COOKING OIL SALT","COOKED FOR ONE HOUR","PLATE D-ONE"
+2,0,"Supper",1,"1/0/1900",3,5,"HOME","MAHARAGE","NAZI ONION COOKING OIL SALT","COOKED FOR THREE HOUR","SAURCER C ONE"
+2,0,"Supper",1,"1/0/1900",3,5,"HOME","NDIZI MBIVU",,,"PLATE -A ONE NDIZI MBIVU"
+2,0,"Snack evening",2,"",,,"",,,,
+2,0,"Night snack",2,"",,,"",,,,

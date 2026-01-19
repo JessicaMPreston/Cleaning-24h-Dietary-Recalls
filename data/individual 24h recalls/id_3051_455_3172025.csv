@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",2,"",,,"",,,,
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 10 MINUTES","1 PLATE D"
+2,,"Lunch",1,"1/0/1900",3,2,"HOME","DAGAA","DAGAA, SALT, OIL TOMATOES","COOKED FOR 15 MINUTES","1 SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 15 MINUTES","1 PLATE C SHARED"
+1,2,"Supper",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, OIL, TOMATOES SALT","COOKED FOR 17 MINUTES","1 SAURCER B SHARED"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

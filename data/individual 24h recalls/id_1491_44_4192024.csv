@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","MILK, SUGAR, WATER AND TEA LEAVES.","BOILED FOR 15 MINUTE.","1 CUP- B"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CASSAVA","CASSAVA AND SALT AND WATER","BOILED FOR 30 MINUTE","1 PLATE C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR & WATER","COOKED FOR 20 MINUTES","1 PLATE - B."
+,,"Lunch",1,"1/0/1900",2,3,"HOME","MCHUNGA","MCHUNGA, SALT, TOMATOES, ONION, & COOKING OIL","COOKED FOR 20 MINUTES","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","RICE","RICE, WATER, AND SALT","BOILED FOR 40 MINUTES","1 PLATE - B"
+,,"Supper",1,"1/0/1900",4,4,"HOME","BEANS","BEANS, WATER, COCONUT & SALT","COOKED FOR 50 MINUTES.","1 PLATE - B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

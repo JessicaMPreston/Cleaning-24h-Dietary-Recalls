@@ -1,0 +1,8 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR WATER MILK, SUGAR","BOILED FOR 20 MIN","1 CUP B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR SUGAR, WATER MILK","BOILED FOR 20 MIN","1 CUP C."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR SUGAR, WATER MILK","BOILED FOR 20 MIN","1 CUP B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

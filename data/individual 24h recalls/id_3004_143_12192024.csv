@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","TEA LEAF, SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI","BOUGHT","BOUGHT","1 CHAPATI D"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","MAHARAGE","BOUGHT","BOUGHT","SAURCER B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 10 MINUTES","UGALI PLATE D"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","MAHARAGE","BEANS, ONION, SALT, COCONUT","COOKED FOR 1 HOUR","SAUECER A"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","TEMBELE","TEMBELE, OIL, ONION, SALT","COOKED FOR 20 MINUTES","SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",5,4,"HOME","SAMAKI","FISH, ONION, TOMATO, SALT, OIL","FRIED THEN COOKED FOR 20 MINUTES","1 FISH B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

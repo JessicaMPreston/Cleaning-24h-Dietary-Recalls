@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOSPITAL","MILK","MILK & SUGAR","BOUGHT","1 CUP C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOSPITAL","NDIZI MIXED WITH MEAT","NDIZI, SALT, WATER, ONION, TOMATOES, ROSTED MEAT WITH BANANAS","BOUGHT","1 PLATE B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,3,"HOSPITAL","BAGIA","BOUGHT","BOUGHT","2 BAGIA"
+,,"Supper",1,"1/0/1900",4,3,"HOSPITAL","MILK","BOUGHT","BOUGHT","1 CUP C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

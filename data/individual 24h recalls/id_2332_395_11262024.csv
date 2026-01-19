@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","UJI","MAIZE FLOUR WATER, COOKING OIL","BOILED FOR 1 HOUR","1 CUP B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 1 HOUR.","1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,2,"HOME","BEANS","BEEN'S ONION COCONUT OIL. SALT, WATER","BOILED FOR 2 HOURS.","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR WATER, COOKING OIL, SALT","BOILED FOR 1 HOUR","1 CUP B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

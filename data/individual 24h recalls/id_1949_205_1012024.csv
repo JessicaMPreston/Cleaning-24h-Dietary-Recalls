@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","SUKARI, MDALASINI, WATER,","BOILED FOR TEN MINUTES,","CUP-C, TWO CUPS"
+2,,"Breakfast",1,"1/0/1900",4,5,"HOME","KEKI","BOUGHT",,"KEKI B, THREE KEKI"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE,","COOKED FOR 35 MINUTES","PLATE -D"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI WAKAVU","COOKING OIL, ONION, SALT, NYANYA, BAMIA","COOKED FOR 30 MINUTES","FISH-B, ONE-FISH"
+2,,"Snack afternoon",1,"1/0/1900",4,4,"HOME","JUICE AFYA","BOUGHT",,"300MLS"
+1,4,"Supper",1,"1/0/1900",2,5,"HOME","WALI","COOKING OIL ILIKI SALT WATER","COOKED FOR 1HOUR","PLATE E"
+1,4,"Supper",1,"1/0/1900",2,5,"HOME","MAHARAGE","COOKING OIL, SALT, ONION","COOKED FOR 1 HOUR","SAURCER -C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

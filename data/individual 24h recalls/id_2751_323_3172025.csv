@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME PLACE","CHAI","MAJI, IRIKI MDALASINI, SUKARI","BOILING, TEN MINUTES","ONE CUP C"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME PLACE","VITUMBUA","BOUGHT","BOUGHT","SIX VITUMBUA B"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA MAJI","BOILING, FIFTEEN MINUTES","PLATE H"
+1,3,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA NYANYA, KITUNGUU CHUMVI, MAJI","ROASTING, FIFTEEN MINUTES","TWO FISH C"
+2,,"Snack afternoon",1,"1/0/1900",4,5,"HOME","MAEMBE","MAEMBE","EATEN RAW","THREE EMBE C"
+1,2,"Supper",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA DONA MAJI","BOILING, FIFTEEN MINUTES","PLATE H"
+1,2,"Supper",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, MAFUTA NYANYA, KITUNGUU, CHUMVI, MAJI","ROASTING, COOKED IN THE AFTERNOON","TWO FISH C"
+1,2,"Supper",1,"1/0/1900",3,5,"HOME","CHINESE","CHINESE, CHUMVI KITUNGUU, MAFUTA","FRYING, EIGHT MINUTES","SAME AS SAURCER D OF MCHICHA"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

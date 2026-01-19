@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MDALASINI GINGER SUGAR WATER","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","ANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","1 PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MAHARAGE","BEANS, OIL COCONUT, SALT ONION","COOKED FOR 1 HOUR","1 SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 10 MINUTES","1 PLATE D"
+,,"Supper",1,"1/0/1900",4,5,"HOME","BEEF","BEEF, ONION TOMATO, SALT WATER","COOKED FOR 1 HOUR","1 SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

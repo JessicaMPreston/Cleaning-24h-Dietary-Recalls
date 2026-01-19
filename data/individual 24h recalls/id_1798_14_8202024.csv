@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES SUGAR, MCHAICHAI","BOILED FOR 10 MIN","1 CUP B"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MAKANDE","MAIZE, BEAN, COOKING OIL. COCONUT OIL","BOILED FOR 2 HOUR'S.","1 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20MIN,","1 PLATE C,"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHICHA","MCHICHA, COOKING OIL, SALT, ONION","COOKED FOR 15MIN","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MCHICHA","MCHICHA, ONION SALT, COOKING OIL","COOKED FOR 15MIN","1 SAURCER C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

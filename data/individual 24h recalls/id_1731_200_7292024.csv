@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",1,2,"HOME","NDIZI MBIVU",,,"ONE PIECE"
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","CHAI","TANGAWIZI, SUGAR, WATER, MCHAICHAI.","BOILED FOR 20 MINUTES.","CUP C - ONE CUP. ."
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","FRIED CASSAVA","BOUGHT.",,"CASSAVA B 4 PIECES"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","CHIPS MAYAI","VIAZI MVIRINGO, MAYAI, SALT, COOKING OIL.","FRIED FOR ONE HOUR","PLATE - A"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","CHUNGWA","BOUGHT",,"ORANGE A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",1,4,"HOME","WALI","MCHELE, WATER, SALT, COOKING OIL","COOKED FOR ONE HOUR","PLATE - D"
+,,"Supper",1,"1/0/1900",1,4,"HOME","SAMAKI","NYANYA, HOHO, SALT, CARROT, ONION, COOKING OIL.","COOKED FOR HALF HOUR","FISH - B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

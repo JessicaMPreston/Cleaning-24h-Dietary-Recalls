@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","CHAI, MAJI, SUKARI","BOILED FOR 15 MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","BOUGHT","BOUGHT","3 ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA SEMBE MAJI","COOKED FOR 45 MINUTES","UGALI PLATE D"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHICHA","MCHICHA, MAFUTA NYANYA, KITUNGUU, CHUMVI","COOKED FOR 15 MINUTES","MCHICHA ONE SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 45 MINUTES","UGALI PLATE D"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE, NAZI KITUNGUU, CHUMVI","COOKED FOR 1 HOUR","MAHARAGE OE SAURCER D."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

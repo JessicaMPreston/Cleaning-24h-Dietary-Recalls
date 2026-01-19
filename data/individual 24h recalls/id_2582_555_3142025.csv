@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,2,"HOME","PORRIDGE","SUGAR, MAIZE FLOUR, WATER","COOKED FOR 26 MINUTES","1 CUP B"
+2,,"Morning snack",2,"",,,"",,,,
+1,5,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 25 MINUTES","1 PLATE E SHARED"
+1,5,"Lunch",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, SALT COCONUT, ONION","COOKED FOR 1 HOUR, 5 MINUTES","1 SAURCER C SHARED"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,5,"Supper",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","1 PLATE E SHARED"
+1,5,"Supper",1,"1/0/1900",3,2,"HOME","DAGAA","DAGAA, SALT, ONION TOMATOES, COOKING OIL","COOKED FOR 17 MINUTES","1 SAURCER SHARED D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","MAJANI YA CHAI MCHAICHAI","BOILED FOR 15 MINUTES,","CUP B-ONE CUP"
+2,,"Breakfast",1,"1/0/1900",2,4,"HOME","KEKI","BOUGHT",,"THREE KEKI, CAKE -C"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAJI, MAIZE FLOUR SEMBE","COOKED FOR 45 MINUTES","PLATE F"
+1,3,"Lunch",1,"1/0/1900",2,4,"HOME","MLENDA","BAMIA, SALT, MAJANI YA MABOGA, PAKING POWDER, NYANYA CHUNGU,","COOKED FOR 20 MINUTES","MLENDA AS MAJANI YA MABOGA-A,"
+1,3,"Lunch",1,"1/0/1900",2,4,"HOME","FRIED FISH","BOUGHT",,"FISH A, THREE FISHES"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE","COOKED FOR 45 MINUTES","PLATE -F"
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","FRIED FISH","BOUGHT",,"FISH A THREE FISH"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

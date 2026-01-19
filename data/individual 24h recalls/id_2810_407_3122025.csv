@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MCHAICHAI, MDALASINI SUGAR.","BOILED FOR 05 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","3 BREAD B"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",3,4,"HOME","MAZIWA MTINDI","BOUGHT","BOUGHT","1 CUP C"
+1,1,"Lunch",1,"1/0/1900",3,4,"HOME","MATEMBERE","MATEMBERE, COOKING OIL, ONION SALT","COOKED FOR 10 MINUTES","SHARED 1 SAURCER B"
+1,1,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE C"
+,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","SHARED 1 PLATE C"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, NAZI, COOKING OIL, ONION, TOMATOE","COOKED FOR 35 MINUTES","2 FISH D"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","MAZIWA","BOUGHT","BOUGHT","1 CUP C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

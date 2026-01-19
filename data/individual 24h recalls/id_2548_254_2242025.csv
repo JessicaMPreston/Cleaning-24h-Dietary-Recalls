@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","UJI","KARANGA, MCHELE UNGA WA MAHINDI, MAJI, MAHINDI YA NJANO","COOKED 20 MIN","1 CUP B"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MKATE","BOUGHT","BOUGHT","2 BREAD A"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","MAJI UNGA WA MAHINDI","COOKED 40 MIN","1 PLATE C"
+1,2,"Lunch",1,"1/0/1900",2,3,"HOME","DAGAA","DAGAA, MAFUTA YA KUPIKIA, KITUNGUU, NYANYA","COOKED 30MIN","1 SAURCER C"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",2,3,"HOME","WALI","MCHELE, IRIKI, MAFUTA YA KUPIKIA,MAJI, VITUNGUU","COOKED 30 MIN","1 PLATE C"
+2,,"Supper",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, VITUNGUU, MAJI, KAROTI, HOHO, CHUMVI, MAFUTA YA KUPIKIA","COOKED 3 HRS.","1 SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,4,"HOME","CHAI","MAJANI YA CHAI, SUKARI.","BOILED FOR TEN MINUTES.","CUP B - ONE"
+2,,"Breakfast",1,"1/0/1900",1,4,"HOME","VITUMBUA","BOUGHT","BOUGHT","VITUMBUA - A, FOUR VITUMBUA"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",1,4,"HOME","WALI,","WATER, SALT, COOKING OIL.","COOKED FOR 30 MINUTES.","PLATE - E ONE."
+1,1,"Lunch",1,"1/0/1900",1,4,"HOME","MAHARAGE","BOUGHT","BOUGHT","SAURCER C - ONE PLATE"
+2,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","NANASI","BOUGHT","BOUGHT","PORTION B 4 PIECES"
+2,,"Supper",1,"1/0/1900",1,4,"HOME","VIAZI MVIRINGO","SALT, MAJI. MAIZE FLOUR SEMBE, SUKARI, SALT, COOKING OIL","COOKED FOR TWENTY MINUTES","PLATE - C, ONE PLATE"
+2,,"Supper",1,"1/0/1900",1,4,"HOME","UJI",,"COOKED FOR 20 MINUTES","CUP C - ONE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

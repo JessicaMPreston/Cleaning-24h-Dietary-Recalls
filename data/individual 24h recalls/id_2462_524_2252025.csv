@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","BEEF SOUP","BOUGHT","BOUGHT","1 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMBUSA","BOUGHT","BOUGHT","5 SAMBUSA,"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","PASSION JUICE","BOUGHT","BOUGHT","300 MLS  PASSION JUICE"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MAHARAGE","MAHARAGE, ONION TOMATOE, SALT COOKING OIL","COOKED FOR 1 HOUR.","1 SAURCER C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MCHUNGA","MCHUNGA, ONION, SALT","COOKED FOR 20 MIN.","1 SAURCER A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

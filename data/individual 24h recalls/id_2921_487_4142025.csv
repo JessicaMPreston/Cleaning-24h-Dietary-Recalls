@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",2,"",,,"",,,,
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","SARDINES TOMATO, ONION OIL, SALT","COOKED FOR 20 MINUTES","SAURCER C"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA OIL, SALT","COOKED FOR 10 MINUTES","SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",4,5,"HOME","DAGAA","SARDINES OIL, ONION TOMATO, SALT","COOKED FOR 30 MINUTES","SAURCER C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

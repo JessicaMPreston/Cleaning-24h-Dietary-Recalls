@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","BLACK TEA","WATER, CINNAMON SUGAR","BOILING 1 HOUR,","CUP C(250ML)"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","BREAD 3 PCS","BOUGHT","BOUGHT","PLATE B 3 PIECES"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","RICE","COCONUT/RICE/SALT","COOKING 30 MIN","PLATE E"
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","BEANS","BEANS/COCONUT/SALT","COOKING 3 HOURS","PLATE C"
+2,,"Snack afternoon",1,"1/0/1900",3,4,"HOME","BANANA, SODA","BOUGHT/NA","BOUGHT BOUGHT/NA","MEDIUM SIZE 2 BANANA, BOTTLE 300MLS"
+2,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","WATER, MAIZE FLOUR","COOKING 3MIN","PLATE D"
+2,,"Supper",1,"1/0/1900",3,3,"HOME","CHINESE","OIL, ONION, TOMATO","COOKING 10MIN","CAMPARED TO MCHICHA PLATE D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

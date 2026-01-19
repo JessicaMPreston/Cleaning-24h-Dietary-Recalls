@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",2,"",,,"",,,,
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","MAKANDE","MAIZE, BEANS, COCONUT MILK, COOKING OIL, SALT","COOKING FOR 3 HOURS.","PLATE D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","MAKANDE","MAIZE, BEANS, SALT, COCONUT OIL","COOKING FOR 3 HOURS","PLATE A"
+,,"Supper",1,"1/0/1900",2,4,"HOME","CHIPS MAYAI","POTATOES, COOKING OIL, EGGS","BOUGHT","PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

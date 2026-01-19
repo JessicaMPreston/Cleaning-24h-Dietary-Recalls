@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MAJI, MDALASINI SUKARI","BOILED FOR 5 MIN","1 CUP C"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","KACHOLI","ALINUNUA","ALINUNUA","1 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 15 MIN","1 SHARED PLATE F"
+1,2,"Lunch",1,"1/0/1900",1,4,"HOME","DAGAA","DAGAA, MAFUTA YA KUPIKIA, KITUNGUU MAJI, CHUMVI","COOKED FOR 4 MIN","SHARED"
+1,2,"Lunch",1,"1/0/1900",1,4,"HOME","MLENDA","BAMIA, NYANYA CHUNGU, MAGADI CHUMVI, MAJANI YA MABOGA","COOKED FOR 10 MIN","SHARED 1 SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",2,4,"HOME","WALI","MCHELE, MAJI, MAFUTA YA KUPIKIA CHUMVI","COOKED FOR 30 MIN","SHARED 1 PLATE F."
+1,2,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE KITUNGUU MAJI, NAZI CHUMVI","COOKED FOR 1:30 MIN","SHARED 1 SAURCER B."
+1,2,"Supper",1,"1/0/1900",2,4,"HOME","MCHICHA","MCHICHA, CHUMVI KITUNGUU MAJI, MAFUTA YA KUPIKIA","COOKED FOR 8 MIN","SHARED 1 SAURCER A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

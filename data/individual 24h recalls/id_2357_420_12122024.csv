@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,2,"HOME","BANANA FLIED","BOUGHT","BOUGHT","PLATE D- ONE"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",2,4,"HOTEL","UGALI","BOUGHT","BOUGHT","PLATE D-ONE"
+2,,"Lunch",1,"1/0/1900",2,4,"HOTEL","DAGAA","BOUGHT","BOUGHT","SAURCER- B"
+2,,"Lunch",1,"1/0/1900",2,4,"HOTEL","MLENDA","BOUGHT","BOUGHT","PLATE B"
+2,,"Lunch",1,"1/0/1900",2,4,"HOTEL","KABICHI","BOUGHT","BOUGHT","PLATE B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 30 MINUTES","PLATE E"
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","CHICKEN","LIMAO SALT COOKING OIL","FLIED FOR 40 MINUTES","ONE CHICKEN A"
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","KABICHI","COOKING OIL CARROTE ONION, SALT","COOKED FOR 10 MINUTES","ONE PLATE - B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",2,"",,,"",,,,
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAJI, UNGA WA DONA","COOKED 30 MINUTES","UGALI - PLATE G"
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","SAMAKI","BOUGHT",,"SAMAKI - PLATE B"
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","MCHUZI","KITUNGUU, NYANYA, MAFUTA, CHUMVI, MAJI","COOKED 30 MINUTES","MCHUZI - SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","WALI (RICE)","MCHELE, NAZI, MAJI, CHUMVI","DAKIKA AROBAINI NA TANO","WALI PLATE E"
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, MAJI, CHUMVI, NAZI","MASAA MAWILI","MAHARAGE PLATE B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 30 MIN","1 PLATE D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,1,"HOME","AFYA JUICE","BOUGHT","BOUGHT","1 CUP C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN","1 PLATE D"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MNAFU","MNAFU, ONION, TOMATOE, SALT, COOKING OIL","COOKED FOR 15 MIN.","1 PLATE D MCHICHA COMPARED TO MNAFU."
+,,"Supper",1,"1/0/1900",3,4,"HOME","BEEF",,"FRIED FOR 15 MIN","BEEF SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

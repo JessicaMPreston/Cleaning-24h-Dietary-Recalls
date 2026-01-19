@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, SUKARI, MDALASINI, IRIKI","BOILING, FIFTEEN MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","KACHORI","BOUGHT","BOUGHT","FIVE KACHORI"
+,,"Morning snack",1,"1/0/1900",5,5,"HOME","MIHOGO YA KUKAANGA","MIHOGO, CHUMVI, MAFUTA","FRYING, TWENTY FIVE MINUTES","FOUR CASSAVA B"
+,,"Morning snack",1,"1/0/1900",5,5,"HOME","KACHUMBARI","NYANYA, LIMAO, KITUNGUU, CHUMVI","CHOPPING, SEVEN MINUTES","SAURCER D"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILING, TWENTY FIVE MINUTES","SAME AS PLATE C BUT DONA"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MCHUNGA","MCHUNGA, MAFUTA, CHUMVI, KITUNGUU, MAJI","BOILING AND FRYING, THIRTY FIVE MINUTES","SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

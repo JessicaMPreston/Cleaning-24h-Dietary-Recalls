@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","GREEN LEAVES MCHAICHAI, SUKARI","BOILED FOR 15 MINUTES","CUP C - ONE"
+2,,"Breakfast",1,"1/0/1900",2,4,"HOME","BOILED BANANA","SALT WATER","BOILED FOR 30 MINUTES","PLATE C- ONE"
+2,,"Morning snack",1,"1/0/1900",1,1,"HOME","EMBE",,,"EMBE A ONE EMBE"
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","PLATE A - ONE"
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","SAMAKI","TUI LA NAZI NYANYA SALT ONION SALT TOMATOES","COOKED FOR TWENTY MINUTES","FISH B TWO FISHES SAURCER - C"
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","MCHICHA.","MCHICHA","COOKED FOR TEN MINUTES","ONE SAURCER - D ONE"
+2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","SODA AFYA","BOUGHT","BOUGHT","350MLS"
+2,,"Supper",1,"1/0/1900",2,3,"HOME","CHAI","SUKARI MCHAICHAI","BOILED FOR 10 MINUTES","CUP C"
+2,,"Supper",1,"1/0/1900",2,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","ONE ANDAZI - A THREE MAANDAZI"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

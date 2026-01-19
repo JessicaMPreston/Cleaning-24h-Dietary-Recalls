@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","TEA LEAF, GINGER, SUGAR, WATER,","BOILED FOR 20 MINUTES,","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","VITUMBUA","BOUGHT","BOUGHT","3 VITUMBUA A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES","PLATE C"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","FISH, SALT, WATER","BOILED FOR 30 MINUTES","1 FISH A"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","TEMBELE","TEMBELE, CARROT, TOMATO, ONION, COOKING OIL, SALT","COOKED FOR 30 MINUTES","SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","NDIZI","BANANA, ONION, TOMATO, SALT, COOKING OIL","COOKED FOR 1 HOUR","PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

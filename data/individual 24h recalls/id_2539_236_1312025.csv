@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","UJI","MAIZE FLOUR","BOILED FOR 15 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","NDIZI","FRIED BANANA, OIL","FRIED FOR 10 MIN","3 FRIED BANANAS"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOOR","COOKED FOR 20 MIN","1 PLATE D."
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION, NYANYA, SALT OIL","COOKED FOR 20 MIN","1 FISH A."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 10 MIN","1 CUP C"
+,,"Supper",1,"1/0/1900",4,5,"HOME","NDIZI","FRIED BANANAS","FRIED FOR  5 MIN","3 FRIED BANANAS"
+,,"Snack evening",1,"1/0/1900",4,4,"HOME","MANGO","BOUGHT","BOUGHT",
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","UJI","MAIZE FLOUR","BOILED FOR 15 MIN","1 CUP B"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","NDIZI","BOUGHT","BOUGHT",
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D."
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, NYANYA OIL, SALT","COOKED FOR 20 MIN","4 SAMAKI A"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, COCONUT, SALT","COOKED FOR 45 MIN.","1 SAURCER A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE D"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MATEMBELE","MATEMBELE, SALT NYANYA.","COOKED FOR 10 MIN","1 SAURCER D"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, COCONUT SALT","COOKED FOR 45 MIN","1 SAURCER A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, SUGAR","BOILED FOR 10 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MIN.","1 PLATE C"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","MAJANI MABOGA","MAJANI MABOGA, NYANYA, ONION SALT, COOKING OIL","COOKED FOR 15 MIN.","1 SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 40 MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MAJANI MABOGA","MAJANI MABOGA, TOMATOE, ONION SALT, COOKING OIL","COOKED FOR 15 MIN.","1 SAUCER C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

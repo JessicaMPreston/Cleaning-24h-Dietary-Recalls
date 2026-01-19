@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","UNGA WA SEMBE, MAJI","BOILED FOR 1 HOUR","ONE CUP C."
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","1 PLATE B"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","NYAMA","NYAMA, CHUMVI","FRIED FOR 45 MINUTES",
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,5,"HOME","CHIPSI YAI","BOUGHT","BOUGHT","1 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

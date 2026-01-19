@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,4,"HOME","TEA","WATER, MCHAICHAI, TANGAWIZI, SUGAR.","BOILED FOR 15 MINUTES.","CUP - C ONE CUP AND HALF"
+2,,"Breakfast",1,"1/0/1900",1,4,"HOME","MAKANDE","MAHINDI, SALT, COOKING OIL, MAHARAGE, WATER, ONION.","COOKED FOR 2 HOURS.","PLATE B - HALF PLATE."
+2,,"Morning snack",1,"1/0/1900",1,1,"HOME","PAPAI",,,"PORTION B ONE PIECE"
+1,1,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE.","COOKED FOR 35 MINUTES.","PLATE F HALF PLATE."
+1,1,"Lunch",1,"1/0/1900",1,4,"HOME","FRIED FISH,","BOUGHT.","NA.","FISH - D ONE FISH."
+1,1,"Lunch",1,"1/0/1900",1,4,"HOME","MCHICHA","COOKING OIL, SALT, TOMATOES, ONION.","COOKED FOR 10 MINUTES","SAURCER D."
+2,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",1,5,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE","COOKED FOR 35 MINUTES","PLATE F HALF PLATE"
+1,1,"Supper",1,"1/0/1900",1,5,"HOME","FRIED FISH","BOUGHT","NA.","THREE FISH."
+1,1,"Supper",1,"1/0/1900",1,5,"HOME","MCHICHA","ONION, COOKINGOIL, TOMATOES, SALT.","COOKED FOR 10 MINUTES","SAURCER - D."
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

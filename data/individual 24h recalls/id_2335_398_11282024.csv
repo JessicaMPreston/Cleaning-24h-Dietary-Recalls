@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, MDALASINI KARAFUU, SUKARI","BOILING, FIVE MINUTES","ONE CUP B"
+1,2,"Breakfast",1,"1/0/1900",5,5,"HOME","NDIZI","BOUGHT","BOUGHT","SAME AS HALF PLATE B"
+1,2,"Breakfast",1,"1/0/1900",5,5,"HOME","MKATE","BOUGHT","BOUGHT","TWO SKONZI"
+2,,"Morning snack",1,"1/0/1900",2,3,"HOME","JUICE","BOUGHT","BOUGHT","ONE GLASS OF 300MLS"
+1,2,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILING, TWENTY MINUTES","PLATE G"
+1,2,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","DAGAA, CHUMVI, NYANYA, KITUNGUU, KAROTI, HOHO, BAMIA NYANYA CHUNGU MAJI, MAFUTA","ROAST, THIRTY MINUTES","SAURCER A"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",2,4,"HOME","CHIPS","BOUGHT","BOUGHT","PLATE A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",1,"1/0/1900",3,4,"HOME","MIHOGO","BOUGHT","BOUGHT","THREE CASSAVA,"
+2,,"Night snack",1,"1/0/1900",3,4,"HOME","SODA","BOUGHT","BOUGHT","COCA-350MLS"

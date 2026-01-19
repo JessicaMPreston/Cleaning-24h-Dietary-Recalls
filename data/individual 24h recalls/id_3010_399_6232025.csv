@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,0,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","BOUGHT",,"EIGHT BREAD B"
+2,0,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA SEMBE, WATER","COOKED FOR 30 MINUTES","PLATE C SHARED UGALI"
+1,2,"Lunch",1,"1/0/1900",4,3,"HOME","BEANS","BEANS, COCONUT, SALT, ONION, WATER","COOKED FOR TWO HOURS","ONE SAURCER C BEANS SHARED"
+2,0,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",4,4,"HOME","RICE","RICE, ILIKI, COOKING OIL, WATER","COOKED FOR 45 MINUTES","PLATE C SHARED RICE"
+1,2,"Supper",1,"1/0/1900",4,4,"HOME","BEANS","COCONUT, WATER, BEANS, ONION, SALT","COOKED FOR 2 HOURS","ONE SAURCER B SHARED BEANS"
+2,0,"Snack evening",2,"",,,"",,,,
+2,0,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MIHOGO","ALINUNUA","ALINUNUA","3 CASSAVA A"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 30 MIN","1 PLATE D"
+2,,"Lunch",1,"1/0/1900",1,4,"HOME","SAMAKI","SAMAKI, LIMAO, CHUMVI, MAFUTA YA KUPIKIA","COOKED FOR 10 MIN","3 FISH C"
+2,,"Lunch",1,"1/0/1900",1,4,"HOME","DAGAA","DAGAA, NYANYA, KITUNGUU MAJI, MAFUTA YA KUPIKIA, CHUMVI, MAJI","COOKED FOR 10 MIN","1 SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",2,3,"HOME","WALI","MCHELE,  MAJI, CHUMVI","COOKED FOR 1 HR","SHARED PLATE B"
+1,2,"Supper",1,"1/0/1900",2,3,"HOME","DAGAA","DAGAA, CHUMVI, NYANYA, MAFUTA, KITUNGUU, MAJI","COOKED FOR 10 MIN","SAURCER B SHARED"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

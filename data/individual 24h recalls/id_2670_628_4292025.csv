@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES SUGAR","BOILED FOR 15 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,2,"HOME","BREAD","BOUGHT","BOUGHT","1 SLACE OF BREAD"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",2,"",,,"",,,,
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 15 MINUTES","1 PLATE C SHARED"
+1,2,"Supper",1,"1/0/1900",4,3,"HOME","DAGAA","DAGAA, OIL, SALT ONION, TOMATOES LEMON","COOKED FOR 20 MINUTES","1 SAURCER. B SHARED"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

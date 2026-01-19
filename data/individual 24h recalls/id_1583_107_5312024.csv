@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,4,"HOME","UJI","UNGA WA MAHINDI DONA, SUKARI, CHUMVI, MAJI","BOILING, THIRTY MINUTES","CUP C-THREE CUPS"
+2,,"Morning snack",1,"1/0/1900",2,2,"HOME","MHOGO,","MHOGO,","FRIED CASSAVA,","CASSAVA A- TWO PIECES."
+2,,"Morning snack",1,"1/0/1900",2,2,"HOME","MKATE","UNGA WA NGANO, CHUMVI","BAKED BREAD, TIME NOT KNOWN AS WERE BOUGHT","BREAD B- FOUR PIECES"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA MAHINDI, MAJI","BOILING, THIRTY MINUTES","PLATE D"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","FRIED FISH, CHUMVI","EATEN DRY BOUGHT","PLATE C- ONE PIECE,PLATE D- ONE PIECE"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","MLENDA (BAMIA)","BAMIA","BOILING , THIRTY MINUTES","SAURCER A"
+2,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","MACHUNGWA","MACHUNGWA","EATEN RAW","ORANGE A - TWO PIECES"
+1,2,"Supper",1,"1/0/1900",5,4,"HOME","UGALI","UNGA WA MAHINDI, MAJI","BOILING TWENTY MINUTES","PLATE D"
+1,2,"Supper",1,"1/0/1900",5,4,"HOME","SAMAKI","FRIED FISH, CHUMVI.","EATEN DRY BOUGHT","FISH D -  ONE PIECE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

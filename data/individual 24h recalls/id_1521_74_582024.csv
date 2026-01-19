@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,1,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","WATER, TANGAWIZI, SUGAR,","BOILED 15MINUTES,","CUP C - ONE CUP"
+1,1,"Breakfast",1,"1/0/1900",2,3,"HOME","CASSAVA","WATER, SALT","COOKED  20MINUTES","PLATE - D"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","WATER, MAIZE FLOUR (SEMBE)","COOKED 1HOUR,","PLATE - F"
+1,1,"Lunch",1,"1/0/1900",4,5,"HOME","FRIED FISH","WATER, SALT, COCONUT CREAM, ONION","COOKED 45MINUTES","FISH - B, 2 FISHES"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","WATER, MAIZE FLOUR,- SEMBE","COOKED 45MINUTES","PLATE F"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","WATER, SALT, COCONUT CREAM","COOKED 1HOUR","SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

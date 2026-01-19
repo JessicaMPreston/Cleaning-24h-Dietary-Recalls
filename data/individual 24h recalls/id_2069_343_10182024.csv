@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","FRESH COW MILK,","MAJANI YA CHAI, SUKARI, WATER.","PREPARED BY HER SISTER.","CUP C - ONE CUP"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","SKONZI","BOUGHT","BOUGHT","PLATE D - 4 SKONZI"
+,,"Morning snack",1,"1/0/1900",1,2,"HOME","JUICE PASSION","SUKARI, EMBE, VANILLA, WATER","GRANDING FOR 15 MINUTES","CUP B - ONE CUP"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI,","MAIZE FLOUR - SEMBE.","COOKED FOR 30 MINUTES.","PLATE D - ONE PLATE."
+,,"Lunch",1,"1/0/1900",2,4,"HOME","BEEF SAUCE","TANGAWIZI LIMAO, KITUNGUU, SWAUMU, SALT, NYANYA, ONION","COOKED FOR 1 HOUR","SAURCER - A. ONE PLATE"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","CHIPS","BOUGHT","BOUGHT","PLATE A - ONE PLATE"
+,,"Supper",1,"1/0/1900",4,4,"HOME","JUICE PASSION","SUKARI, EMBE, VANILA, WATER","GRANDING FOR 15 MINUTES","CUP B - ONE CUP"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

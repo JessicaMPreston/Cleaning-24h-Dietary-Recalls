@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","TEA","TEA LEAVES SUGAR, WATER","BOILED FOR 15 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","ANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
+,,"Morning snack",,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN.","1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","FISH, ONION, TOMATOE, SALT, COOKING OIL, NGOGWE.","COOKED FOR 30 MIN","2 FISH A."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","WALI","RICE, WATER COOKING OIL","BOILED FOR 1 HOUR","1 PLATE B"
+,,"Supper",1,"1/0/1900",3,4,"HOME","FISH","FISH, COCONUT OIL, SALT,","COOKED FOR 10 MIN.","2 FISH A."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

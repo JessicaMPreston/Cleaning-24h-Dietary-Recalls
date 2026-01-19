@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAI","TEA LEAF SUGAR, WATER","BOILED FOR 15 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",4,4,"HOME","MKATE","BOUGHT","BOUGHT","7 BREAD B"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 15 MINUTES","PLATE C"
+1,2,"Lunch",1,"1/0/1900",5,4,"HOME","MAHARAGE","SALT BEANS, COOKING OIL, ONION HOHO, CARROT","COOKED FOR 1 HOUR","SAURCER C"
+1,2,"Lunch",1,"1/0/1900",5,4,"HOME","DAGAA","SARDINES, COOKING TOMATO, SALT","COOKED FOR 15 MINUTES","SAURCER C"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",4,3,"HOME","UJI","MAIZE FLOUR MILLET GROUNDNUTS SUGAR RICE, WATER","BOILED FOR 30 MINUTES","1 CUP B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

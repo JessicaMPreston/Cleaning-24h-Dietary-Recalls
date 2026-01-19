@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,1,"Breakfast",1,"1/0/1900",2,3,"HOME","FRIED CASSAVA","BOUGHT","BOUGHT","CASSAVA D 4 PIECES"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","MAKANDE,","COOKING OIL, CARROTE, SALT, ONION, PILIPILI HOHO.","COOKED FOR THREE HOURS","ONE PLATE, PLATE - D"
+2,,"Lunch",1,"1/0/1900",5,5,"HOME","NDIZI MBIVU","BOUGHT","BOUGHT","PLATE - B, ONE NDIZI MBIVU"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","WALI","WATER, COOKING OIL, SALT","COOKED FOR 1 HOUR","PLATE F - ONE PLATE"
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","BEEF","WATER, SALT, COOKING OIL, ONION, VIAZI, MVIRINGO, NYANYA","COOKED FOR 1 HOUR","ONE PLATE SAURCER - D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

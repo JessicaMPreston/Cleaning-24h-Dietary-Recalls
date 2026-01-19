@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","PORRIDGE","MAIZE FLOUR SUGAR","BOILED FOR 20 MINUTES","1 CUP A"
+2,0,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE B."
+1,1,"Lunch",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, TOMATOE ONION, COOKING OIL SALT","COOKED FOR 40 MINUTES","SHARED 1 SAURCER A"
+2,0,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE C"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","MLENDA","BAMIA SALT, MAGADI.","COOKED FOR 20 MINUTES.","SHARED 1 SAURCER B"
+1,1,"Supper",1,"1/0/1900",3,4,"HOME","CHICKEN","BOUGHT","BOUGHT","1 CHICKEN B"
+2,0,"Snack evening",2,"",,,"",,,,
+2,0,"Night snack",2,"",,,"",,,,

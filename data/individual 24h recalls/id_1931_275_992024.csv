@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","MAJI SUKARI TANGAWIZI MCHAICHAI","PREPARED BY HER MOTHER","CUP C-ONE CUP"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","BOILED BANANA","WATER AND SALT.","PREPARED BY HER MOTHER","PLATE D"
+,,"Morning snack",1,"1/0/1900",1,2,"HOME","SODA COCACOLA","BOUGHT",,"350MLS"
+,,"Lunch",1,"1/0/1900",1,5,"HOME","UGALI WA MHOGO","UNGA WA MHOGO, MAJI",,"PLATE C"
+,,"Lunch",1,"1/0/1900",1,5,"HOME","SAMAKI WA PAPA","COOKING OIL, BAMIA, NYANYA CHUNGU, NAZI",,"ONE PIECE"
+,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","SUGAR CANE","BOUGHT",,"PLATE D"
+,,"Supper",1,"1/0/1900",1,5,"HOME","NDIZI ZA KUKAANGA","COOKING OIL, SALT","PREPARED BY HER MOTHER","PLATE D"
+,,"Supper",1,"1/0/1900",1,5,"HOME","NYAMA YA KUKU ILIYOKAANGWA","BOUGHT",,"CHICKEN B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

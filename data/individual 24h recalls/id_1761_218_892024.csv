@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,5,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","WATER SALT MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","CUP C- ONE CUP"
+1,5,"Breakfast",1,"1/0/1900",3,4,"HOME","MABOGO","WATER SALT","COOKED FOR 45 MINUTES","TWO PIECS"
+2,,"Morning snack",1,"1/0/1900",1,2,"HOME","ORANGE",,,"ORANGE-B ONE ORANGE"
+1,6,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","WATER MAIZE FLOUR SEMBE","COOKED FOR 45 MINUTES","PLATE -E"
+1,6,"Lunch",1,"1/0/1900",4,5,"HOME","MBAAZI","COOKING OIL SALT TOMATOES WATER","COOKED FOR 1 HOURS","AS SAURCER B-MAHARAGE"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,7,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","WATER MAIZE FLOUR SEMBE","COOKED FOR 45 MINUTES","PLATE-E"
+1,7,"Supper",1,"1/0/1900",3,4,"HOME","MBAAZI","WATER SALT COOKING OIL TOMATOES","COOKED FOR ONE HOUR","SAURCER B- MAHARAGE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

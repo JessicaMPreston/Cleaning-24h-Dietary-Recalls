@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,5,"HOME","MAZIWA","MAZIWA, SUKARI","BOILING, SEVEN MINUTES","ONE CUP B"
+2,,"Breakfast",1,"1/0/1900",2,5,"HOME","VITUMBUA","BOUGHT","BOUGHT","THREE VITUMBUA A"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILINNG, TWENTY MINUTES","ONE THIRD OF PLATE H"
+2,,"Lunch",1,"1/0/1900",3,5,"HOME","MLENDA","NYANYA CHUNGU, BAMIA, MAGADI, CHUMVI, MAJI","BOILING, TWENTY MINUTES","SAME AS SAURCER D OF MAJANI YA MABOGA"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,5,"HOME","TAMBI","TAMBI, CHUMVI, SUKARI, MAJI","BOILING, THIRTY MINUTES","PLATE A"
+1,2,"Supper",1,"1/0/1900",3,5,"HOME","NYAMA","NYAMA, NYAMA, HOHO, KAROTI, KITUNGUU, KITUNGUU SWAUMU","BOILING AND ROASTING, TWO HOURS","SAURCER B"
+1,2,"Supper",1,"1/0/1900",3,5,"HOME",,,,"SAURCER B"
+2,,"Snack evening",1,"1/0/1900",2,3,"HOME","MAEMBE","MAEMBE","EATEN RAW","THREE EMBE NYONYO"
+2,,"Snack evening",1,"1/0/1900",2,3,"HOME",,"MAEMBE",,
+2,,"Night snack",2,"",,,"",,,,

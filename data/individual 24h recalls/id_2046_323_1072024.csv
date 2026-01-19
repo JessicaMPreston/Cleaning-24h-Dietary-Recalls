@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","UJI","ULEZI, KARANGA, MCHELE, MBEGU ZA MABOGA, IRIKI, SUKARI, MAFUTA.","BOILING, THIRTY MINUTES.","ONE CUP B"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAPATI","BOUGHT","BOUGHT","TWO CHAPATI B"
+2,,"Morning snack",1,"1/0/1900",2,2,"HOME","MAEMBE","MAEMBE, CHUMVI","EATEN RAW","TWO EMBE A"
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI,","UNGA WA DONA, MAJI.","PREPARED BY HER SISTER.","PLATE B"
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, MAFUTA, KITUNGUU, CHUMVI.","PREPARED BY HER SISTER.","SAURCER C"
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","DAGAA","DAGAA, CHUMVI, KITUNGUU, NYANYA, NGOGWE, BAMIA, MAFUTA, MAJI","PREPARED BY HER SISTER","SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILING, FIFTEEN MINUTES","PLATE A"
+1,2,"Supper",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, NYANYA, MAFUTA, KITUNGUU, CHUMVI",". ROASTING, TWENTY MINUTES","SAURCER A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

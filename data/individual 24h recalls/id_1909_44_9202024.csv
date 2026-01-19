@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","UJI","UNGA WA ULEZI, SUKARI, MAJI, NAZI","BOUGHT","ONE CUP C"
+,,"Morning snack",1,"1/0/1900",3,5,"HOME","CHAI,","MAJI, SUKARI, IRIKI,","BOILING, TEN  MINUTES,","ONE CUP C,"
+,,"Morning snack",1,"1/0/1900",3,5,"HOME","SKONZI","BOUGHT","BOUGHT","THREE SKONZI"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA SEMBE, MAJI","BOILING, FIFTEEN MINUTES","PLATE C,"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, MAJI, NYANYA, LIMAO, KITUNGUU,","BOILING, TEN MINUTES","FISH B TWO PIECES"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, CHUMVI, MAJI, KITUNGUU, NYANYA","BOILING, EIGHT MINUTES","SAURCER D"
+,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","ICE CREAM","BOUGHT","BOUGHT","NE ICE CREAM WHICH IS SOLD 100/= EACH"
+,,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, FIFTEEN MINUTES","PLATE C"
+,,"Supper",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, MAJI, NYANYA, KITUNGUU LIMAO MCHICHA, MAJI CHUMVI, KITUNGUU NYANYA","ATE LEFT OVER","FISH B 2 PIECES"
+,,"Supper",1,"1/0/1900",5,5,"HOME","MCHICHA",,"ATE LEFT OVER","SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

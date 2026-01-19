@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",2,"",,,"",,,,
+,,"Morning snack",1,"1/0/1900",5,5,"HOME","CHAI,","MAJI, SUKARI, MAJANI YA CHAI,","BOILING, FIVE MINUTES,","ONE CUP C"
+,,"Morning snack",1,"1/0/1900",5,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","FOUR ANDAZI C"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, 30 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SPINACH","SPINACH, VITUNGUU, NYANYA, MAFUTA, CHUMVI","FRYING, TEN MINUTES","SAME AS SAURCER D OF MAJANI YA MABOGA"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,5,"HOME","WALI","MCHELE, MAFUTA, CHUMVI, MAJI","COOKED BY HER YOUNG SISTER","PLATE C"
+,,"Supper",1,"1/0/1900",3,5,"HOME","MAHARAGE","MAHARAGE, VITUNGUU, MAFUTA, CHUMVI, MAJI","COOKED BY HER YOUNG SISTER","SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

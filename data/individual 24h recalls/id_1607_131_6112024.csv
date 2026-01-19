@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,3,"HOME","TEA","TEA LEAVES WATER, SUGAR.","BOILED FOR 15 MINUTES","HALF CUP C. TEA"
+,,"Breakfast",1,"1/0/1900",5,3,"HOME","CASSAVA","BOUGHT","NA.","TWO CASSAVA B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,3,"HOME","RICE","RICE, WATER, COOKING OIL","COOKED FOR 45 MINUTES","PLATE B RICE"
+,,"Lunch",1,"1/0/1900",4,3,"HOME","BEANS","BEANS, ONION, SALT, COOKING OIL","COOKED FOR 2 HOURS","SAURCER D BEANS"
+,,"Snack afternoon",1,"1/0/1900",2,1,"HOME","ORANGE",,"CUT INTO PIECE","ONE ORANGE B."
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","WATER, UNGA WA SEMBE","COOKED FOR 30 MINUTES","PLATE D UGALI"
+,,"Supper",1,"1/0/1900",3,4,"HOME","FISH","COOKING OIL, FISH, SALT. TOMATO, ONION, NDIMU, SALT.","FRIED FOR TWENTY MINUTES CUT INTO SLICES","FOUR FISH A"
+,,"Supper",1,"1/0/1900",3,4,"HOME","SALADS",,,"SAURCER D SALADS"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

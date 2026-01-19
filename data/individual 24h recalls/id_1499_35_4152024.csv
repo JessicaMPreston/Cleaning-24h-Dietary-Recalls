@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","WATER, MAJANI YA LIMAO, MDALASINI, SUGAR","20MINUTES,","CUP - B"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CASSAVA","BOUGHT","BOUGHT,","PLATE - C, TWO CASSAVA"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","VITUMBUA","BOUGHT","BOUGHT","TWO VITUMBUA PLATE A"
+2,,"Morning snack",1,"1/0/1900",3,3,"HOME","PORRIDGE","ULEZI, WATER","45MINUTES","CUP - C"
+1,2,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED 45MINUTES","PLATE - C"
+1,2,"Lunch",1,"1/0/1900",2,5,"HOME","MAJANI YA MABOGA","COOKING OIL, ONION, TOMATOES","COOKED 20MINUTES","SAURCER - B"
+1,2,"Lunch",1,"1/0/1900",2,5,"HOME","FISH","SALT,  POTATOES, BAMIA COCONUT, NYANYA CHUNGU","COOKED 45MINUTES","FISH - B"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",2,"",,,"",,,,
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",1,"1/0/1900",4,4,"HOME","TEA,","MDARASINI, WATER, SUGAR","20MINUTES,","BREAD-A"
+2,,"Night snack",1,"1/0/1900",4,4,"HOME","BREAD","BOUGHT","BOUGHT","BREAD - A"

@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","MAJI, TANGWIZI, MAJANI YA CHAI MCHAICHAI, SUKARI","BOILED FOR 5 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAPATI","UNGA WA NGANO MAJI, MAYAI SUKARI, CHUMVI MAFUTA YA KUPIKIA","PREPARED AND COOKED FOR 1 HR","3 CHAPATI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","COOKED FOR 20 MIN","1 PLATE C"
+,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI WA KUKAANGA","SAMAKI, TANGAWIZI KITUNGUU SAUMU, CHUMVI","COOKED FOR 25 MIN","1 FISH A"
+,,"Lunch",1,"1/0/1900",2,3,"HOME","MCHICHA","MCHICHA, NYANYA, KITUNGUU MAJI,","COOKED FOR 5 MIN","1 SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","CHIPS MAYAI","VIAZI MBATATA, MAFUTA YA KUPIKIA, CHUMVI, MAYAI","COOKED FOR 10 MIN","1 PLATE A"
+,,"Supper",1,"1/0/1900",2,3,"HOME","KACHUMBALI","NYANYAM CHUMVI KITUNGUU MAJI, KABICHI, LIMAO","PREPARED FOR 5 MIN","1 SAUCE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

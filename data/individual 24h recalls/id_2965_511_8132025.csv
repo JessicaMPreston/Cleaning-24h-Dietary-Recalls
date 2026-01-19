@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","IRIKI, MDALASINI, SUKARI, MAJI","BOILED FOR 10 MIN","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","ANDAZI","ALINUNUA","ALINUNUA","3 ANDAZI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","UNGA WA MAHINDI, SEMBE MAJI","COOKED FOR 15 MIN","SHARED 1 PLATE A"
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE, MAJI, CHUMVI KITUNGUU MAJI KAROTI HOHO","BOILED FOR 2 HRS","SHARED 1 SAURCER B"
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","MCHICHA","MCHICHA, CHUMVI, MAJ, KITUNGUU MAJI","COOKED FOR 5 MIN","SHARED 1 SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",2,4,"HOME","WALI","MCHELE, MAJI, CHUMVI MAFUTA YA KUPIKIA","COOKED FOR 40 MIN","SHARED 2 PLATE A"
+1,1,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE, HOHO, KAROTI, CHUMVI, KITUNGUU MAJI.","COOKED FOR 2 HRS","SHARED 1 SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

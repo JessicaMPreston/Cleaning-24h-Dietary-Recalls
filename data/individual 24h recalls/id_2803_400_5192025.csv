@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","WATER, KARAFUU MDALASINI","BOILED FOR 10 MINUTES","1 CUP C TEA"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","SKONZI","BOUGHT",,"TWO SKONZI"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",5,4,"HOME","RICE","RICE, SALT WATER, COCONUT","COOKED FOR 30 MINUTES","ONE PLATE D RICE"
+2,,"Lunch",1,"1/0/1900",5,4,"HOME","FISH","FISH, SALT COOKING OIL","FRIED FOR 45 MINUTES","ONE FISH D"
+2,,"Lunch",1,"1/0/1900",5,4,"HOME","STEW","COCONUT, ONION TOMATO, NGOGWE SALT, WATER","COOKED FOR 15 MINUTES","SAURCER D STEW"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","WATER, UNGA WA SEMBE","COOKED FOR 30 MINUTES","ONE PLATE D"
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, TOMATO ONION, SALT COOKING OIL, WATER","COOKED FOR 20 MINUTES","ONE SAURCER B"
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","MAJANI YA MABOGA","MAJANI YA MABOGA ONION COOKING OIL, SALT","COOKED FOR 15 MINUTES","SAURCER C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

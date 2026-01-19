@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","UJI","WATER MAIZE FLOUR (DONA)","COOKED FOR TWENTY MINUTES","CUP C-ONE CUP"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","NDIZI MBIVU","BOUGHT",,"TWO PIECES"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE","COOKED FOR 40 MINUTES","HALF PLATE PLATE D"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","MLENDA","MAJI, SALT, BAMIA, MAGADI","COOKED FOR TWENTY MINUTES","MLENDA AS SAURCER -D"
+,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","EMBE","BOUGHT",,"EMBE A ONE EMBE"
+,,"Supper",1,"1/0/1900",3,4,"HOME","JUICE YA EMBE","BOUGHT",,"300MLS"
+,,"Supper",1,"1/0/1900",3,4,"HOME","CHAPATI ZA KUMIMINA","UNGA WA NGANO MAJI MAYAI MAFUTA YA KUPIKA NA CHUMVI","FRIED FOR 1 HOUR","CHAPATI - A TWO CHAPATI"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","PORRIDGE","RICE, COOKING OIL SALT","BOILED FOR 30 MINUTES","1 CUP C"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE A"
+1,2,"Lunch",1,"1/0/1900",3,3,"HOME","MCHUNGA","MCHUNGA, COOKING OIL ONION, SALT","COOKED FOR 15 MINUTES","SHARED 1 SAURCER A MCHICHA"
+1,2,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, SALT ONION","GRILLED FOR 20 MINUTES","SHARED 2 FISH A"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","SHARED 1 UGALI PLATE A"
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA, ONION COOKING OIL, SALT","COOKED FOR 15 MINUTES","1 SAURCER A MCHICHA SIZED WITH MCHUNGA"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

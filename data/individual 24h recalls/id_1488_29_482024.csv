@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","WATER, MDALASINI ILIKI, SUGAR","BOILED FOR FIFTEEN MINUTES,","ONE CUP C"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","CASSAVA","CASSAVA, SALT, WATER","BOILED FOR THIRTY MINUTES","THREE CASSAVA A"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA DONA, WATER","COOKED FOR THRITY MINUTES","UGALI PLATE H"
+1,2,"Lunch",1,"1/0/1900",3,5,"HOME","FISH","BOUGHT","BOUGHT","ONE FISH D"
+1,2,"Lunch",1,"1/0/1900",3,5,"HOME","STEW","TOMATO, SALT, COOKING OIL, ONION, WATER","FRIED FOR TWENTY MINUTES","STEW SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,2,"HOME","MIXTURE OF BANANA, CASSAVA, MAYUGWA","BANANA, CASSAVA, MAYUGWA, SALT, COOKING OIL, WATER","COOKED FOR ONE HOUR","MIXTURE OF CASSAVA, BANANA, MAYUGWA. BANANA PLATE D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

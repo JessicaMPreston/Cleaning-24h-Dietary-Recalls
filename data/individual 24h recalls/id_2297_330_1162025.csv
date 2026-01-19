@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","UJI","COOKING OIL SALT SUKARI MAIZE FLOUR SEMBE","COOKED FOR TWENTY MINUTES","CUP B -  ONE"
+2,,"Morning snack",1,"1/0/1900",1,1,"HOME","NDIZI MBIVU","BOUGHT","BOUGHT","ONE NDIZI MBIVU"
+1,1,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 15 MINUTES","PLATE B - ONE"
+1,1,"Lunch",1,"1/0/1900",3,4,"HOME","MNAVU","SALT COOKING OIL KAROTI NYANYA ONION","COOKED FOR 20 MINUTES","MNAVU AS MCHUNGA SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",1,4,"HOME","CHAI","TANGAWIZI, SUKARI, MDALASINI, IRIKI","BOILED FOR 10 MINUTES","CUP C - ONE"
+2,,"Supper",1,"1/0/1900",1,4,"HOME","MANDAZI","BOUGHT","BOUGHT","ANDAZI - A 3 MANDAZI"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",1,"1/0/1900",1,1,"HOME","EMBE",,,"EMBE A,  ONE EMBE"

@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAI","SUKARI, MCHAICHAI","BOILED FOR 7 MINUTES","CUP C-ONE CUP"
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","WALI","COOKING OIL SALT WATER","COOKED FOR 35 MINUTES","PLATE C"
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","MAHARAGE","NAZI KITUNGUU SALT MAJI","COOKED FOR 1 1/2 HOUR","SAURCER-D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","WATER MAIZE FLOUR (SEMBE)","COOKED FOR TWENTY MINUTES","PLATE - D."
+,,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","COOKING OIL SALT ONION","COOKED FOR 10 MINUTES","SAURCER - D."
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI WA KUKAANGA","BOUGHT",,"FISH  - D 7 FISHES"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,5,"HOME","MAKANDE","BOUGHT",,"PLATE-B"
+,,"Supper",1,"1/0/1900",2,5,"HOME","SODA MO PASSION","BOUGHT",,"300MLS"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",1,"1/0/1900",4,4,"HOME","SUGAR CANE","BOUGHT",,"PLATE-B"

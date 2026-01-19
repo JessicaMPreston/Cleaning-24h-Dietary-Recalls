@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MDALASINI SUGAR WATER","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","NDIZI","BANANAS SALT, WATER","BOILED FOR 20 MINUTES","PLATE D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",1,"1/0/1900",4,4,"HOME","AZAM COLA","BOUGHT","BOUGHT","300MLS SODA"
+,,"Supper",1,"1/0/1900",5,4,"HOME","NDIZI","BANANA, WATER SALT","BOILED FOR 20 MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",5,4,"HOME","CHAI","MDALASINI SUGAR, WATER","BOILED FOR 10 MINUTES.","1 CUP C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

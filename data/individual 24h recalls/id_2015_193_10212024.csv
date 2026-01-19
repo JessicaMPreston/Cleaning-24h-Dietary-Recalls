@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",1,2,"HOME","TEA","MCHAICHAI, MDALASINI, SUGAR,","BOILED FOR 10 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",1,2,"HOME","SAMBUSA ZA VIAZI","BOUGHT","BOUGHT","5 SAMBUSA"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,3,"HOME","MAKANDE","MAKANDE, COOKING OIL, SALT, ONION, TOMATOE","COOKED FOR 45MIN","1 PLATE A, MAKANDE"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, MCHAICHAI,SUGAR","BOILED FOR 10MIN","1 CUP C"
+,,"Supper",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","6 ANDAZI B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","ILIKI, MCHAICHAI, SUGAR.","BOILED FOR 10 MIN.","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI","NDIZI, SALT","BOILED FOR 20 MIN","1/2 PLATE D NDIZI BOILED."
+2,,"Morning snack",1,"1/0/1900",2,3,"HOME","AVACADO","RAW","-","1 AVACADO PORTION A"
+2,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE C-UGALI"
+2,,"Lunch",1,"1/0/1900",4,3,"HOME","MAHARAGE","MAHARAGE, ONION, SALT, COOKING OIL","COOKED FOR 40 MIN","1 SAURCER B-MAHARAGE"
+2,,"Lunch",1,"1/0/1900",4,3,"HOME","MNAVU","MNAFU , ONION, COOKING OIL","COOKED FOR 15 MIN.","1 SAURCER C- MCHICHA COMPARE TO SIZE OF MNAFU"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","WALI","RICE, COOKING OIL, SALT","COOKED FOR 20 MIN","2 PLATE C - SHARED - WALI"
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, ONION, COOKING OIL, SALT.","COOKED FOR 40 MIN","2 SAURCER A - SHARED - MAHARAGE."
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

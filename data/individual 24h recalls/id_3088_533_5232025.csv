@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","TANGAWIZI SUGAR, WATER","BOILED FOR 20 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","BREAD","BOUGHT","BOUGHT","3 BREAD B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN.","1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","BEAN'S","BEAN'S, ONION, COCONUT OIL SALT, WATER","BOILED FOR 2 HOURS.","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 40 MIN.","1 PLATE D"
+,,"Supper",1,"1/0/1900",3,3,"HOME","BEAN'S","BEAN'S, ONION, COCONUT OIL, WATER, SALT","BOILED FOR 2 HOUR'S","1 SAURCER B."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

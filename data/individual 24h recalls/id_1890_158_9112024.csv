@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, MAJANI YA CHAI, MCHAI CHAI,","BOILED FOR TEN MINUTES","CUP C-ONE CUP"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","MIHOGO YA KUKAANGA","BOUGHT",,"FOUR-PIECES, CASSAVA B"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",2,"",,,"",,,,
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR SEMBE MAJI","COOKED FOR 35 MINUTES","PLATE F"
+1,2,"Supper",1,"1/0/1900",3,4,"HOME","NYAMA YA KUNGA-SUPU","MAJI NA CHUMVI","COOKED FOR ONE HOUR","PLATE A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

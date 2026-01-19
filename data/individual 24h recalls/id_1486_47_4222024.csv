@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","WATER, TEALEAF, SUGAR.","COOKED FOR 10 MINUTES.","CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","ANDAZI","WHEAT FLOUR, YEAST, SUGAR, COOKING OIL","COOKING FOR 45 MINUTES","ANDAZI C 7"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 30 MINUTES","UGALI PLATE A"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","DAGAA","SARDINES, COOKING OIL, SALT, ONION, TOMATO","COOKING FOR 30 MINUTES","SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","CHAI","WATER, SUGAR, TEA LEAF","BOILING FOR 10 MINUTES","CUP C"
+,,"Supper",1,"1/0/1900",4,3,"HOME","CHAPATI","WHEAT FLOUR, COOKING OIL, SALT","COOKING FOR 30 MINUTES.","CHAPATI C 2."
+,,"Supper",1,"1/0/1900",4,3,"HOME","(BEEF) NYAMA","BEEF, ONION, SALT, TOMATO, COOKING OIL","COOKING FOR 1 HOUR","SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

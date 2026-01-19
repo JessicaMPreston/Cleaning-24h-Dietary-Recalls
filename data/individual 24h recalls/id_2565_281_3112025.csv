@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","SUGAR, GINGER","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","BANANA","FRIED BANANAS","FRIED FOR 15 MINUTES","1 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 22 MINUTES","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,2,"HOME","SAMAKI","SAMAKI OIL, COCONUT SALT","COOKED FOR 18 MINUTES","1 SAMAKI B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","RICE","RICE, SALT, COOKING OIL","COOKED FOR 17 MINUTES","1 PLATE C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","SAMAKI","SAMAKI, OIL, COCONUT, SALT","COOKED FOR 18 MINUTES","2 SAMAKI B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

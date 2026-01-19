@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,4,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","SUGAR, WATER, TEALEAF.","BOILING 20 MINUTES.","CUP C"
+1,4,"Breakfast",1,"1/0/1900",3,4,"HOME","MAKANDE","MAIZE, COOKING OIL, BENS, SALT, GROUNDNUTS","BOILING 3 HOURS","MAKANDE PLATE A"
+,,"Morning snack",2,"",,,"",,,,
+1,5,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","BOILING 1HR,","UGALI SHARED PLATE E,"
+1,5,"Lunch",1,"1/0/1900",5,4,"HOME","DAGAA","SARDINES, SALT, TOMATO, ONION, OKRA","COOKING FOR 45MINS","SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

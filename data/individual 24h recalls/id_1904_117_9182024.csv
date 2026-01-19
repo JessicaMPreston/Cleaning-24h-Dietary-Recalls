@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","MDALASINI, ILIKI, WATER, SUGAR,","BOILED FOR 30 MIN,","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",2,2,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI B"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",3,3,"HOME","SODA","BOUGHT","BOUGHT","1 BOTTLE OF FANTA-350 MLS"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",2,3,"HOME","WALI","RICE, WATER, SALT, COOKING OIL","BOILED FOR 1 HOUR","1 SHARED PLATE G"
+1,2,"Supper",1,"1/0/1900",2,3,"HOME","BEANS","BEANS, WATER, ONION, SALT, COOKING  OIL","BOILED AND COOKED FOR 1 HOUR 40 MIN","2 SHARED SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

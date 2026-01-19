@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,4,"SHAMBA","EMBE",,,"EMBE - B SIX EMBE"
+2,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","PREPARED FOR HER DAUGHTER","PLATE E - ONE"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","MCHUNGA","WATER AND SALT","PREPARED FOR HER DAUGHTER","SAURCER - B"
+2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","NANASI",,,"PORTION A THREE PIECES"
+2,,"Supper",1,"1/0/1900",5,5,"HOME","CHAPATI","WHEAT FLOUR, EGG, SALT, ONION, WATER","FLIED FOR 40 MINUTES","CHAPATI - B, THREE CHAPATI"
+2,,"Supper",1,"1/0/1900",5,5,"HOME","CHAI","MDALASINI, SUKARI","BOILED FOR TEN MINUTES","CUP C - ONE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","TEA","WATER, TANGAWIZI, MDALASINI, SUGAR","BOILED FOR 15MINUTES,","CUP C, HALF CUP"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","CASSAVA","SALT, WATER","COOKED FOR 20 MINUTES","CASSAVA B, TWO CASSAVA"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",1,5,"HOME","UGALI","WATER, MAIZE FLOUR, SEMBE","COOKED FOR 40 MINUTES,","PLATE D-HALF PLATE"
+,,"Lunch",1,"1/0/1900",1,5,"HOME","KISAMVU","WATER, SALT, ONION, COCONUT CREAM","COOKED FOR ONE HOUR AND HALF","SAURCER - B"
+,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","JUICE","PARACHICHI, EMBE, WATER, SUGAR","30 MINUTES","300 MLS"
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

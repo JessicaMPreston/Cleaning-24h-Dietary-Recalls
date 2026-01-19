@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","KALIMATI","BOUGHT","BOUGHT","TWO KALIMATI"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","UJI","BOUGHT","BOUGHT","CUP B - ONE"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","SUPU","BOUGHT","BOUGHT","SUPU PLATE A"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI","BOUGHT","BOUGHT","TWO CHAPATI - B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MTORI","COOKING OIL NDIZI, NYANYA ONION CARROTE PILIPILI HOHO SALT","COOKED FOR 30 MINUTES","PLATE (COMPARED TO SUPU SAURCER PLATE B."
+,,"Lunch",1,"1/0/1900",4,5,"HOME","CHAI","MCHAI CHAI SUKARI","BOILED FOR 5 MINUTES","CUP C- ONE"
+,,"Snack afternoon",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR TWENTY MINUTES","PLATE ONE D."
+,,"Snack afternoon",1,"1/0/1900",2,4,"HOME","BEEF","COOKING OIL, ONION, NYANYA, PILIPILI HOHO SALT","COOKED FOR 1 HOUR","MCHUZI SAURCER, BEEF PLATE B"
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

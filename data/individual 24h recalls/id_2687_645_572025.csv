@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, MDALASINI, SUGAR","BOILED FOR 05 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","NDIZI","NDIZI, SALT","FRIED FOR 10 MINUTES","1 PLATE A"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","1 PLATE D"
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","KABICHI","KABICHI, TOMATOE, ONION, CARROT, SALT","COOKED FOR 20 MINUTES","1 PLATE C"
+2,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, ONION, TOMATOE, BAMIA, NGOGWE,SALT","COOKED FOR 40 MINUTES","1 DAGAA SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","1 UGALI PLATE D"
+1,1,"Supper",1,"1/0/1900",4,4,"HOME","KABICHI","KABICHI, TOMATO, ONION, CARROT COOKING OIL SALT","COOKED FOR 20 MINUTES","1 PLATE C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

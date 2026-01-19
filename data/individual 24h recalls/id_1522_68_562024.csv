@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","WATER, MCHAICHAI, SUGAR.","COOKED 20 MINUTES","CUP C, 1 CUP"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","2 PIECES PLATE B"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",2,"",,,"",,,,
+2,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED - 35 MINUTES","PLATE F"
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","DAGAA -FRIED","COOKING OIL, ONIONS.","FRIED - 15 MINUTES.","SAURCER C"
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","MLENDA","BAMIA, SALT, MAJANI YA MABOGA","COOKED 15 MINUTES",
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

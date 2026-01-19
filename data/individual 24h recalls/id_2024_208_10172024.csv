@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, MDALASINI, IRIKI, SUKARI","PREPARED BY HER SISTER,","ONE CUP C"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","NDIZI","NDIZI, NYANYA, KAROTI, HOHO, KITUNGUU MAFUTA","PREPARED BY HER SISTER","PLATE B"
+2,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILING, THIRTY MINUTES","PLATE F"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA, CHUMVI, NYANYA, KITUNGUU, NGOGWE, BAMIA, MAJI, HOHO,","FRYING AND ROSTING, FOURTY FIVE MINUTES,","ONE FISH A, SAURCER C (STEW),"
+1,4,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, CHUMVI, MAJI, KITUNGUU","BOILING, FIVE MINUTES","SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,6,"Supper",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, THIRTY MINUTES","PLATE E"
+1,6,"Supper",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, CHUMVI, MAJI, MAFUTA, HOHO, NGOGWE, BAMIA, NYANYA,, VITUNGUU,","ATE LEFTOVER,","ONE FISH A SAURCER B (STEW)"
+1,6,"Supper",1,"1/0/1900",3,5,"HOME","MCHICHA","MCHICHA, KITUNGUU, MAJI, CHUMVI","ATE LEFT OVER","SAURCER D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","UJI","WATER, MAZIE FLOUR (DONA)","BOILED 30 MINUTES","CUP C - ONE CUP"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","WATER, MAIZE FLOUR (D0NA)","COOKED 20 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","TEMBELE","COOKING OIL, TOMATOES","COOKED TEN MINUTES","SAURCER A"
+,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","OVACADO",,,"PORTION - D"
+,,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","WATER, MAIZE FLOUR (DONA)","COOKED 35 MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",2,3,"HOME","TEMBELE","COOKING OIL, TOMATOES","COOKED 15 MINUTES","SAURCER - A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

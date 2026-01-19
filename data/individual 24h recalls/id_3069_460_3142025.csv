@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","SUKARI GREEN LEAVES","BOILED FOR 10 MINUTES","CUP C - ONE"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","MAANDAZI - A TWO MAANDAZI"
+2,0,"Morning snack",2,"",,,"",,,,
+2,0,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR TWENTY MINUTES","PLATE - D- ONE"
+2,0,"Lunch",1,"1/0/1900",3,4,"HOME","BEEF SAUCE","COOKING OIL NYANYA SALT ONION WATER","COOKED FOR 1 HOUR","SAURCER - D ONE"
+2,0,"Snack afternoon",2,"",,,"",,,,
+1,5,"Supper",1,"1/0/1900",1,5,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 35 MINUTES","PLATE E - ONE"
+1,5,"Supper",1,"1/0/1900",1,5,"HOME","SAMAKI FRIED","COOKING OIL SALT ONION NYANYA WATER","COOKED FOR TWENTY MINUTES","FISH - B ONE FISH"
+2,0,"Snack evening",1,"1/0/1900",1,1,"HOME","UJI","MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","CUP C - ONE"
+2,0,"Night snack",2,"",,,"",,,,

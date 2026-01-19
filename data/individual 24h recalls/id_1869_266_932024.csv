@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","TEA LEAF SUGAR","BOILED FOR 30 MINUTES","1 CUP C."
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","MIHOGO","CASSAVA, SALT","BOILED FOR 30 MINUTES","3 CASSAVA C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI A."
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","UGALI PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","FISH, TOMATO COOKING OIL LEMON ONION, SALT","FRIED AND COOKED FOR 30 MINUTES","1 FISH A"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MATEMBELE","MATEMBELE, TOMATO ONION, SALT","COOKED FOR 20 MINUTES","SAURCER A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","CHAI","TEA LEAF SUGAR, WATER","BOILED FOR 20 MINUTES","1 CUP C"
+,,"Supper",1,"1/0/1900",2,3,"HOME","MKATE","BOUGHT","BOUGHT","1 BREAD A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

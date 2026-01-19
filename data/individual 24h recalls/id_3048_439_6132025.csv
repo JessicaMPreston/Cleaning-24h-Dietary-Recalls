@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAI","CHAI, MDALASINI KARAFUU, SUKARI MAJI","BOILED FOR 10 MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","ANDAZI","BOUGHT","BOUGHT","5 ANDAZI C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","TAMBI","TAMBI, ILIKI, MAFUTA, SUKARI","COOKED FOR 45 MINUTES","TAMBI PLATE D."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 45 MINUTES","UGALI PLATE D."
+,,"Supper",1,"1/0/1900",2,4,"HOME","MNAVU","MNAVU, NYANYA MAFUTA KITUNGUU CHUMVI","COOKED FOR 10 MINUTES","MNAVU COMPARED TO MCHICHA SAURCER D."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

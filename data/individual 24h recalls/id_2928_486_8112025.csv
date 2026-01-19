@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAPATI","UNGA WA NGANO CHUMVI SUKARI MAZIWA YA UNGA","FRYINGI, SIXTY MINUTES","TWO CHAPATI D"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","MAZIWA","MAFUTA MAZIWA YA NG'OMBE SUKARI","BOILING, TEN MINUTES","300MLS"
+,,"Morning snack",1,"1/0/1900",5,5,"HOME","NDIZI YA KUIVA","NDIZI ZA KUIVA","EATEN RAW","TWO BANANA B"
+,,"Morning snack",1,"1/0/1900",5,5,"HOME","MACHUNGWA","MACHUNGWA","EATEN RAW","TWO ORANGE B"
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",1,"1/0/1900",3,4,"HOME","SODA PEPSI","BOUGHT","BOUGHT","500MLS"
+,,"Supper",1,"1/0/1900",5,5,"HOME","WALI","MCHELE,MAJI, MAFUTA, CHUMVI","BOILING FRYING AND ROASTING","ONE PLATE B"
+,,"Supper",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, KITUNGUU, KAROTI NYANYA, HOHO, FISH MASALA, NAZI VIAZI MVIRINGO","BOUGHT","ONE FISH A AND SAUCER D OF MCHUZI-STEW"
+,,"Supper",1,"1/0/1900",5,5,"HOME","JUICE","BOUGHT",,"500MLS"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

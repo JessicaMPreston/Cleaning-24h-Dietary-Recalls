@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","MILK, TEA LEAVES SUGAR","BOILED FOR 10 MINUTES,","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MANDAZI","WATER WHEAT FLOUR, OIL BAKING POWDER & WATER","BOUGHT.","2 MANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","FISH, SALT & COOKING OIL","COOKED FOR 40 MIN","2 FISH A"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SPINACH","SPINACH, ONION TOMATO, SALT COOKING OIL.","COOKED FOR 10 MIN","1 SAURCER C LIKE MCHICHA LOOK A LIKE."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","TEA","TEA LEAVES, WATER SUGAR, MILK","BOILED FOR 15 MIN","1 CUP C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","VITUMBUA","WHEAT FLOUR & RICE, COOKING OIL","BOUGHT","3 VITUMBUA A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

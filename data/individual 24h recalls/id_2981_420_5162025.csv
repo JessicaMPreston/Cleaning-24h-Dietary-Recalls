@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","SUPU YA KUKU","KUKU, LIMAO, CHUMVI, TANGAWIZI, KITUNGUU SAUMU","BOILED FOR 30 MIN","1 CHICKEN A"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAPATI","ALINUNUA","ALINUNUA","1 CHAPATI B"
+,,"Morning snack",2,"",,,"",,,,
+2,0,"Lunch",1,"1/0/1900",2,4,"HOME","CHIPS KAVU","ALINUNUA","ALINUNUA","1 PLATE B"
+,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",2,5,"HOME","PILAU","MCHELE, MAFUTA YA KUPIKIA, CHUMVI, KITUNGUU SAUMU, KITUNGUU MAJI, VIUNGO VYA PILAU, KAROTI, NYANYA, BINZARI NYEMBAMBA","COOKED FOR 45 MIN","SHARED 1 PLATE A"
+1,2,"Supper",1,"1/0/1900",2,5,"HOME","NYAMA YA KUKU","ILICHANGANYWA NA PILAU","COOKED FOR 45 MIN","1 CHICKEN A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, ILIKI SUGAR.","BOILED FOR 10 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT.","3 ANDAZI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL SALT","COOKED FOR 40 MINUTES","SHARED 1 PLATE B"
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, ONION TOMATOE, SALT COOKING OIL","COOKED FOR 1 HOUR.","SHARED 1 SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","SHARED 1 PLATE D"
+1,2,"Supper",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, TOMATOE ONION, CARROTS COOKING OIL","COOKED FOR 40 MIN.","SHARED 1 SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAI","WATER, SUGAR, TEA LEAF.","BOILING FOR 20 MINUTES.","CUP C"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","NDIZI","BANANA, SALT","BOILING FOR 45 MINUTES","BANANA PLATE C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 30 MINUTES","UGALI PLATE C"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","SARDINES, SALT, ONION, TOMATO, COOKING OIL","COOKING FOR 45 MINUTES","SARDINES SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","WATER, MAIZE FLOUR","COOKING FOR 30 MINUTES","UGALI PLATE C"
+,,"Supper",1,"1/0/1900",4,3,"HOME","MAHARAGE","BEANS, COCONUT MILK, SALT","COOKING FOR 2 HOURS","BEANS SAURCER C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

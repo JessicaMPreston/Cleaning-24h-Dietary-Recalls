@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,1,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 15 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,1,"HOME","KIAZI","KIAZI, SALT, WATER","BOILED FOR 10 MINUTES","1 KIAZI LIKA CASSAVA A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","PILAU","RICE, ONION, SALT, TOMATO,","COOKED FOR 27 MINUTES","1 PLATE C LIKE RICE"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","PILAU","RICE, ONION, SALT TOMATO, COOKING OIL","COOKED FOR 25 MINUTES","1 PLATE B LIKE RICE"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

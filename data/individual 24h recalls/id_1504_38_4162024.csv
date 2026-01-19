@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","WATER, MDALASINI, SUGAR, ILIKI, KARAFUU.","BOILED FOR TEN MINUTES","TEA ONE CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","ANDAZI","BOUGHT",,"THREE ANDAZI C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,2,"HOME","UGALI","WATER, UNGA WA SEMBE","COOKED FOR THIRTY MINUTES","UGALI PLATE D"
+,,"Lunch",1,"1/0/1900",4,2,"HOME","STEW","COOKING OIL, NGOGWE, TOMATO, ONION, SALT, BOUGHT","FRIED FOR TWENTY MINUTES.","STEW SAURCER B"
+,,"Lunch",1,"1/0/1900",4,2,"HOME","FISH","COOKING OIL, SALT","NA.","ONE FISH B,"
+,,"Lunch",1,"1/0/1900",4,2,"HOME","MCHICHA","MCHICHA, ONION, TOMATO,","FRIED FOR SEVEN MINUTES","MCHICHA SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,2,"HOME","BANANA","BANANA, SALT, WATER","BOILED FOR TWENTY FIVE MINUTES","BANANA PLATE D"
+,,"Supper",1,"1/0/1900",3,2,"HOME","TEA","SUGAR, WATER, MDALASINI, ILIKI, KARAFUU","BOILED FOR TEN MINUTES","ONE CUP C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

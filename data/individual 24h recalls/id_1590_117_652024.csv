@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","MAJI, MDALASINI, SUKARI, IRIKI, PILIPILI MANGA.","BOILING TWENTY MINUTES.","CUP C-ONE"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","MKATE","BOUGHT","BOUGHT","BREAD-PLATE B 04 PIECES"
+,,"Morning snack",1,"1/0/1900",2,2,"HOME","MATANGO,","MATANGO,","EATEN RAW.","TANGO MOJA"
+,,"Morning snack",1,"1/0/1900",2,2,"HOME","MIWA","MIWA","EATEN RAW.","PLATE D - 4 PIECES"
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",1,"1/0/1900",2,2,"HOME","JUICE","BOUGHT","BOUGHT","AFYA JUICE."

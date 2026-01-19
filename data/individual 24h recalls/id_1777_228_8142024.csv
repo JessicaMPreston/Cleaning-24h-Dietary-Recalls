@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","TEA","WATER TANGAWIZI TEA LEAVES MDALASINI","BOILED FOR 10 MINUTES","CUP C - 1/2 CU"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","BREAD","BOUGHT",,"BREAD B 4 SLICE"
+,,"Morning snack",1,"1/0/1900",1,3,"HOME","FENESI",,,"PLATE C"
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,5,"HOME","TAMBI","WATER SUGAR, COOKING OIL","COOKED FOR 35 MINUTES","PLATE C"
+,,"Supper",1,"1/0/1900",2,5,"HOME","CHAI","SUGAR TANGAWIZI MDALASINI WATER","COOKED FOR TWENTY MINUTES","CUP-C - ONE CUP"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

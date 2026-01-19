@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","MAIZE FLOUR WATER, SUGAR","BOILED FOR 30 MIN.","1 CUP B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 40 MIN.","1 PLATE C,"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","BATA","BATA, ONION TOMATOES, SALT HOHO, CAROT'S COOKING OIL","COOKED FOR 1 HOUR","1 CHICKEN/BATA C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

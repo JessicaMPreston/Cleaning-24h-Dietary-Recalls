@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, SUGAR","BOILED FOR 05 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI","NDIZI, SALT","FRIED FOR 05 MIN.","NDIZI 1/2 PLATE D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MIN.","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, ONION TOMATOE, SALT COOKING OIL","COOKED FOR 1 HOUR","1 SAURCER D"
+,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","PAWPAW","EATEN RAW","EATEN RAW","1/2 RAWPAN PIECE"
+,,"Supper",1,"1/0/1900",2,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 40 MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE, ONION. COOKING OIL, SALT TOMATOE","COOKED FOR 1 HOUR.","1 SAURCER A"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MCHICHA","MCHICHA, COOKING OIL, ONION","COOKED FOR 10 MIN","1 SAURCER D"
+,,"Supper",1,"1/0/1900",2,4,"HOME",,"TOMATOE, MCHICHA, COOKING OIL, ONION",,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

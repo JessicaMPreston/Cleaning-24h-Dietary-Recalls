@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","WATER, GINGER, MCHAICHAI, SUGAR,","BOILED FOR TEN MINUTES","TEA ONE CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","BANANA","BANANA,SALT, WATER","BOILED FOR TWENTY MINUTES","BANANA PLATE D."
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,3,"HOME","TEA","WATER, SUGAR, GINGER,MCHAICHAI","BOILED FOR TEN MINUTES","TEA, ONE CUP C"
+,,"Lunch",1,"1/0/1900",5,3,"HOME","BANANA","BANANA, SALT, WATER","BOILED FOR TWENTY MINUTES","BANANA PLATE D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","RICE","RICE, COOKING OIL, SALT, WATER","COOKED FOR FORTY FIVE MINUTES","RICE PLATE A"
+,,"Supper",1,"1/0/1900",4,3,"HOME","BEANS","BEANS, COOKING OIL, SALT, WATER","COOKED FOR ONE HOUR","BEANS SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,5,"HOME","UJI","MAIZE-FLOUR DONA","COOKED FOR 30 MINUTES","CUP C-TWO CUPS"
+2,,"Breakfast",1,"1/0/1900",3,5,"HOME","NDIZI MBIVU",,,"PLATE-B THREE NDIZI MBIVU"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI","WATER UNGA WA DONA","COOKED FOR 45 MINUTES.","PLATE -G"
+1,3,"Lunch",1,"1/0/1900",2,5,"HOME","MBOGA ZA MABOGA","MAJI SALT","COOKED FOR TWENTY MINUTES","SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","WATER MAIZE FLOUR DONA","COOKED FOR 40 MINUTES","PLATE G"
+1,3,"Supper",1,"1/0/1900",4,5,"HOME","MBOGA ZA MABOGA","WATER-SALT","COOKED FOR 20 MINUTES","SAURCER-D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

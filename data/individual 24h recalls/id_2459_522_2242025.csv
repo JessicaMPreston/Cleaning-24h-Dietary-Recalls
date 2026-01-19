@@ -1,0 +1,9 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,5,"OFFICE","CHAI","BOUGHT","BOILING, BOUGHT","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",3,5,"OFFICE","VIAZI VITAMU","BOUGHT","BOILING, BOUGHT","THREE PIECES PLATE A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,5,"OFFICE","MAKANDE","MAHINDI, CHUMVI, MAHARAGE, MAJI","BOILING, COOKED BY SCHOOL COOK","PLATE C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,5,"HOME","NDIZI","NDIZI,  MAFUTA, NYANYA, NYAMA, KITUNGUU, MAJI, CHUMVI","ROAST, TWO HOURS","PLATE D OF NDIZI AND SAURCER D OF BEEF SAUCE"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

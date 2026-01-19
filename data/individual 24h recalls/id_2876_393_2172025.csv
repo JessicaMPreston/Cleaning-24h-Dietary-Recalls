@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","MILK","BOUGHT","BOUGHT","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","BAGIA","BOUGHT","BOUGHT","3 BAGIA LIKE ANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","UNGA, MAJI","COOKED FOR 22 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, ONION, OIL, SALT, COCONUT","COOKED FOR 45 MIN","1 SAURCER B"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","MCHICHA","MCHICHA, ONION, OIL, HOHO, SALT","COOKED FOR 5 MIN","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,2,"HOME","VIAZI","VIAZI, NYANYA, OIL, ONION, HOHO, SALT","COOKED FOR 15 MIN","1 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

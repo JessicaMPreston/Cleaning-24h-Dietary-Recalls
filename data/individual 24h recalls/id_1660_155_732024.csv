@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAI","GINGER, SUGAR, WATER.","BOILING FOR 30 MINUTES.","CUP C"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","ANDAZI",,"BOUGHT","ANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, SALT, COOKING OIL","COOKING FOR 30 MINUTES","SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","UGALI PLATE A"
+,,"Supper",1,"1/0/1900",5,4,"HOME","DAGAA","SARDNES, ONION, SALT, COOKING OIL.","COOKING FOR 45 MINUTES.","SAURCER C."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

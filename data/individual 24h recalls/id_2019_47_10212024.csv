@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","WATER, TEALEAF, SUGAR, GINGER,","BOILED FOR 20 MINUTES,","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","MKATE","BOUGHT",,"3 BREAD ''A''"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKEKD FOR 30 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","TEMBELE","TEMBELE, TOMATO ONION, OIL SALT","COOED FOR 5 MINUTES","SAURCER C"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UONO","SARDINES/UONO OIL, SALT","FRIED FOR 20 MINUTES","AS SARDINES SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","WALI","RICE, OIL, WATER,SALT","COOKED FOR 1HOUR","PLATE C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","SAMAKI","FISH, TOMATO, ONION, SALT, COOKING OIL","FRIED THEN COOKED FOR 30 MINUTES","2 FISH A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

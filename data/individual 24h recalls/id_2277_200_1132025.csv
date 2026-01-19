@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAI","MAJI, SUKARI, IRIKI, TANGAWIZI MDALASINI","BOILING, TEN MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",3,5,"HOME","MKATE","BOUGHT","BOUGHT","BREAD A"
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","EMBE","EMBE","EATEN RAW","ONE EMBE C"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","NDIZI","NDIZI, CHUMVI, MAFUTA","FRYING, FIFTEEN MINUTES","FOUR BANANAS"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","KACHUMBARI","NYANYA, KITUNGUU, KAROTI, PILIPILI, LIMAO CHUMVI","CHOPPING, SEVEN MINUTES FRYING,","SAURCER B"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","BOUGHT","BOUGHT","TWO FISH C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,5,"HOME","CHAPATI ZA KUMIMINA","UNGA WA NGANO, MAJI, MAYAI, CHUMVI, SUKARI","FRYING, NUSU SAA","SAME AS CHAPATI C"
+,,"Supper",1,"1/0/1900",3,5,"HOME","SUPU YA NYAMA","MAFUTA, NYAMA YA NG'OMBE,CHUMVI, MAJI.","BOILING ONE HOUR","TWO PIECES PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TANGAWIZI, SUGAR.","BOILED FOR 5 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CASSAVA","CASSAVA, SALT.","FRIED FOR 15 MIN.","6 CASSAVA D"
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","MILK","MILK","BOILED FOR 15 MIN","1 CUP C."
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","MNAFU","MNAFU, ONION, CARROT, SALT, COOKING OIL","COOKED FOR 5 MIN","1 SAURCER C - MCHUNGA COMPARED TO SIZE OF MNAFU. 1 SAURCER D"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","NYAMA","NYAMA, ONION, CARROT, TOMATOE, COOKING OIL.","COOKED FOR 40 MIN","NYAMA IN STEW SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 15 MIN.","1 PLATE D"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MNAFU","MNAFU, ONION, CARROT TOMATOE, COOKING OIL","COOKED FOR 5 MIN.","1 SAURCER C - MCHUNGA COMPARED TO SIZE OF MNAFU."
+,,"Supper",1,"1/0/1900",3,3,"HOME","NYAMA","NYAMA, ONION CARROT TOMATOE, COOKING OIL.","COOKED FOR 40 MIN.","1 SAURCER D NYAMA IN STEW SAURCER D."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

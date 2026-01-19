@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAI","TEA LEAF, SUGAR, WATER.","BOILED FOR 10 MINUTES.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAPATI","BOUGHT","BOUGHT","1 CHAPATI C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES.","UGALI PLATE C"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","DAGAA","DAGAA, ONION, TOMATO, SALT, COOKING OIL","FRIED THEN COOKED FOR 20 MINUTES.","SAURCER C"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","TEMBELE","TEMBELE, TOMATO","BOILED FOR 10 MINUTES","SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","WALI","RICE, COOKING OIL,SALT","COOKED FOR 1 HOUR","PLATE F"
+,,"Supper",1,"1/0/1900",4,3,"HOME","MCHUZI","SALT, ONION, TOMATO. TOMATO, ONION, COOKING OIL","COOKED FOR 20 MINUTES","SAURCER C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

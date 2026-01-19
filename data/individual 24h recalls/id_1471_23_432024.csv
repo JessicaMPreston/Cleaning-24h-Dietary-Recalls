@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","WATER, MCHAICHAI, TEA LEAVES","BOILED 10 MINUTES.","1/2 CUP - C"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","BANANA","WATER SALT","BOILED- 20 MINUTES","PLATE - D"
+,,"Morning snack",1,"1/0/1900",1,1,"HOME","PEARS",,"BOUGHT","01"
+1,1,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED 30 MINUTES.","PLATE - A"
+1,1,"Lunch",1,"1/0/1900",2,3,"HOME","MATEMBELE","COOKING OIL, LEMON, SALT, ONIONS, TOMATOES","COOKED -15 MINUTES","SAURCER - C"
+,,"Snack afternoon",1,"1/0/1900",3,3,"HOME","NDIZI MBIVU",,,"01"
+,,"Supper",1,"1/0/1900",1,1,"HOME","CHAPATI","COOKING OIL, WHITE FLOUR, SALT, WATER","FRIED 1 HOUR","PLATE - A"
+,,"Supper",1,"1/0/1900",1,1,"HOME","COW MILK","COW MILK","BOILED -15 MINUTES","CUP - A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

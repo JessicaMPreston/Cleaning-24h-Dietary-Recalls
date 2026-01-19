@@ -1,0 +1,14 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TANGAWIZI, MAJANI YA CHAI, SUGAR,","BOILED FOR 10 MIN,","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,3,"HOME","CHAPATI","BOUGHT","BOUGHT","1 CHAPATI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",4,4,"HOME","RICE","RICE, SALT, COOKING OIL","COOKED FOR 30 MIN","SHARED 1 PLATE C"
+1,1,"Lunch",1,"1/0/1900",4,4,"HOME","MAHARAGE","MAHARAGE, ONION, TOMATOE, CARROT, COOKING OIL","COOKED FOR 45 MIN","SHARED 1 SAURCER B"
+1,1,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","SAMAKI, LEMON, SALT","FRIED FOR 10 MIN","1 FISH A"
+2,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","WATER MELON","RAW","RAW","1 SLICE"
+2,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 30 MIN","1 PLATE C"
+2,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, SALT, COOKING OIL","COOKED FOR 45 MIN,","1 SAURCER B"
+2,,"Supper",1,"1/0/1900",3,4,"HOME","SAMAKI","TOMATOE, CARROTS, SAMAKI, LEMON, SALT","FRIED FOR 10 MIN,","1/2 FISH A"
+2,,"Supper",1,"1/0/1900",3,4,"HOME","NDIZI MBIVU","RAW","RAW","1 PLATE A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

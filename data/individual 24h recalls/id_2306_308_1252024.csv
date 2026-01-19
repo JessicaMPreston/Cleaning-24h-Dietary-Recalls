@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","UJI","MAIZE FLOUR DONA","COOKED FOR 30 MINUTES","CUP C -"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","FENESI",,,"TWO PLATE - A - ONE"
+2,,"Morning snack",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE A ONE ORANGE"
+1,2,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR DONA","COOKED FOR 35 MINUTES","PLATE G - ONE"
+1,2,"Lunch",1,"1/0/1900",2,4,"HOME","DAGAA","ONION SALT NYANYA EMBE COOKING OIL WATER SALT","COOKED FOR TWENTY MINUTES","SAURCER - A ONE"
+1,2,"Lunch",1,"1/0/1900",2,4,"HOME","TEMBELE","TEMBERE","COOKED FOR 5 MINUTES","SAURCER C - ONE"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",2,"",,,"",,,,
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

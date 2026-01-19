@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",5,3,"HOME","CHAI","MAJI, SUKARI, MDALASINI","BOILING, SEVEN MINUTES","ONE CUP C"
+1,2,"Breakfast",1,"1/0/1900",5,3,"HOME","MIHOGO","BOUGHT,","BOUGHT,","CASSAVA B"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",2,"",,,"",,,,
+2,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, TWENTY MINUTES","PLATE E"
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","MCHUNGA","MCHUNGA, CHUMVI, NAZI, KITUNGUU, NYANYA, MAJI","BOILING TWENTY MINUTES,","SAURCER A"
+1,4,"Supper",1,"1/0/1900",5,5,"HOME","MAHARAGE","MAHARAGE, NAZI, VITUNGUU, NYANYA, CHUMVI, MAJI","BOILING, TWO HOURS","SAURCER A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

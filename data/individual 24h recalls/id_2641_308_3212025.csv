@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","UJI","NAZI SALT","BOILED FOR 20 MINUTES","CUP B- ONE"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","EMBE",,,"THREE EMBE -C"
+2,,"Morning snack",1,"1/0/1900",1,1,"HOME","ORANGE",,,"THREE ORANGE - B"
+1,2,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","PLATE - D ONE"
+1,2,"Lunch",1,"1/0/1900",2,4,"HOME","DAGAA","NYANYA NAZI COOKING OIL WATER","COOKED FOR 30 MINUTES","SAURCER - B ONE"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",2,4,"HOME","TAMBI","SUKARI CHUMVI NAZI","COOKED FOR 15 MINUTES","PLATE A - ONE"
+1,4,"Supper",1,"1/0/1900",2,4,"HOME","CHAI","MCHAI CHAI","BOILED FOR 10 MINUTES","PLATE B - ONE"
+1,4,"Supper",1,"1/0/1900",2,4,"HOME",,,,"CUP C - ONE"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

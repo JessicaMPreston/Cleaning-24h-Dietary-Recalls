@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,3,"HOME","CHAI","SUGAR, TEA LEAF, GINGER","BOILING FOR 30 MINUTES.","CUP C"
+2,,"Breakfast",1,"1/0/1900",5,3,"HOME","CHAPATI","WHEAT FLOUR, SALT, COOKING OIL.","BOUGHT.","CHAPATI D"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","UGALI SHARED PLATE F"
+1,3,"Lunch",1,"1/0/1900",4,3,"HOME","SAMAKI","SALT, FISH, COOKING OIL","COOKING FOR 30 MINUTES","FISH B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKING FOR 1 HOUR","UGALI SHARED PLATE F"
+1,4,"Supper",1,"1/0/1900",3,3,"HOME","DAGAA","SARDINES, SALT COOKING OIL","COOKING FOR 30 MINUTES","SAURCER D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

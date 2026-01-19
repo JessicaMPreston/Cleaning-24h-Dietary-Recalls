@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,5,"HOME","MAZIWA","MAZIWA","BOILING, TEN MINUTES","ONE CUP C"
+2,,"Breakfast",1,"1/0/1900",1,5,"HOME","MKATE","BOUGHT","BOUGHT","SKONZI"
+2,,"Morning snack",1,"1/0/1900",4,5,"HOME","EMBE","EMBE","EATEN RAW","ONE EMBE C"
+1,2,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA WA DONA MAJI","PREPARED BY HER MOTHER","PLATE H"
+1,2,"Lunch",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, NYANYA KITUNGUU, MAFUTA CHUMVI","PREPARED BY HER MOTHER","ONE FISH B"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,5,"HOME","WALI","MCHELE, MAJI,NAZI, CHUMVI","PREPARED BY HER MOTHER","PLATE C"
+2,,"Supper",1,"1/0/1900",3,5,"HOME","CHAI","MAJI, MDALASINI MCHAICHAI, SUKARI","PREPARED BY HER MOHTER","ONE CUP C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, IRIKI, MDALASINI, SUKARI","BOILING, FIVE MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","MKATE","BOUGHT","BOUGHT","FOUR BREAD B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","NDIZI ZA KUCHEMSHA","NDIZI, MAFUTA, CHUMVI, MAJI","BOILING, FIFTEEN MINUTES","PLATE D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",5,5,"HOME","WALI","MCHELE, MAJI, MAFUTA, CHUMVI","BOILING, THIRTY MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",5,5,"HOME","MAHARAGE","MAHARAGE, MAJI, NAZI, KITUNGUU, KAROTI, CHUMVI","BOILING, TWO HOURS","SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

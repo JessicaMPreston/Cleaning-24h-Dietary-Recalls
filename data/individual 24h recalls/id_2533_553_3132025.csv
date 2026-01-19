@@ -1,0 +1,8 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","PORRIDGE","MAIZE FLOOR, SUGAR, WATER","BOILED FOR 22 MINUTES","1 CUP B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","RICE","WATER, RICE, SALT, COOKING OIL","BOILED FOR 15 MINUTES","1 PLATE C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,2,"HOME","PORRIDGE","WATER, MAIZE, FLOUR, SUGAR","COOKED FOR 20 MINUTES","1 CUP B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

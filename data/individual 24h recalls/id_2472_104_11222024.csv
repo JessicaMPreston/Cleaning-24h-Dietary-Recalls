@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,3,"Breakfast",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR TWENTY MINUTES","PLATE F"
+1,3,"Breakfast",1,"1/0/1900",4,5,"HOME","MCHUNGA","COOKING OIL NYANYA ONION SALT","COOKED FOR 1 HOUR","ONE SAURCER - B"
+1,3,"Breakfast",1,"1/0/1900",4,5,"HOME","KABICHI","COOKING OIL ONION NYANYA SALT","COOKED FOR TWENTY MINUTES","ONE PLATE - B ONE"
+2,,"Morning snack",1,"1/0/1900",1,2,"HOME","EMBE",,,"EMBE C SIX EMBE"
+1,3,"Lunch",2,"",,,"",,,,
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 40 MINUTES","PLATE F- ONE"
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","DAGAA","ONION SALT COOKING OIL TOMATOES","COOKED FOR 30 MINUTES","SAURCER - A - ONE"
+1,3,"Supper",1,"1/0/1900",3,4,"HOME","KABICHI","TOMATOES ONION COOKING OIL SALT","COOKED FOR TWENTY MINUTES","PLATE B - ONE"
+2,,"Snack evening",1,"1/0/1900",1,2,"HOME","FENESI",,,"PLATE D - ONE"
+2,,"Night snack",2,"",,,"",,,,

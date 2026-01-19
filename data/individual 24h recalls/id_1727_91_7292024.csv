@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","UJI","MAIZE FLOUR, SALT, WATER,","BOILING FOR 30 MINUTES,","CUP B"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","FENESI","JACKFRUIT","(NA) NATURAL","JACKFRUIT PLATE D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKING FOR 1 HOUR","PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","FISH, SALT, LEMON TOMATO, ONION,OKRA","FRIED FOR 20 MINUTES","3 FISH B"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MBAAZI","MBAAZI","COOKING FOR 1 HOUR","AS MAHARAGE SAURCER A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","TEA LEAVES SUGAR","BOILING FOR 30 MINUTES","CUP C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","VIAZI VITAMU","VIAZI VITAMU","BOILING FOR 1 HOUR","AS CASSAVA, PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

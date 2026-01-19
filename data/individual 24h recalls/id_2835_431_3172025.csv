@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","NDIZI","BANANA, OIL","COOKED FOR 15 MINUTES","1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","NYAMA","NYAMA, TOMATOES, SALT","COOKED FOR 40 MINUTES","1 PLATE B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,5,"HOME","NDIZI","NDIZI, OIL","COOKED FOR 15 MINUTES","1 PLATE B"
+,,"Supper",1,"1/0/1900",3,5,"HOME","NYAMA","NYAMA, SALT TOMATOES","COOKED FOR 40 MINUTES","1 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

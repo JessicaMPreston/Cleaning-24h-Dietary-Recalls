@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAI YA RANGI","MAJI, MCHAICHAI. SUKARI","BOILING - 15 MINUTES.","CUP C ONE CUP"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAPATI","UNGA WA NGANO CHUMVI","FRYING 30 MINUTES","CHAPATI B-2 PIECES,"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","NDIZI MBIVU",,,"2 BANANA"
+,,"Morning snack",1,"1/0/1900",4,4,"WORK PLACE","HALF CAKES","WHEAT FLOUR, SUGAR, SALT, OIL","DEEP FRYING-BOUGHT","ANDAZI B. 3 PIECES"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","UNGA WA MAHINDI, MAJI","BOILING.","PLATE B-UGALI"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","MATEMBELE","MATEMBELE, NYANYA, KAROTI, VITUNGUU, MAFUTA","FRYING","SAUCE A-MATEMBELE"
+,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","NDIZI MBIVU","NDIZI",,"1 BANANA"
+,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","MCHELE,  COOKING OIL, SALT","BOILING","PLATE B-RICE"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, HOHO, KITUNGUU SWAUMU, NAZI.","BOILING","SAUCER C-BEANS"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","UJI","UNGA DONA, MAJI, MAFUTA, SUKARI, CHUMVI.","BOILED FOR 30 MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","BOUGHT","BOUGHT.","NDIZI 3 PLATE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA WA MUHOGO, MAJI","COOKED FOR 1 HOUR","UGALI PLATE D."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UTUMBO","UTUMBO, LIMAO CHUMVI","COOKED FOR 45 MINUTES.","UTUMBO PLATE A."
+,,"Snack afternoon",2,"",,,"",,,,
+1,4,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","UGALI WA DONA, MAJI","COOKED FOR 45 MINUTES","SHARED PLATE F"
+1,4,"Supper",1,"1/0/1900",3,4,"HOME","KUKU","BOUGHT","BOUGHT","CHICKEN A."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

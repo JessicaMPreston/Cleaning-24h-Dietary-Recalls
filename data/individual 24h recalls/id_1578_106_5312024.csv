@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,6,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MCHAICHAI, MAJI, SUKARI.","BOILING, TEN MINUTES.","CUP B- HALF"
+1,6,"Breakfast",1,"1/0/1900",5,5,"HOME","NDIZI","NDIZI, CHUMVI, MAJI.","BOILING, THIRTY MINUTES","PLATE H OF SHARED PLATE"
+2,,"Morning snack",2,"",,,"",,,,
+1,6,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA WA MAHINDI, MAJI","BOILING, PREPARED BY HER SISTER","PLATE F"
+1,6,"Lunch",1,"1/0/1900",4,5,"HOME","NYAMA","NYAMA YA NG'OMBE, NYANYA, VITUNGUU, CHUMVI","ROAST, PREPARED BY HER SISTER","SAURCER C"
+2,,"Snack afternoon",1,"1/0/1900",1,2,"HOME","CHUNGWA, MUWA","CHUNGWA, MUWA","EATEN RAW. EATEN RAW","ORANGE A - TWO PIECES, PLATE C"
+1,3,"Supper",1,"1/0/1900",4,4,"HOME","WALI","WALI, MAFUTA, CHUMVI","BOILING , PREPARED BY HER SISTER","PLATE F"
+1,3,"Supper",1,"1/0/1900",4,4,"HOME","MAHARAGE","MAHARAGE, NAZI, CHUMVI, KITUNGUU.","BOILING, PREPARED BY HER SISTER. EATEN RAW,","SAURCER A"
+1,3,"Supper",1,"1/0/1900",4,4,"HOME","JUICE","PARACHICHI, SUKARI","BOUGHT","HALF CUP C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

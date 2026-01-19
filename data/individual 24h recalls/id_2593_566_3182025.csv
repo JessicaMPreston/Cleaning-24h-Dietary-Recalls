@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,2,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","1 PLATE C SHARED"
+1,3,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, OIL SALT","COOKED FOR 15 MINUTES","3 SAMAKI B SHARED"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","1 PLATE C SHARED"
+1,3,"Supper",1,"1/0/1900",4,3,"HOME","SAMAKI","SAMAKI, OIL, ONION SALT, TOMATOES","COOKED FOR 17 MINUTES","4 SAMAKI B SHARED"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

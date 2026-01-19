@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, KAROTI, HOHO, CHUMVI","COOKED FOR 2 HR","1 SAURCER - B"
+2,,"Breakfast",1,"1/0/1900",2,3,"HOME","ANDAZI","ALINUNUA","ALINUNUA","3 ANDAZI B"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA MAHINDI, SEMBE MAJI.","COOKED FOR 15 MIN","SHARED 1 PLATE - E"
+1,2,"Lunch",1,"1/0/1900",2,3,"HOME","TEMBELE","TEMBELE KITUNGUU MAJI, NYANYA, MAFUTA YA KUPIKIA. CHUMVI","COOKED FOR 10 MIN","SHARED 1 SAURCER A"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","UNGA WA MAHINDI, MAJI DONA","BOILED FOR 15 MIN","1 PLATE C"
+2,,"Supper",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, CHUMVI, NAZI, MAFUTA YA KUPIKIA CHUMVI","COOKED FOR 20 MIN","1 SAURCER B"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

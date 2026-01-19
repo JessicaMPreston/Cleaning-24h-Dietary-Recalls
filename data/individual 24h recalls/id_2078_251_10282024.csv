@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, ILIKI, SUGAR,","BOILED FOR 10 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CASSAVA","CASSAVA, SALT","BOILED FOR 20 MIN","3 ANDAZI D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 30 MIN,","1 PLATE C, UGALI,"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI,","SAMAKI, TOMATOE ONION, POTATOES BAMIA","COOKED FOR 30 MIN,","3 FISH B,"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHICHA","MCHICHA, ONION CARROT, HOHO","COOKED FOR 10 MIN","1 SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 20 MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",2,4,"HOME","SAMAKI","SAMAKI, TOMATOE, POTATOES, BAMIA, COOKING OIL,","COOKED FOR 30 MIN,","3 FISH B"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MCHICHA","MCHICHA, ONION, COOKING OIL, SALT","COOKED FOR 10 MIN","1 SAURCER C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

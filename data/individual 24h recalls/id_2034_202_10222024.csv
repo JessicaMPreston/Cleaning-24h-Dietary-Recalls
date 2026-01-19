@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,4,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","SUKARI, MCHAICHAI, MDALASINI, IRIKI,","BOILED FOR 20 MINUTES,","CUP C-ONE CUP"
+1,4,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","ONION, SALT, NYANYA, NAZI","BOILED FOR 35 MINUTES","PLATE E-ONE PLATE"
+2,,"Morning snack",2,"",,,"",,,,
+1,4,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 40 MINUTES","PLATE E-ONE"
+1,4,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","NYANYA, WATER, ONION, COOKING OIL, SALT","COOKED FOR 30 MINUTES","PLATE FISH-A, TWO FISH"
+1,4,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","NYANYA, SALT, ONION","COOKED FOR 10 MINUTES","ONE PLATE-SAURCER -C"
+2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","PAWPAW",,,"PORTION A"
+1,4,"Supper",1,"1/0/1900",4,5,"HOME","WALI","COKING OIL, WATER, SALT","COOKED FOR 1 HOUR.","PLATE - E - ONE PLATE"
+1,4,"Supper",1,"1/0/1900",4,5,"HOME","MAHARAGE","WATER, NAZI, ONION","COOKED FOR 1 1/2 HOUR","ONE PLATE SAURCER - C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

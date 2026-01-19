@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, ILIKI SUGAR WATER","BOILED FOR 5 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","BREAD","BOUGH","BOUGHT","3 SLACE OF BREAD"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 10 MIN","PLATE D"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","4 FRIED SAMAKI","COOKING OIL, NYANYA, VITUNGUU, CHUMVI MAJI","COOKED FOR 3 HOURS","4 FISH PLATE D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","RICE, COOKING OIL, CHUMVI MAJI","COOKED FOR 10 MIN","PLATE B"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","BEANS, COOKING OIL, ONION, NAZI","COOKED FOR 1 HOUR","SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

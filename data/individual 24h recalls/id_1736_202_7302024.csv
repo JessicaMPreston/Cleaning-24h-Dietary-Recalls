@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","TEA LEAF, SUGAR, WATER.","BOILING FOR 30 MINUTES.","CUP C"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","UGALI PLATE D."
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","FRIED FISH, TOMATO, LEMON, ONION, SALT","FRIED FOR 30 MINUTES THEN COOKING FOR 20 MINUTES","2 FISH C."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","IRISH POTATOES","IRISH POTATOES, COOKING OIL, SALT, TOMATO, ONION","COOKING FOR 1 HOUR","VIAZI PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

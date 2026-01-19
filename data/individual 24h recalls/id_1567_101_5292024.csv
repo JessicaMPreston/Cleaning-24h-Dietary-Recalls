@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,5,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","TANGAWIZI, MDALASINI, SUKARI,","BOILING 15 MINUTES,","CUP C. ONE AND A HALF CUP"
+1,5,"Breakfast",1,"1/0/1900",5,5,"HOME","VIAZI VITAMU","MAJI. VIAZI, CHUMVI","BOILING,45 MINUTES","PLATE A OF POTATOES (SHARED)"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA MAHINDI, MAJI","BOILING THIRTY MINUTES","PLATE F- SHARED"
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, NYANYA, MAFUTA , CHUMVI","ROSTING , ONE HOUR","FISH D. TWO PIECES"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,5,"Supper",1,"1/0/1900",3,3,"HOME","CHAI","TANGAWIZI, MAJI, MDALASINI, SUKARI","BOILING 15 MINUTES","CUP C- ONE AND A HALF CUP"
+1,5,"Supper",1,"1/0/1900",3,3,"HOME","MHOGO","MIHOGO, CHUMVI, MAJI","BOILING 40 MINUTES","PLATE A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

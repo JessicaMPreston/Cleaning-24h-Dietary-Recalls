@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","SUKARI, MDALASINI.","BOILED FOR 10 MINUTES.","CUP C-ONE CUP"
+2,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAPATI","BOUGHT","BOUGHT","CHAPATI-C, CHAPATI MOJA"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAJI, MAIZE FLOUR SEMBE,","COOKED BY HER MOTHER,","PLATE D,"
+2,,"Lunch",1,"1/0/1900",4,5,"HOME","NYAMA YA KUKU","COOKING OIL, SALT, WATER, NYANYA, ONION","COOKED BY HER MOTHER","MCHUZI-B, CHICKEN -C"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,1,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","MAJI,  MAIZE FLOUR SEMBE","COOKED FOR 40 MINUTES","PLATE-B"
+1,1,"Supper",1,"1/0/1900",4,5,"HOME","MAHARAGE","MAJI, VITUNGUU, HOHO, NYANYA, MAFUTA","COOKED FOR 1 1/2 HOUR","SAURCER -B"
+1,1,"Supper",1,"1/0/1900",4,5,"HOME","TEMBELE","COOKING OIL, SALT, ONION","COOKED FOR 20 MINUTES","SAURCER-D"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

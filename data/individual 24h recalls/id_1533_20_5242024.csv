@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEALEAVES AND SUGAR, WATER.","BOILED FOR 20 MINUTES.","1 CUP B"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MANDAZI","WHEATFLOUR, OIL, SALT AND SUGAR.","BOUGHT","2 MAANDAZI A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES.","1 PLATE B,"
+,,"Lunch",1,"1/0/1900",4,3,"HOME","MBOGA ZA MAJANI","MBOGA ZA MAJANI, SALT, OIL, TOMATO, ONIONS, AND WATER","COOKED FOR 20 MINUTES","1 SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","TEA","TEA LEAVES AND WATER, SUGAR","BOILED FOR 20 MINUTES","1 CUP C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MAANDAZI","WHEAT FLOUR, OIL, SUGAR","BOUGHT","2 MANDAZI A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

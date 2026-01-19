@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","TEA","WATER,SUGAR, MDALASINI,","BOILED 10 MINUTES","CUP C-ONE CUP"
+2,,"Breakfast",1,"1/0/1900",1,3,"HOME","CHAPATI","BOUGHT",,"CHAPATI C,TWO CHAPATI"
+2,,"Morning snack",2,"",,,"",,,,
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","PLATE C HALF PLATE"
+1,1,"Lunch",1,"1/0/1900",2,4,"HOME","NYAMA COW BEEF","WATER COOKING OIL, TOMATOES, PILIPILI, ONION CARROT HOHO","COOKED FOR ONE HOUR","SAURCER - C AND SAURCER - D"
+2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","ORANGES, MAHINDI YA KUCHOMA",,"PREPARED 20 MINUTES","ORANGE A TWO ORANGES 3 PIECES"
+2,,"Supper",1,"1/0/1900",2,4,"HOME","WALI","WATER, COOKING OIL SALT","COOKED FOR ONE HOUR","PLATE SAURCER -C"
+2,,"Supper",1,"1/0/1900",2,4,"HOME","COW MEAT","WATER, PILIPILI HOHO, COOKING OIL, ONION, TOMATOES, CARROT, SALT","COOKED FOR ONE HOUR","SAURCER -D"
+2,,"Snack evening",1,"1/0/1900",2,4,"HOME","SODA AFYA","BOUGHT",,"AFYA - 300MLS"
+2,,"Night snack",2,"",,,"",,,,

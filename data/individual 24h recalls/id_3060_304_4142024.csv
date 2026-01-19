@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MAJI, SUKARI, MDALASINI, KARAFUU, PILIPILI MANGA, IRIKI","BOILED FOR 10 MIN","1 CUP C"
+1,2,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAPATI","ALINUNUA","ALINUNUA","2 CHAPATI B"
+,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","WALI","MCHELE, CHUMVI, NAZI","COOKED FOR 20 MIN","1 PLATE C SHARED"
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","NYAMA YA KUKU YA KUKAANGA","NYAMA, NYANYA, VITUNGUU, MAFUTA YA KUPIKIA, CHUMVI","BOILED FOR 15 MIN","1 CHICKEN B"
+,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",2,3,"HOME","WALI","MCHELE, NAZI, CHUMVI","COOKED FOR 20 MIN","1 PLATE C SHARED"
+1,2,"Supper",1,"1/0/1900",2,3,"HOME","NYAMA YA KUKAANGA YA KUKU","NYAMA, KITUNGUU, NYANYA, MAFUTA YA KUPIKIA, CHUMVI","BOILED FOR 15 MIN","1 CHICKEN A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,3,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAI","SUGAR, TEA LEAF WATER","BOILING FOR 30 MINUTES","CUP C"
+1,3,"Breakfast",1,"1/0/1900",5,4,"HOME","MAANDAZI",,"BOUGHT","ANDAZI A (3)"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKING FOR 1 HOUR","UGALI PLATE E"
+1,3,"Lunch",1,"1/0/1900",4,5,"HOME","KABICHI","ONION, TOMATO COOKING OIL CABAGGE, SALT","COOKING FOR 45 MINUTES","AS MATEMBELE SAURCER A"
+1,3,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","FISH, COOKING OIL SALT, TOMATO, ONION","COOKING FOR 1 HOUR","FISH A"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",4,5,"HOME","WALI","RICE, COOKING OIL, SALT","COOKING FOR 1 HOUR","RICE SAURCER D"
+1,3,"Supper",1,"1/0/1900",4,5,"HOME","MAHARAGE","BEANS, COOKING OIL, SALT","COOKING FOR 3 HOURS","PLATE E, SAURCER A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

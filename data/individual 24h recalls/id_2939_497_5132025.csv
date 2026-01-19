@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MAJI, MDALASINI, MAJANI YA CHAI PILIPILI MANGA SUKARI","BOILED FOR 5 MIN","1 CUP C"
+2,0,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI","NDIZI, NYAMA KITUNGUU MAJI, MAFUTA YA KUPIKIA MAJI, CHUMVI","COOKED FOR 15 MIN","1 PLATE A"
+,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 20MIN","SHARED 1 PLATE B"
+1,3,"Lunch",1,"1/0/1900",2,4,"HOME","SAMAKI","SAMAKI, NYANYA, KITUNGUU MAJI, MAFUTA YA KUPIKIA, CHUMVI, MAJI.","COOKED FOR 15 MIN","SHARED 6 FISH D"
+1,3,"Lunch",1,"1/0/1900",2,4,"HOME","MCHUNGA","MCHUNGA, NAZI, KITUNGUU MAJI, CHUMVI","COOKED FOR 25 MIN","1 SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 20 MIN","1 PLATE F"
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","SAMAKI","SAMAKI, NYAMA, MAJI, MAFUTA YA KUPIKIA, KITUNGUU MAJI CHUMVI","COOKED FOR 15 MIN","6 FISH D"
+1,3,"Supper",1,"1/0/1900",2,4,"HOME","MCHUNGA","MCHUNGA, MAJI, NAZI KITUNGUU MAJI, CHUMVI","COOKED FOR 25 MIN","1 SAURCER D"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,8 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","UJI","MAIZE FLOUR WATER, SUGAR","BOILED FOR 30 MIN.","1 CUP B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UJI","MAIZE FLOUR WATER, SUGAR","BOILED FOR 30 MIN.","1 CUP C."
+,,"Snack afternoon",1,"1/0/1900",3,4,"HOME","MANGO","MANGO","MANGO","2 RAW MANGOE'S"
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

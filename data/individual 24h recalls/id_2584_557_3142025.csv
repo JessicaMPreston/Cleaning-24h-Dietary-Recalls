@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","SUKARI MDALASINI","BOILED FOR TEN MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","FOUR MAANDAZI - A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOOR SEMBE","COOKED FOR 30 MINUTES","PLATE D- ONE"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MAJANI YA MABOGO","SALT NYANYA COOKING OIL","COOKED FOR TEN MINUTES","SAURCER - D-ONE"
+,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE A 3 ORANGE"
+,,"Supper",1,"1/0/1900",1,4,"HOME","CHAI","TANGAWIZI, IRIKI","BOILED FOR 15 MINUTES","CUP C- ONE"
+,,"Supper",1,"1/0/1900",1,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","TWO MAANDAZI ANDAZI- A"
+,,"Snack evening",1,"1/0/1900",2,3,"HOME","UJI","MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","CUP C- 3 CUPS"
+,,"Snack evening",1,"1/0/1900",2,3,"HOME","NDIZI MBIVU","BOUGHT","BOUGHT","3 NDIZI MBIVU- PLATE -A"
+,,"Night snack",2,"",,,"",,,,

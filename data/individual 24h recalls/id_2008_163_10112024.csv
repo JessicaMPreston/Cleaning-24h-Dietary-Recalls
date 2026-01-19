@@ -1,0 +1,16 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI,MAJANI YA CHAI, SUKARI BOILING, TEN MINUTES","BOILING, TEN MINUTES,","ONE AND HALF CUP C,"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","FOUR ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, TWENTY MINUTES,","HALF PLATE D,"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MCHICHA","MCHICHA, MAFUTA, NYANYA, KITUNGUU, CHUMVI,","FRYING, TEN MINUTES,","SAURCER D,"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","WALI","MCHELE,CHUMVI, MAFUTA, MAJI","ATE LEFT  OVER,","PLATE C,"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","CHINESE","CHINESE, MAFUTA, KITUNGUU, KAROTI, HOHO, NYANYA, CHUMVI, MAJI","ATE LEFT OVER","SAME AS SAURCER D OF MAJANI YA MABOGA"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",2,"",,,"",,,,
+,,"Snack evening",1,"1/0/1900",5,5,"HOME","WALI","ATE AT FEAST, ATE AT FEAST, ATE AT FEAST,","PREPARED BY VENDOURS","PILAU-PLATE D"
+,,"Snack evening",1,"1/0/1900",5,5,"HOME","PILAU","ATE AT FEAST","PREPARED BY VENDOURS","PILAU-PLATE B,"
+,,"Snack evening",1,"1/0/1900",5,5,"HOME","NYAMA",,,"NYAMA-SAURCER D"
+,,"Snack evening",1,"1/0/1900",5,5,"HOME","KACHUMBARI",,,"KACHUMBARI SAURCER D"
+,,"Snack evening",1,"1/0/1900",5,5,"HOME",,,,"SODA-300MLS"
+,,"Night snack",2,"",,,"",,,,

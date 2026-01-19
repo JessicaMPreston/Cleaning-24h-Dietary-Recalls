@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","SUPU YA NG'OMBE","BOUGHT","BOUGHT","SAURCER D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",5,5,"HOME","CHIPS","BOUGHT","FRYING","PLATE D"
+,,"Supper",1,"1/0/1900",5,5,"HOME","SODA","BOUGHT","BOUGHT","MALTA"
+,,"Supper",1,"1/0/1900",5,5,"HOME",,,"BOUGHT",
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

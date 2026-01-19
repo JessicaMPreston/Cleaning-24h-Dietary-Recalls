@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","PORRIDGE","MAIZE, ULEZI MTAMA","BOILED FOR 30 MINUTES","ONE CUP B PORRIDGE"
+,,"Morning snack",1,"1/0/1900",1,2,"HOME","TIKITI","BOUGHT","CUT INTO SLICES","THREE PIECE OF TIKITI"
+,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA DONAMAJI","COOKED FOR 15 MINUTES","ONE PLATE D UGALI"
+,,"Lunch",1,"1/0/1900",4,3,"HOME","FISH","FISH, SALT LEMON, MAFUTA JINA MOTO","FRIED FOR 30 MINUTES","ONE FISH B"
+,,"Lunch",1,"1/0/1900",4,3,"HOME","CHAINIZI","CHAINIZI SALT, COOKING OIL SALT, TOMATO ONION, CARROT","COOKED FOR 15 MINUTES","ONE SAURCER D. CHAINIZI (MAJANI YA MABOGA)"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, SALT, WATER COOKING OIL","COOKED FOR 45 MINUTES","ONE PLATE B RICE"
+,,"Supper",1,"1/0/1900",3,4,"HOME","FISH","FISH, SALT, COOKING OIL","FRIED FOR 30 MINUTES","ONE FISH B"
+,,"Supper",1,"1/0/1900",3,4,"HOME","STEW","ONION, TOMATO COCONUT, BAMIA","COOKED FOR 15 MINUTES","ONE SAURCER D BAMIA, AND ONE SAURCE D STEW"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

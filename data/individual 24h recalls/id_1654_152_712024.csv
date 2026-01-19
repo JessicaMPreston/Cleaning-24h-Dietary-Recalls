@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR, WATER AND SUGAR.","BOILED FOR 45 MINUTES","1 CUP - B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR AND WATER","COOKED FOR 20 MINUTES.","1 PLATE B."
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI,","FISH, SALT AND COOKING OIL.","FRIED SAMAKI FOR 30 MINUTES.","1 FISH B."
+,,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","MCHICHA, SALT, COOKING OIL AND ONIONS.","COOKED FOR 20 MINUTES.","1 MCHICHA SAURCER C."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","CHICKEN","CHICKEN, SALT, COOKING OIL","FRIED CHICKEN FOR 15 MINUTES","1 CHICKEN A"
+,,"Supper",1,"1/0/1900",3,3,"HOME","POTATOES","POTATOES, SALT, COOKING OIL.","FRIED POTATO FOR 20 MINUTES.","1 PLATE D."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

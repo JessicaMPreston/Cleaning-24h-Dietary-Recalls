@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","NDIZI","BOUGHT FRIED BANANA","FRIED FOR 10 MIN","1 PLATE C"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","EMBE","RAW EMBE","BOUGHT","1 EMBE A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","WALI","WALI, ONION, SALT COOKING OIL","COOKED FOR 20 MIN","1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION, NYANYA,","COOKED FOR 15 MIN","1 FISH A."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","TAMBI","TAMBI, SALT COOKING OIL","COOKED FOR 20 MIN","1 PLATE B"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","SALT, MAHARAGE. COOKING OIL","COOKED FOR 45 MIN","1 SAURCER B."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

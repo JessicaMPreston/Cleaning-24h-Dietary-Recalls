@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",5,3,"HOME","JUICE","BOUGHT",,"ONE AFYA SODA 300MLS"
+,,"Breakfast",1,"1/0/1900",5,3,"HOME","CAKE","BOUGHT",,"ONE CAKE B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","WATER UNGA WA DONA WATER,","COOKED FOR 30 MINUTES","HALF PLATE D UGALI"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","DAGAA","SALT DAGAA, TOMATO","COOKED FOR 20 MINUTES","SAURCER D DAGAA"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","MAZIWA YA MTINDI","BOUGHT",,"HALF CUP C MTINDI"
+,,"Snack afternoon",1,"1/0/1900",2,1,"HOME","SOIL",,,"ONE PLATE D"
+,,"Supper",1,"1/0/1900",4,3,"HOME","MAKANDE","MAIZE, BEANS SALT, ILIKI, ONION COOKING OIL","COOKED FOR 2 HOURS","PLATE C MAKANDE"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

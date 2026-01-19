@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","TEA, MDALASINI, GINGER, WATER.","BOILED FOR 10 MINUTES.","1 CUP C."
+2,,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","BANANA, SALT, WATER","BOILED FOR 20 MINUTES","PLATE C"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER.","COOKED FOR 20 MINUTES.","PLATE A."
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","MNAVU","MNAVU, SALT, TOMATO, ONION.","COOKED FOR 10 MINUTES.","AS MCHICHA SAURCER B"
+1,2,"Lunch",1,"1/0/1900",3,4,"HOME","NYAMA NG'OMBE","BEEF, TOMATO, WATER, ONION, SALT","COOKED FOR 30 MINUTES","SAURCER C"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","PLATE A"
+1,2,"Supper",1,"1/0/1900",5,4,"HOME","MCHICHA","MCHICHA, SALT, ONION","COOKED FOR 10 MINUTES","PLATE C"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,8 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",1,2,"HOME","TEA","WATER, SUGAR, MDALASINI, IRIKI","BOILED 15 MINUTES","HALF CUP -  CUP C"
+,,"Morning snack",1,"1/0/1900",1,1,"HOME","SUGAR CANE SUGAR CANE",,,"PLATE D"
+,,"Lunch",2,"",,,"",,,,
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,2,"HOME","PORRIDGE","WATER, MAIZE FLOUR (SEMBE)","COOKED FOR 20 MINUTES","HALF CUP - CUP C"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

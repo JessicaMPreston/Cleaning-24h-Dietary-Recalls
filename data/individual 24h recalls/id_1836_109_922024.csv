@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TEA LEAVES, MDALASINI, SUGAR,","BOILED FOR 5 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","SWEET POTATOES","SWEET POTATOES, SALT","COOKED FOR 30 MIN.","1 VIAZI PLATE COMPARED TO SWEET POTATOES"
+,,"Morning snack",1,"1/0/1900",2,2,"HOME","MAZIWA MTINDI","BOUGHT","BOUGHT","1 CUP C"
+,,"Lunch",1,"1/0/1900",1,4,"HOME","RICE","RICE, SALT, COOKING OIL","COOKED FOR 30 MIN","1 PLATE C RICE"
+,,"Lunch",1,"1/0/1900",1,4,"HOME","MAHARAGE","MAHARAGE, ONION CARROTES, HOHO SALT, COOKING OIL","COOKED FOR 45 MIN","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","RICE","RICE. COOKING OIL SALT","COOKED FOR 30 MIN","1 PLATE C"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE, ONION CARROTS, HOHO SALT, COOKING OIL","COOKED FOR 45 MIN","1 SAURCER B."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","MDALASINI WATER, SUGAR","BOILED FOR 30 MIN.","1 CUP C."
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI C"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","WALI","RICE SALT COOKING OIL.","COOKED FOR 1 HOUR.","1 PLATE C."
+,,"Lunch",1,"1/0/1900",3,2,"HOME","BEAN'S","BEAN'S, ONION, CARROT, COCONUT OIL. & SALT.","BOILED FOR 2 HOUR.","1 SAURCER C."
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,2,"HOME","TEA","MDALASINI SUGAR, WATER","BOILED FOR 30 MIN","1 CUP B"
+,,"Supper",1,"1/0/1900",3,2,"HOME","MAKANDE","MAIZE, BEAN'S ONION, CAROTI COCONUT OIL. SALT & WATER","BOILED FOR 2 HOUR'S","1 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

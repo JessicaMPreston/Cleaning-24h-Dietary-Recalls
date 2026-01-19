@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, KARAFUU, MAJANI YA CHAI, SUKARI","BOILING TWENTY MINUTES","ONE CUP C"
+1,2,"Breakfast",1,"1/0/1900",5,5,"HOME","MIHOGO YA KUCHEMSHWA","MAJI, MIHOGO CHUMVI","BOILING, TWENTY MINUTES","THREE CASSAVA A"
+2,,"Morning snack",2,"",,,"",,,,
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA MAJI","BOILING, TEN MINUTES","ONE PLATE F"
+1,2,"Lunch",1,"1/0/1900",5,5,"HOME","DAGAA","DAGAA, CHUMVI MAJI, KITUNGUU, KAROTI MAFUTA, NYANYA","ROASTING FIFTEEN MINUTES","SAURCER D"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA MAJI","BOILING, TEN MINUTES","ONE PLATE F"
+1,2,"Supper",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA NYANYA, KITUNGUU LIMAO, MAJI","ROASTING, FIFTEEN MINUTES","HALF KAMBALE SAME SIZE AS FISH A"
+2,,"Snack evening",1,"1/0/1900",5,4,"HOME","CHAI","MAJI, SUKARI, KARAFUU, MAJANI YA CHAI","BOILING, TEN MINUTES","ONE CUP C"
+2,,"Snack evening",1,"1/0/1900",5,4,"HOME","MKATE","BOUGHT","BOUGHT","TWO BREAD A"
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","MDALASINI, SUKARI ILIKI,","BOILED FOR 15 MINUTES.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","COOKED FOR 45 MINUTES","1 PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","DAGAA, MAFUTA, NYANYA CHUMVI, KITUNGUU","COOKED FOR 10 MINUTES","1 SAURCER B"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MAHARAGE","BOUGHT","BOUGHT","1 SAURCER B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","CHAI","ILIKI, MDALASINI SUKARI","BOILED FOR 15 MINUTES","1 CUP C"
+,,"Supper",1,"1/0/1900",3,4,"HOME","ANDAZI","BOUGHT","BOUGHT","4 ANDAZI A"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

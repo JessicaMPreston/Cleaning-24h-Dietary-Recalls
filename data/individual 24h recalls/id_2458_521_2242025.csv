@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","TANGAWIZI, MDALASINI MCHAICHAI.","BOILED FOR 10 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI D"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 45 MIN.","1 PLATE D"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","BAMIA","BAMIA, NGOGWE,","COOKED FOR 15 MIN.","1 SAURCER D"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","SALT, CHUMVI, LIMAO","FRIED FOR 10 MIN.","2 FISH D"
+,,"Snack afternoon",1,"1/0/1900",3,4,"HOME","EMBE","RAW","RAW.","1 EMBE C"
+,,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MIN","1 PLATE D"
+,,"Supper",1,"1/0/1900",2,3,"HOME","UTUMBO","UTUMBO, ONION TOMATOE, CARROTS TANGAWIZI, KITUNGUU SAUMU.","COOKED FOR 01 HOUR.","SAURCER B- BEEF COMPARED TO UTUMBO"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

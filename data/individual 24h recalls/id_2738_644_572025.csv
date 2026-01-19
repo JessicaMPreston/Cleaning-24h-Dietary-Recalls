@@ -1,0 +1,12 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+1,2,"Breakfast",1,"1/0/1900",1,4,"HOME","UJI","SALT, MAIZE FLOUR, NAZI","BOILED FOR 30 MINUTES","CUP C - 3 CUPS"
+1,2,"Breakfast",1,"1/0/1900",1,4,"HOME","NDIZI MBIVU","BOUGHT","BOUGHT","PLATE A 3 NDIZI MBIVU"
+2,,"Morning snack",2,"",,,"",,,,
+1,3,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","DONA MAIZE FLOUR","COOKED FOR 35 MINUTES","PLATE E ONE PLATE"
+1,3,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","VIAZI MVIRINGO, SALT, NYANYA, COOKING OIL, ONION","COOKED FOR TWENTY MINUTES","SAURCER C-ONE"
+1,3,"Lunch",1,"1/0/1900",3,4,"HOME","MLENDA","BAMIA, SALT, MAGADI, NYANYA","COOKED FOR 10 MINUTES","MLENDA AS BAMIA SAURCER -C"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",4,5,"HOME","NDIZI ZA KUKAANGA","SALT COOKING OIL","FLIED FOR 30 MINUTES","NDIZI ZA KUKAANGA AS BOILED BANANA PLATE  C"
+2,,"Supper",1,"1/0/1900",4,5,"HOME","SALADI","KITUNGUU NYANYA SALT LIMAO","ALIKATAVIPANDE VIDOGO KWA DAKIKA 10 TU","SAURCER A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",1,"1/0/1900",1,1,"HOME","NDIZI MBIVU","BOUGHT","BOUGHT","ONE PLATE A"

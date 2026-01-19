@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","CHAI","SUKARI","BOILED FOR 15 MINUTES","CUP C-1/2 CUP"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","MAANDAZI","BOUGHT",,"TWO ANDAZI A ANDAZI"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","MAJI SEMBE UNGA WA MAHINDI","COOKED FOR 40 MINUTES.","PLATE-D"
+,,"Lunch",1,"1/0/1900",1,4,"HOME","MCHICHA","SALT COOKING OIL","COOKED FOR TEN MINUTES","SAURCER -D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",1,4,"HOME","CHIPS KAVU","BOUGHT",,"PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

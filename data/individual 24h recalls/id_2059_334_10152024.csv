@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, SUGAR, WATER.","BOILED FOR 30 MIN.","1 CUP - C"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","KACHORI","BOUGHT","BOUGHT","3 KACHORIS"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI,","MAIZE FLOUR, WATER.","COOKED FOR 40 MIN.","1 PLATE D."
+,,"Lunch",1,"1/0/1900",3,3,"HOME","MCHICHA","MCHICHA, ONION, LEMON, SALT","COOKED FOR 20 MIN","1 SAURCER D"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","SODA","BOUGHT","BOUGHT","MIRINDA SODA 350MLS"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

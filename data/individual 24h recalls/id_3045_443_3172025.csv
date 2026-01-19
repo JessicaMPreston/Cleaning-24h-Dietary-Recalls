@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,2,"HOME","PORRIDGE","MAIZE FLOUR SUGAR","COOKED FOR 20 MINUTES","1 CUP C"
+2,,"Breakfast",1,"1/0/1900",3,2,"HOME","POTATOES","POTATOES, WATER SALT","BOILED FOR 15 MINUTES","1 PLATE C"
+2,,"Morning snack",2,"",,,"",,,,
+2,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 17 MINUTES","1 PLATE D"
+2,,"Lunch",1,"1/0/1900",3,2,"HOME","SAMAKI","SAMAKI, SALT OIL","COOKED FOR 15 MINUTES","2 SAMAKI B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,2,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 15 MINUTES","1 PLATE B SHARED"
+1,2,"Supper",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, OIL, TOMATOES, SALT","COOKED FOR 17 MINUTES","4 SAMAKI B SHARED"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

@@ -1,0 +1,8 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",1,2,"HOME","UJI","MAIZE FLOUR WATER SUGAR","BOILED FOR 1 HOUR","2 CUP B 1 CUP C."
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",2,2,"HOME","MAKANDE","MAIZE, BEANS ONION, SALT COCONUT OIL.","BOILED FOR 2 HOUR.","3 PLATE B"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","MAKANDE","MAIZE, BEANS SALT, ONION WATER COOKING OIL","BOILED FOR 2 HOURS","3 PLATE B"
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

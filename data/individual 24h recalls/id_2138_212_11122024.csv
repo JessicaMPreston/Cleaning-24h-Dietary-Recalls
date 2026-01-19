@@ -1,0 +1,10 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",4,2,"HOME","TEA","KARAFUU, SUGAR, WATER.","BOILED FOR 20 MIN.","1 CUP B"
+,,"Breakfast",1,"1/0/1900",4,2,"HOME","VITUMBUA","BOUGHT","BOUGHT","4 VITUMBUA A"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","VIAZI","VIAZI, ONION, ONION, TOMATO, SALT, COOKING OIL, HOHO","COOKED FOR 1 HOUR","1 PLATE A"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,2,"HOME","TEA","KARAFUU, SUGAR, WATER","BOILED FOR 30 MIN","1 CUP B"
+,,"Supper",1,"1/0/1900",3,2,"HOME","BREAD","BOUGHT","BOUGHT","6 BREAD A."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

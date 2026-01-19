@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","WATER, MDALASINI, SUGAR.","BOILED FOR 15 MINUTES.","ONE CUP C TEA"
+2,,"Breakfast",1,"1/0/1900",4,3,"HOME","BANANA","BANANA, WATER, SALT.","BOILED FOR 30 MINUTES.","BANANA PLATE D"
+2,,"Morning snack",1,"1/0/1900",2,1,"HOME","PAWPAW",,"CUT INTO PIECE","ONE PORTION A PAWPAW."
+1,3,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA WA SEMBE, WATER","COOKED FOR 30 MINUTES","UGALI SHARED PLATE F"
+1,3,"Lunch",1,"1/0/1900",3,4,"HOME","TEMBELE","TEMBELE, TOMATO, ONION, COOKING OIL, SALT.","COOKED FOR 15 MINUTES","TEMBELE SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+2,,"Supper",1,"1/0/1900",4,3,"HOME","TEA","MDALASINI, WATER, SUGAR","BOILED FOR 15 MINUTES","ONE CUP C TEA"
+2,,"Supper",1,"1/0/1900",4,3,"HOME","CASSAVA","COOKING OIL, SALT, ONION, CASSAVA, TOMATO.","COOKED FOR 20 MINUTES.","TWO CASSAVA A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,

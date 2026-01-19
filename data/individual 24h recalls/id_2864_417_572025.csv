@@ -1,0 +1,11 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES SUGAR.","BOILED FOR 5 MINUTES.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
+,,"Morning snack",2,"",,,"",,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40MINUTES","1 UGALI PLATE D"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","MCHICHA, ONION TOMATOE, COOKING OIL SALT","COOKED FOR 10 MINUTES","1 SAURCER C"
+,,"Snack afternoon",2,"",,,"",,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 UGALI PLATE C"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, TOMATOE ONION, COOKING OIL, SALT","COOKED FOR 1 HOUR.","1 SAURCE B."
+,,"Snack evening",2,"",,,"",,,,
+,,"Night snack",2,"",,,"",,,,

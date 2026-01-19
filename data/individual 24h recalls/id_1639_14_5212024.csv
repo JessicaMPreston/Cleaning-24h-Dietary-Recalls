@@ -1,0 +1,13 @@
+"sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","WATER, ILIKI, MCHAICHAI, SUGAR,","BOILED FOR 15 MINUTES,","ONE CUP C TEA"
+2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CASSAVA","CASSAVA,SALT, WATER","BOILED FOR 30 MINUTES","TWO PIECE CASSAVA B"
+2,,"Morning snack",1,"1/0/1900",2,1,"FARM","PAWPAW",,"CUT IN PIECE","TWO PORTION B PAWPAW"
+2,,"Lunch",1,"1/0/1900",4,3,"SHAMBA","UGALI","UNGA WA DONA, WATER","COOKED FOR 45 MINUTES,","UGALI PLATE D,"
+2,,"Lunch",1,"1/0/1900",4,3,"SHAMBA","DAGAA","DAGAA, WATER, ONION, SALT, TOMATO, COOKING OIL,","FRIED FOR 20 MINUTES,","DAGAA SAURCER C,"
+2,,"Lunch",1,"1/0/1900",4,3,"SHAMBA","MAJANI YA MABOGA","MAJANI YA MABOGA, TOMATO, ONION, COOKING OIL, SALT","COOKED FOR 10 MINUTES","MAJANI YA MABOGA,SAURCER B"
+2,,"Snack afternoon",2,"",,,"",,,,
+1,5,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA DONA, WATER","COOKED FOR 45 MINUTES","UGALI SHARED PLATE G"
+1,5,"Supper",1,"1/0/1900",4,3,"HOME","FISH","BOUGHT",,"THREE FISH B"
+1,5,"Supper",1,"1/0/1900",4,3,"HOME","STEW","ONION, TOMATO, WATER, COOKING OIL, SALT","FRIED FOR 15 MINUTES","STEW SAURCER A"
+2,,"Snack evening",2,"",,,"",,,,
+2,,"Night snack",2,"",,,"",,,,
