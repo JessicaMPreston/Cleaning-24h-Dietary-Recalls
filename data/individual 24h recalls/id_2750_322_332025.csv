@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","SUGAR, GINGER","BOILED FOR 10 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","POTATOES","WATER, POTATO, SALT","BOILED FOR 10 MINUTES","1 PLATE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,2,"HOME","NDIZI","NDIZI, SALT, OIL","COOKED FOR 20 MINUTES","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",2,2,"HOME","NYAMA","NYAMA, ONION CARROT","COOKED FOR 40 MINUTES","1 PLATE B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, MAFUTA CHUMVI","COOKED FOR 20 MINUTES","1 PLATE C"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","NYAMA","NYAMA, MAFUTA CHUMVI, NYANYA, KITUNGUU HOHO","COOKED FOR 45 MINUTES","1 PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

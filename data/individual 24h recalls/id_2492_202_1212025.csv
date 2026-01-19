@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","TEA","MCHAICHAI, SUGAR MDALASINI, IRIKI,","BOILED FOR 10 MIN","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","MAANDAZI","BOUGHT.","BOUGHT","3 ANDAZI A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR , WATER","COOKED FOR 15 MIN","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","TOMATOES, COOKING OIL ONION,SAMAKI","COOKED FOR 15 MIN","1 FISH A"
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","VEGETABLE","TOMATOES, MCHICHA","COOKED FOR 10 MIN",
-,,"Snack afternoon",2,"",,,"",,,,
-1,4,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, COOKING OIL SALT","COOKED FOR 1 HOUR","1 PLATE E SHARED"
-1,4,"Supper",1,"1/0/1900",3,3,"HOME","BEANS","COOKING OIL, ONION, BEANS.","COOKED FOR 1 HOUR 30 MIN","1 SAURCER B SHARED"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, COOKING OIL SALT","COOKED FOR 1 HOUR","1 PLATE E SHARED"
+,,"Supper",1,"1/0/1900",3,3,"HOME","BEANS","COOKING OIL, ONION, BEANS.","COOKED FOR 1 HOUR 30 MIN","1 SAURCER B SHARED"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

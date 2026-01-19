@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","TANGAWIZI, KARAFU MAJI, SUKARI","COOKED 10 MIN","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","WALI","MAFUTA YA KUPIKIA CHUMVI, MCHELE","COOKED 15 MIN","1 PLATE E."
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA SEMBE MAHINDI, MAJI","COOKED 20 MIN,","1 PLATE D"
-2,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","SAMAKI, MAFUTA YA KUPIKIA, KITUNGUU MAJI, CHUMVI, NYANYA","COOKED 15MIN","3 FISH B."
-2,,"Snack afternoon",2,"",,,"",,,,
-1,1,"Supper",1,"1/0/1900",2,3,"HOME","WALI","MCHELE, MAFUTA YA KUPIKIA, CHUMVI MAJI","COOKED 20 MIN 2 HRS","1 PLATE F"
-1,1,"Supper",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, KITUNGUU, CHUMVI MAFUTA YA KUPIKIA","COOKED  2 HRS","1 SAURCER C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","TANGAWIZI, KARAFU MAJI, SUKARI","COOKED 10 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","WALI","MAFUTA YA KUPIKIA CHUMVI, MCHELE","COOKED 15 MIN","1 PLATE E."
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA SEMBE MAHINDI, MAJI","COOKED 20 MIN,","1 PLATE D"
+,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","SAMAKI, MAFUTA YA KUPIKIA, KITUNGUU MAJI, CHUMVI, NYANYA","COOKED 15MIN","3 FISH B."
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","WALI","MCHELE, MAFUTA YA KUPIKIA, CHUMVI MAJI","COOKED 20 MIN 2 HRS","1 PLATE F"
+,,"Supper",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, KITUNGUU, CHUMVI MAFUTA YA KUPIKIA","COOKED  2 HRS","1 SAURCER C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

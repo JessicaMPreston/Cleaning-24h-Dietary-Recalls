@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,2,"HOME","PORRIDGE","WATER, SUGAR, MAIZE FLOUR","COOKED FOR 15 MINUTES","1 CUP B."
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, SALT, ONION, TOMATOES, OIL","COOKED FOR 17 MINUTES","1 SAURCER B."
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","MATEMBELE","MATEMBELE, OIL, SALT","COOKED FOR 10 MINUTES","1 SAURCER B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","MILK","BOUGHT","BOUGHT","1 CUP B"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

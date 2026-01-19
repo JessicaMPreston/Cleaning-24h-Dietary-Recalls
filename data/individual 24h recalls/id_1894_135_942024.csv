@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,6,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, IRIKI, MAJANI, SUKARI,","BOILING, TEN MINUTES,","CUP C, ONE CUP"
-1,6,"Breakfast",1,"1/0/1900",4,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","THREE ANDAZI D"
-2,,"Morning snack",2,"",,,"",,,,
-1,6,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, FIFTEEN MINUTES","PLATE E"
-1,6,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, VITUNGUU, NYANYA, MAJI","ROAST, FOURTY MINUTES","THREE FISH C"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,6,"Supper",1,"1/0/1900",3,3,"HOME","UJI","UNGA WA SEMBE, MAJI","BOILING, TWENTY MINUTES","ONE CUP C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, IRIKI, MAJANI, SUKARI,","BOILING, TEN MINUTES,","CUP C, ONE CUP"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","MAANDAZI","BOUGHT","BOUGHT","THREE ANDAZI D"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, FIFTEEN MINUTES","PLATE E"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, VITUNGUU, NYANYA, MAJI","ROAST, FOURTY MINUTES","THREE FISH C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UJI","UNGA WA SEMBE, MAJI","BOILING, TWENTY MINUTES","ONE CUP C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","TEA LEAVES, MDALASINI, SUGAR,","BOILED FOR TEN MINUTES.","ONE CUP C. TEA"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","ANDAZI","BOUGHT",,"TWO ANDAZI D"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","WATER, UNGA WA SEMBE","COOKED FOR 30 MINUTES","UGALI SHARED PLATE F"
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","FISH","BOUGHT",,"FOUR FISH D"
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","STEW","TOMATO, ONION, WATER, SALT, COOKING OIL","FRIED FOR TEN MINUTES","STEW SAURCER A"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",4,3,"HOME","RICE","COOKING OIL, RICE, WATER, SALT","COOKED FOR 1 HOUR","RICE SHARED PLATE E"
-1,2,"Supper",1,"1/0/1900",4,3,"HOME","BEANS","BEANS, ONION, SALT, WATER, COOKING OIL.","COOKED FOR 2 HOURS","BEANS SAURCER D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","TEA LEAVES, MDALASINI, SUGAR,","BOILED FOR TEN MINUTES.","ONE CUP C. TEA"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","ANDAZI","BOUGHT",,"TWO ANDAZI D"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","WATER, UNGA WA SEMBE","COOKED FOR 30 MINUTES","UGALI SHARED PLATE F"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","FISH","BOUGHT",,"FOUR FISH D"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","STEW","TOMATO, ONION, WATER, SALT, COOKING OIL","FRIED FOR TEN MINUTES","STEW SAURCER A"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","RICE","COOKING OIL, RICE, WATER, SALT","COOKED FOR 1 HOUR","RICE SHARED PLATE E"
+,,"Supper",1,"1/0/1900",4,3,"HOME","BEANS","BEANS, ONION, SALT, WATER, COOKING OIL.","COOKED FOR 2 HOURS","BEANS SAURCER D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

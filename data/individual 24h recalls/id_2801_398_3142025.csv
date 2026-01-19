@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","TEA LEAF SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","NDIZI","BANANA, OIL, SALT ONION, TOMATO COCONUT","COOKED FOR 30 MINUTES","PLATE D"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAPATI","WHEAT FLOUR OIL, SALT","BOUGHT","CHAPATI B"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE D"
-1,3,"Lunch",1,"1/0/1900",4,4,"HOME","NYAMA","BEEF, ONION TOMATO, SALT CARROT","COOKED FOR 1 HOUR","SAURCER C"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",1,"1/0/1900",4,5,"HOME","MAZIWA","COW MILK","BOILED FOR 10 MINUTES","1 CUP B"
-1,3,"Supper",1,"1/0/1900",4,5,"HOME","VIAZI","SWEET POTATOES SALT","BOILED FOR 30 MINUTES","AS VIAZI PLATE D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","TEA LEAF SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","NDIZI","BANANA, OIL, SALT ONION, TOMATO COCONUT","COOKED FOR 30 MINUTES","PLATE D"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAPATI","WHEAT FLOUR OIL, SALT","BOUGHT","CHAPATI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","NYAMA","BEEF, ONION TOMATO, SALT CARROT","COOKED FOR 1 HOUR","SAURCER C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","MAZIWA","COW MILK","BOILED FOR 10 MINUTES","1 CUP B"
+,,"Supper",1,"1/0/1900",4,5,"HOME","VIAZI","SWEET POTATOES SALT","BOILED FOR 30 MINUTES","AS VIAZI PLATE D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

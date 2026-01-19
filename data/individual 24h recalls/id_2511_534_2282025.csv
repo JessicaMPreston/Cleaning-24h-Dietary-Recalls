@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","COOKING OIL MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","CUP B- ONE"
-2,,"Morning snack",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE A ONE ORANGE"
-1,2,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR ONE HOUR","PLATE - F- ONE"
-1,2,"Lunch",1,"1/0/1900",5,5,"HOME","BEEF SAUCE","COOKING OIL NYANYA, KITUNGUU SALT","COOKED FOR ONE HOUR","SAURCER - D- ONE"
-2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE A TWO ORANGE"
-2,,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","MAJANI YA CHAI MDALASINI KARAFUU SUKARI","BOILED FOR 15 MINUTES","CUP C- ONE"
-2,,"Supper",1,"1/0/1900",4,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","MAANDAZI - A 4 MAANDAZI"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","COOKING OIL MAIZE FLOUR SEMBE","COOKED FOR 30 MINUTES","CUP B- ONE"
+,,"Morning snack",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE A ONE ORANGE"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR ONE HOUR","PLATE - F- ONE"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","BEEF SAUCE","COOKING OIL NYANYA, KITUNGUU SALT","COOKED FOR ONE HOUR","SAURCER - D- ONE"
+,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE A TWO ORANGE"
+,,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","MAJANI YA CHAI MDALASINI KARAFUU SUKARI","BOILED FOR 15 MINUTES","CUP C- ONE"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","MAANDAZI - A 4 MAANDAZI"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

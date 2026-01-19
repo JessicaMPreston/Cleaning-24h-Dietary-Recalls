@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAI","MAJI, SUKARI KAHAWA","BOILING FIVE MINUTES","TWO CUP C"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","VITUMBUA","BOUGHT","BOUGHT","THREE KITUMBUA B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","NDIZI ZA KUKAANGA","NDIZI, CHUMVI, MAFUTA","FRYING, TEN MINUTES","SEVEN NDIZI MSHALE"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","KACHUMBARI","NYANYA, KITUNGUU, LIMAO","EATEN RAW, CHOPPED FOR FIVE MINUTES","SAURCER D"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",5,5,"HOME","TAMBI","TAMBI, MAJI SUKARI","COOKED BY HER DAUGHTER","PLATE C"
 ,,"Supper",1,"1/0/1900",5,5,"HOME","CHAI","MAJI, SUKARI KAHAWA","BOILING, TEN MINUTES","ONE CUP C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

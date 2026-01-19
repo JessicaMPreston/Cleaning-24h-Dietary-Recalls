@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 15 MINUTES","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, OIL, SALT, TOMATOES, ONION","COOKED FOR 20 MINUTES","3 SAMAKI B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 17 MINUTES","1 PLATE D"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","SAMAKI","SAMAKI, SALT, ONION, TOMATOES","COOKED FOR 20 MINUTES","4 SAMAKI B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

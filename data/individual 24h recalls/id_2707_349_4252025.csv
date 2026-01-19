@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,2,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","MAJI, MDALASINI, SUKARI","BOILED FOR 20 MIN","1 CUP C"
-1,2,"Breakfast",1,"1/0/1900",2,4,"HOME","MAANDAZI","ALINUNUA","ALINUNUA","4 ANDAZI B"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 30 MIN","SHARED E"
-1,2,"Lunch",1,"1/0/1900",1,4,"HOME","DAGAA","DAGAA, NYANYA, NYANYA CHUNGU, KITUNGUU,  NAZI, CHUMVI","COOKED FOR 30 MIN","SHARED SAURCER C"
-1,2,"Lunch",1,"1/0/1900",1,4,"HOME","KISAMVU","KISAMVU, KITUNGUU MAJI, NAZI, CHUMVI","COOKED FOR 1 HR","SHARED SAURCER C"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",2,3,"HOME","WALI","MCHELE,MAJI, NAZI, CHUMVI","COOKED FOR 30 MIN","PLATE B"
-1,2,"Supper",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, NAZI, KITUNGUU, CHUMVI","BOILED FOR 2HRS","SAURCER B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","MAJI, MDALASINI, SUKARI","BOILED FOR 20 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,4,"HOME","MAANDAZI","ALINUNUA","ALINUNUA","4 ANDAZI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 30 MIN","SHARED E"
+,,"Lunch",1,"1/0/1900",1,4,"HOME","DAGAA","DAGAA, NYANYA, NYANYA CHUNGU, KITUNGUU,  NAZI, CHUMVI","COOKED FOR 30 MIN","SHARED SAURCER C"
+,,"Lunch",1,"1/0/1900",1,4,"HOME","KISAMVU","KISAMVU, KITUNGUU MAJI, NAZI, CHUMVI","COOKED FOR 1 HR","SHARED SAURCER C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","WALI","MCHELE,MAJI, NAZI, CHUMVI","COOKED FOR 30 MIN","PLATE B"
+,,"Supper",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, NAZI, KITUNGUU, CHUMVI","BOILED FOR 2HRS","SAURCER B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",2,"",,,"",,,,
-,,"Morning snack",2,"",,,"",,,,
+,,"Breakfast",2,,,,,,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","NDIZI","NDIZI, OIL, ONION, TOMATOES AND SALT","BOILED FOR 30 MINUTES.","NDIZI NYAMA PLATE - D"
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","MEAT","MEAT, COOKING OIL, SALT, ONION AND TOMATOES","COOKED FOR 40 MINUTES","MEAT SAURCER PLATE - A"
 ,,"Snack afternoon",1,"1/0/1900",4,4,"HOME","SODA","BOUGHT","BOUGHT","1 BOTTLE OF SODA"
-,,"Supper",2,"",,,"",,,,
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Supper",2,,,,,,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

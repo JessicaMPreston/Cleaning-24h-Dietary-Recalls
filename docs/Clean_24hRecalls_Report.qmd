@@ -1,0 +1,84 @@
+---
+title: "Clean_24hRecalls_Report"
+format: html
+execute-dir: project
+---
+
+## Setting up R
+
+```{r}
+library(dplyr)
+library(here)
+library(purrr)
+library(readr)
+library(tarchetypes)
+library(targets)
+library(tibble)
+library(usethis)
+library(utils)
+tar_config_set(store = here::here("_targets"))
+source(here::here("R/clean_24HDietRecalls_functions.R"))
+```
+
+## Import Raw 24h Diet recall data into environment
+
+```{r}
+# Show 10 x 10 of raw DF
+df_raw <- tar_read(df_raw)
+
+df_raw[1:10, 1:10]
+```
+
+## File path for raw data question format
+
+```{r}
+("data-raw/CAMIPATA CRFs v4/24H RECALL FINAL V2 18march2025.pdf")
+
+```
+
+## Seperate out metadata from other 24h Recall data
+
+```{r}
+metadata_list <- tar_read(metadata)
+
+# Final Metadata
+metadata_list$metadata[1:10, 1:10]
+
+# Non cleaned food data
+metadata_list$df_food[1:10, 1:10]
+
+```
+
+## Clean the Food recall data
+
+```{r}
+individuals_dffood <- tar_read(individuals_dffood)
+
+# Seperate into Recalls for each individual
+names(individuals_dffood)
+
+# Col names of each recall
+colnames(individuals_dffood[[1]])
+
+# Renamed meals based on Question #
+unique(
+unlist(
+map(individuals_dffood, ~ unique(.x$Meal))
+)
+)
+```
+
+## Combine all food recall data into a single df
+
+```{r}
+h24recalls_combined <- tar_read(h24recalls_combined)
+h24recalls_combined[1:10, 1:10]
+```
+
+
+## Final cleaned data documents
+```{r}
+("data/24hdietrecalls_participantmetadata.csv")
+("data/all_24hrecalls.csv")
+```
+

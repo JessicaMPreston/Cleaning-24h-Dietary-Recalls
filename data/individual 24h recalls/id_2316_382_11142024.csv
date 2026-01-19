@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,3,"HOME","UJI","RICE, COOKING OIL, SALT SUGAR, COCONUT WATER","BOILED FOR 45 MINUTES","1 CUP B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","UJI","MAIZE FLOUR WATER COOKING OIL SUGAR","BOILED FOR 30 MINUTES","1 CUP B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE D"
 ,,"Supper",1,"1/0/1900",5,4,"HOME","UONO","UONO, COOKING OIL, SALT","FRIED FOR 20 MINUTES","AS SAURCER D (SARDINES)"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

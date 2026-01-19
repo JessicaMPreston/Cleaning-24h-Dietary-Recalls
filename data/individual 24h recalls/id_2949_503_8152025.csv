@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","MDALASINI, SUKARI MAJI","BOILED FOR 10 MINUTES","ONE CUP C."
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA SEMBE MAJI","COOKED FOR 45 MINUTES.","ONE UGALI PLATE D."
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, KAROTI NYANYA, KITUNGUU, MAFTA, CHUMVI","COOKED FOR 15 MINUTES.","DAGAA ONE SAURCER D."
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","SPINACH","NYANYA, KITUNGUU KAROTI, MAFUTA CHUMVI","COOKED FOR 20 MINUTES","SPINICH COMPARED TO MCHICHA SAURCER B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","WALI","MCHELE, MAFUTA CHUMVI","COOKED FOR 45 MINUTES","ONE PLATE B"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, CHUMVI NAZI, KAROTI, KITUNGU","COOKED FOR 1 HOUR","ONE SAURCER D"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

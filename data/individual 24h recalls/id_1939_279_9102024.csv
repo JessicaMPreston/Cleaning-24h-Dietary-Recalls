@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI MDALASINI MAJI","BOILED FOR TEN MINUTES","CUP C- ONE CUP"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","BOILED BANANAS","MAJI SALT","BOILED FOR TWENTY MINUTES","PLATE-D"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAJI MAIZE FLOUR DONA","COOKED FOR 35 MINUTES","PLATE-F"
-1,2,"Lunch",1,"1/0/1900",2,4,"HOME","MCHICHA","NYANYA COOKING OIL KITUNGUU","BOILED FOR 10 MINUTES","SAURCER-B"
-1,2,"Lunch",1,"1/0/1900",2,4,"HOME","DAGAA","BOUGHT",,"SAURCER-C"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",1,4,"HOME","CHAI","MDALASINI SUKARI","BOILED FOR TEN MINUTES","CUP C-ONE CUP"
-2,,"Supper",1,"1/0/1900",1,4,"HOME","VITUMBUA","BOUGHT",,"FOUR VITUMBUA VITUMBUA-B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI MDALASINI MAJI","BOILED FOR TEN MINUTES","CUP C- ONE CUP"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","BOILED BANANAS","MAJI SALT","BOILED FOR TWENTY MINUTES","PLATE-D"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAJI MAIZE FLOUR DONA","COOKED FOR 35 MINUTES","PLATE-F"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","MCHICHA","NYANYA COOKING OIL KITUNGUU","BOILED FOR 10 MINUTES","SAURCER-B"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","DAGAA","BOUGHT",,"SAURCER-C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",1,4,"HOME","CHAI","MDALASINI SUKARI","BOILED FOR TEN MINUTES","CUP C-ONE CUP"
+,,"Supper",1,"1/0/1900",1,4,"HOME","VITUMBUA","BOUGHT",,"FOUR VITUMBUA VITUMBUA-B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,13 +1,13 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAI","TEA LEAF, WATER, SUGAR,","BOILED FOR 20MINUTES,","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","ANDAZI","BOUGHT","BOUGHT","5 ANDAZI B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED FOR 30 MINUTES","PLATE D,"
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","MAHARAGE","WATER, BEANS, COOKING OIL, ONION, SALT,","COOKED FOR 1HOUR","SAURCER D"
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","MNAVU","MNAVU,SALT, WATER","BOILED FOR 10 MINUTES","AS MCHUNGA SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES","PLATE D"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","MAHARAGE","BEANS, COOKING OIL, SALT, ONION,","COOKED FOR 1HOUR,","SAURCER A"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","DAGAA","SARDINES, SALT, ONION","COOKED FOR 30 MINUTES","SAURCER B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","BEEF SOUP","BEEF, SALT, JINAMOTO, LEMON","BOILED FOR 40 MIN","1 SAURCER B"
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","CHAPATI","BOUGHT","BOUGHT","1 CHAPATI B"
-,,"Morning snack",2,"",,,"",,,,
-,,"Lunch",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
 ,,"Snack afternoon",1,"1/0/1900",3,3,"HOME","JUICE","EMBE, SUGAR","RAW.","1 EMBE DODO."
 ,,"Supper",1,"1/0/1900",4,4,"HOME","MTORI","NDIZI, UTUMBO VIAZI, TOMATOE ONION, SALT COOKING OIL","COOKED FOR 40 MIN","MTORI SAURCER B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

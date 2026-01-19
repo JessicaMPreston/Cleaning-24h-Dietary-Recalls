@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","COW'S MILK","COOKING OIL","BOILED FOR 15 MINUTES","CUPC - ONE CUP"
-2,,"Morning snack",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR SEMBE COOKING OIL SALT","COOKED FOR 30 MINUTES.","CUP B- TWO CUPS"
-2,,"Morning snack",1,"1/0/1900",3,3,"HOME","MAEMBE",,,"EMBE C 6 EMBE"
-1,5,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 40 MINUTES","PLATE F-ONE"
-1,5,"Lunch",1,"1/0/1900",3,5,"HOME","DAGAA","SALT COOKING OIL ONION NYANYA","COOKED FOR TWENTY MINUTES","SAURCER-C"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,5,"Supper",1,"1/0/1900",1,4,"HOME","UJI","MAIZE FLOUR SEMBE COOKING OIL","COOKED FOR 30 MINUTES","CUP C-ONE CUP"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","COW'S MILK","COOKING OIL","BOILED FOR 15 MINUTES","CUPC - ONE CUP"
+,,"Morning snack",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR SEMBE COOKING OIL SALT","COOKED FOR 30 MINUTES.","CUP B- TWO CUPS"
+,,"Morning snack",1,"1/0/1900",3,3,"HOME","MAEMBE",,,"EMBE C 6 EMBE"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 40 MINUTES","PLATE F-ONE"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","DAGAA","SALT COOKING OIL ONION NYANYA","COOKED FOR TWENTY MINUTES","SAURCER-C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",1,4,"HOME","UJI","MAIZE FLOUR SEMBE COOKING OIL","COOKED FOR 30 MINUTES","CUP C-ONE CUP"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

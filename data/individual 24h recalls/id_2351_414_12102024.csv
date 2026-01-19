@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",1,3,"HOME","CHAI","MAJANI YA CHAI SUKARI","BOILED FOR 10 MINUTES","CUP C- ONE"
 ,,"Breakfast",1,"1/0/1900",1,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI A TWO MAANDAZI"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","PREPARED FOR HER MOTHER","PLATE D- ONE"
 ,,"Lunch",1,"1/0/1900",1,4,"HOME","SAMAKI","COOKING OIL ONION SALT NYANYA","PREPARED FOR HER MOTHER","FISH B - TWOFISHES MCHUZI SAURCER- B- ONE"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",1,5,"HOME","UGALI","MAIZE FLOUR SEMBE WATER","PREPARED FOR HER MOTHER","PLATE D"
 ,,"Supper",1,"1/0/1900",1,5,"HOME","SAMAKI","TOMATOES SALT COOKING OIL ONION","PREPARED FOR HER MOTHER","ONE FISH B- TWO FISHES MCHUZI - SAURCER B ONE PLATE"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, MDALASINI, KARAFUU, SUKARI","BOILED FOR 15 MINUTES","ONE CUP C"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI","BOUGHT","BOUGHT","3 CHAPATI C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","ONE PLATE B"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, KITUNGUU NYANYA, HOHO, KAROTI CHUMVI, MAFUTA","COOKED FOR 45 MINUTES.","3 SAMAKI C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","WALI","MCHELE, MAJI, NAZI MAFUTA, CHUMVI","COOKED FOR 1 HOUR","ONE PLATE B"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, KITUNGUU HOHO, KAROTI, MAFUTA CHUMVI","COOKED FOR 1 HOUR","ONE SAURCER B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

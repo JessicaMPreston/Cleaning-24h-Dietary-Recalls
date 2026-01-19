@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","SUGAR, TEA LEAF WATER","BOILED FOR 30 MINUTES","CUP C"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","MIHOGO","CASSAVA SALT","BOILED FOR 30 MINUTES","CASSAVA A 3 PIECES"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","PILAU","RICE, SALT ONION, COOKING OIL","COOKED FOR 1 HOUR","PILAU PLATE A"
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","NYAMA","BEEF, SALT ONION, TOMATO COOKING OIL","COOKED FOR 1 HOUR","BEEF SAURCER D"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,5,"HOME","CHIPS","IRISH POTATOES COOKING OIL SALT","FRIED FOR 30 MINUTES",
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

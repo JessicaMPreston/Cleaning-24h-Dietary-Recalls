@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","MDALASINI WATER, SUGAR","BOILED FOR 20 MIN.","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","MAGIMBI","MAGIMBI WATER","BOILED FOR 1 HOUR.","3 PLATE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 50 MIN.","1 PLATE - C."
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","MEAT","MEAT, ONION, TOMATOES, SALT, COOKING OIL, CARROT'S.","COOKED FOR 1 HOUR.","1 SAURCER C."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,2,"HOME","TAMBI","TAMBI, SALT WATER","BOILED FOR 1 HOUR","1 PLATE B"
 ,,"Supper",1,"1/0/1900",3,2,"HOME","TEA","MDALASINI WATER","BOILED FOR 30 MIN.","1 CUP B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

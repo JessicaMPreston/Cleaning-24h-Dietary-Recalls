@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","TEA LEAF, SUGAR","BOILED FOR 20 MINUTES.","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI","BOUGHT",,"2 CHAPATI A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","PLATE D"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","NYAMA","BEEF, ONION LEMON, SALT","BOILED FOR 1 HOUR","SAURCER D"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","MAZIWA","NATURAL","BOILED FOR 20 MINUTES","1 CUP C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,5,"HOME","WALI","RICE, COOKING OIL SALT","COOKED FOR 1 HOUR","PLATE C"
 ,,"Supper",1,"1/0/1900",4,5,"HOME","MAHARAGE","BEANS, COCONUT SALT, ONION","COOKED FOR 2 HOURS","SAURCER C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

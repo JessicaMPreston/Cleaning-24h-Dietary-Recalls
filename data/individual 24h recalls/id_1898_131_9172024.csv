@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,1,"HOME","TEA","TEA LEAVES, SUGAR,","BOILED FOR 10 MIN.","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,1,"HOME","MANDAZI","BOUGHT","BOUGHT.","3 ANDAZI B"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20MIN","SHARED 1 PLATE D"
-1,2,"Lunch",1,"1/0/1900",2,4,"HOME","NYAMA","NYAMA, TOMATOE ONION, HOHO SALT, COOKING OIL","COOKED FOR 45 MIN","NYAMA -SHARED 1 SAURCER B"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",1,3,"HOME","RICE","RICE, COOKINGOIL SALT","COOKED FOR 30 MIN","SHARED 1 PLATE B"
-1,2,"Supper",1,"1/0/1900",1,3,"HOME","KABICHI","KABICHI, CARROT HOHO, ONION, SALT COOKING OIL","COOKED FOR 10 MIN,","SHARED KABICHI COMPARED TO MCHUNGA -1 SAURCE C,"
-1,2,"Supper",1,"1/0/1900",1,3,"HOME","NYAMA","NYAMA, CARROT HOHO, KITUNGUU COOKING OIL","COOKED FOR 40 MIN","NYAMA-SHARED 1 SAURCER B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,1,"HOME","TEA","TEA LEAVES, SUGAR,","BOILED FOR 10 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,1,"HOME","MANDAZI","BOUGHT","BOUGHT.","3 ANDAZI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20MIN","SHARED 1 PLATE D"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","NYAMA","NYAMA, TOMATOE ONION, HOHO SALT, COOKING OIL","COOKED FOR 45 MIN","NYAMA -SHARED 1 SAURCER B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",1,3,"HOME","RICE","RICE, COOKINGOIL SALT","COOKED FOR 30 MIN","SHARED 1 PLATE B"
+,,"Supper",1,"1/0/1900",1,3,"HOME","KABICHI","KABICHI, CARROT HOHO, ONION, SALT COOKING OIL","COOKED FOR 10 MIN,","SHARED KABICHI COMPARED TO MCHUNGA -1 SAURCE C,"
+,,"Supper",1,"1/0/1900",1,3,"HOME","NYAMA","NYAMA, CARROT HOHO, KITUNGUU COOKING OIL","COOKED FOR 40 MIN","NYAMA-SHARED 1 SAURCER B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

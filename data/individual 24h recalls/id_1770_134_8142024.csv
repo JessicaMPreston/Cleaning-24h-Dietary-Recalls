@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","TEA","SUGAR, WATER MCHAI CHAI,","BOILED FOR 15 MINUTES.","CUP C - TWO CUPS"
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","MANDAZI","BOUGHT",,"ANDAZI A - TWO MANDAZI."
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI","WATER, MAIZE FLOUR DONA","COOKED FOR 40 MINUTES","PLATE G"
 ,,"Lunch",1,"1/0/1900",2,5,"HOME","DAGAA","COOKING OIL, SALT, WATER, ONION, TOMATOES","COOKED FOR 20 MINUTES","SAURCER D"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",1,5,"HOME","MAKANDE","MAHINDI, SALT, MAHARAGE, COOKING OIL, WATER","COOKED FOR TWO HOURS","PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

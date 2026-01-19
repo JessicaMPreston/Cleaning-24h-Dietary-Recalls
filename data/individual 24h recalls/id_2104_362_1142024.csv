@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","SUPU YA NG'OMBE,","BEEF, HOHO, WATER, LEMON, GINGER, SALT.","BOILED FOR ONE HOUR.","PLATE B SUPU."
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAPATI","BOUGHT",,"TWO CHAPATI D"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,2,"HOME","SUPU","BEEF, SALT, LEMON, GINGER, HOHO, WATER. COOKING OIL,","BOILED FOR ONE HOUR.","HALF PLATE B SUPU."
 ,,"Lunch",1,"1/0/1900",3,2,"HOME","TAMBI","TAMBI, SUGAR, WATER","COOKED FOR 20 MINUTES","PLATE D TAMBI"
 ,,"Snack afternoon",1,"1/0/1900",2,1,"HOME","MANGO",,"CUT INTO PIECE","TWO MANGO C"
 ,,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","WATER, UNGA WA SEMBE","COOKED TO 30 MINUTES","HALF PLATE B UGALI"
 ,,"Supper",1,"1/0/1900",4,3,"HOME","SUPU YA NG'OMBE","BEEF, WATER, SALT, HOHO, GINGER","BOILED FOR ONE HOURS","HALF SUPU OF PLATE B"
-,,"Snack evening",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
 ,,"Night snack",1,"1/0/1900",2,1,"HOME","TIKITI",,"CUT INTO SLICE","ONE PIECE TIKITI"

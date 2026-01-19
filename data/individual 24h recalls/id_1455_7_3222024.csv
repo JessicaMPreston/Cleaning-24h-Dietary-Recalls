@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","WATER, SUGAR, TEA LEAVES.","BOILED FOR 10MINUTES.","CUP - B"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","MANDAZI","WHEAT FLOUR, SUGAR, COOKING OIL, BAKING POWDER","BOUGHT.","2 ANDAZI - D"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR & WATER","COOKED FOR 20 MINUTES.","1-PLATE-D"
-2,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","FISH, OIL, TOMATO, ONIONS & SALT","COOKED FOR 25 MINUTES","1-FISH-A"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",3,5,"HOME","UGALI, SAMAKI","MAIZE FLOUR & WATER.","COOKED FOR 20 MINUTES","1 SHARED PLATE UGALI-F"
-1,2,"Supper",1,"1/0/1900",3,5,"HOME","SAMAKI","FISH, OIL, ONION, TOMATO & SALT","COOKED FOR 25 MINUTES","2 SHARED FISH A."
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","WATER, SUGAR, TEA LEAVES.","BOILED FOR 10MINUTES.","CUP - B"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","MANDAZI","WHEAT FLOUR, SUGAR, COOKING OIL, BAKING POWDER","BOUGHT.","2 ANDAZI - D"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR & WATER","COOKED FOR 20 MINUTES.","1-PLATE-D"
+,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","FISH, OIL, TOMATO, ONIONS & SALT","COOKED FOR 25 MINUTES","1-FISH-A"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,5,"HOME","UGALI, SAMAKI","MAIZE FLOUR & WATER.","COOKED FOR 20 MINUTES","1 SHARED PLATE UGALI-F"
+,,"Supper",1,"1/0/1900",3,5,"HOME","SAMAKI","FISH, OIL, ONION, TOMATO & SALT","COOKED FOR 25 MINUTES","2 SHARED FISH A."
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TANGAWIZI, TEALEAVES, SUGAR, WATER,","BOILED FOR 30MIN,","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,2,"HOME","NDIZI","NDIZI, COCONUT OIL, ONION, TOMATO, SALT, CARROTS","COOKED FOR 1HOUR","1 PLATE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 40 MIN","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","BEANS","BEAN'S ONION COCONUT OIL, CARROT'S SALT","BOILED FOR 2 HOURS","1 SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,2,"HOME","NDIZI","NDIZI, COCONUT OIL, ONION, CAROTS,SALT","BOILED FOR 2 HOUR","1 PLATE C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

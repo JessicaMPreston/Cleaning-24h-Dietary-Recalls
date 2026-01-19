@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, SUKARI, MAJANI YA CHAI,","BOILED FOR 10 MINUTES.","CUP C - ONE CUP"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","MIHOGO YA KUKAANGA","BOUGHT",,"FIVE PIECES CASSAVA B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","WATER, MAIZE FLOUR (DONA)","COOKED FOR 35 MINUTES","PLATE B"
 ,,"Lunch",1,"1/0/1900",1,4,"HOME","SAMAKI WA KUKAANGA","COOKING OIL, SALT, WATER, TOMATOES, ONION","COOKED FOR 25 MINUTES","ONE FISH, FISH C"
 ,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","PARACHICHI","BOUGHT",,"PORTION A, ONE PARACHICHI"
 ,,"Supper",1,"1/0/1900",1,4,"HOME","VIAZI MVIRINGO","WATER, ONION, NYANYA, COOKING OIL, SALT","COOKING FOR 30 MINUTES","PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

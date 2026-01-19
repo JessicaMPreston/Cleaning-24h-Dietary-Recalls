@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",2,"",,,"",,,,
-,,"Morning snack",2,"",,,"",,,,
+,,"Breakfast",2,,,,,,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MIN","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","FISH, ONION, LEMON, SALT.","COOKED FOR 10 MIN.","2 FISH C."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","TEA","TEA LEAVES ILIKI, SUGAR","BOILED FOR 10 MIN","1 CUP B"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","ANDAZI","BOUGHT","BOUGHT","4 ANDAZI B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

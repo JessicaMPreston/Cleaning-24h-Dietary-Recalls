@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","MAIZE FLOUR, SUGAR AND WATER","BOILED FOR 20 MINUTES","1 CUP B."
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR AND WATER","COOKED FOR 30 MINUTES.","UGALI PLATE C."
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","MEAT","MEAT, COOKING OIL, ONION, TOMATOES, SALT.","BOILED AND COOKED FOR 1 HOUR.","BEEF SAURCER D."
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHICHA","MCHICHA, ONIONS, CARROT, SALT.","COOKED FOR 15 MINUTES.","MCHICHA SAURCER C."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","WALI","RICE, COCONUT OIL AND SALT","COOKED FOR 30 MINUTES","RICE PLATE C"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","NYAMA","MEAT, ONION, CARROTS, TOMATOES, COOKING OIL, SALT AND WATER.","BOILED AND COOKED FOR 1 HOUR.","BEEF SAURCER C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

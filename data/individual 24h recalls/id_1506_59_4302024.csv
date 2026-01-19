@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","PORRIDGE","MILLET FLOUR, SUGAR, WATER","COILING -BOUGHT","CUP SIZE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI WA MHOGO","CASSAVA FLOUR, WATER","BOILING 30 MINUTES","PLATE D"
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","SAMAKI","FISH, CARROT, ONION, COCONUT, TOMATO","ROAST 40 MINUTES","FISH B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,2,"HOME","BANANA (RAW)","BANANA, WATER, SALT, OIL, ONION, CARROT","ROAST-TIME NOT KNOWN. PREPARED BY MOTHER IN LAW","PLATE D"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

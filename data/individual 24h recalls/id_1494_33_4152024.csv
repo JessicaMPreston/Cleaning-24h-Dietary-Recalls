@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","WATER, SUGAR, MCHAICHAI","BOILED FOR TEN MINUTES.","TEA ONE CUP C"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","BANANA","BANANA, SALT, WATER","BOILED FOR FIFTEEN MINUTES","BANANA PLATE C"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",3,2,"HOME","BANANA","BANANA, SALT, WATER","BOILED FOR TWENTY MINUTES","BANANA PLATE C"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA DONA, WATER","COOKED FOR TWENTY MINUTES","UGALI PLATE H"
-1,2,"Supper",1,"1/0/1900",4,3,"HOME","MCHUNGA","MCHUNGA, ONION, COOKING OIL, SALT, WATER","BOILED AND FIRED FOR THIRTY MINUTES","SHARED MCHUNGA SAURCER C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","WATER, SUGAR, MCHAICHAI","BOILED FOR TEN MINUTES.","TEA ONE CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","BANANA","BANANA, SALT, WATER","BOILED FOR FIFTEEN MINUTES","BANANA PLATE C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,2,"HOME","BANANA","BANANA, SALT, WATER","BOILED FOR TWENTY MINUTES","BANANA PLATE C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA DONA, WATER","COOKED FOR TWENTY MINUTES","UGALI PLATE H"
+,,"Supper",1,"1/0/1900",4,3,"HOME","MCHUNGA","MCHUNGA, ONION, COOKING OIL, SALT, WATER","BOILED AND FIRED FOR THIRTY MINUTES","SHARED MCHUNGA SAURCER C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME",,"MAZIWA, SUKARI",,
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME","MAZIWA","BOUGHT","BOILING, FIFTEEN MINUTES","CUP B-ONE"
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI",,"BOUGHT","TWO CHAPATI A"
-2,,"Morning snack",1,"1/0/1900",5,3,"HOME","MAEMBE","MAEMBE","EATEN RAW","THREE EMBE C"
-1,5,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, FIFTEEN MINUTES","PLATE A"
-1,5,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA, CHUMVI","DEEP FRYING, FIFTEEN MINUTES","FOUR FISH D"
-1,5,"Lunch",1,"1/0/1900",5,5,"HOME","KACHUMBARI","NYANYA, KITUNGUU, KAROTI, HOHO, NDIMU, CHUMVI","CHOPPING, EATEN RAW FIVE MINUTES","SAURCER A"
-2,,"Snack afternoon",1,"1/0/1900",2,3,"HOME","FENESI","FENESI","EATEN RAW","PLATE B"
-1,5,"Supper",1,"1/0/1900",3,5,"HOME","CHIPS","BOUGHT","BOUGHT","PLATE A"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",1,"1/0/1900",5,5,"HOME","EMBE","EMBE","EATEN RAW","THREE EMBE C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME",,"MAZIWA, SUKARI",,
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","MAZIWA","BOUGHT","BOILING, FIFTEEN MINUTES","CUP B-ONE"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI",,"BOUGHT","TWO CHAPATI A"
+,,"Morning snack",1,"1/0/1900",5,3,"HOME","MAEMBE","MAEMBE","EATEN RAW","THREE EMBE C"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, FIFTEEN MINUTES","PLATE A"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA, CHUMVI","DEEP FRYING, FIFTEEN MINUTES","FOUR FISH D"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","KACHUMBARI","NYANYA, KITUNGUU, KAROTI, HOHO, NDIMU, CHUMVI","CHOPPING, EATEN RAW FIVE MINUTES","SAURCER A"
+,,"Snack afternoon",1,"1/0/1900",2,3,"HOME","FENESI","FENESI",,
+,,"Supper",1,"1/0/1900",3,5,"HOME","CHIPS","BOUGHT","BOUGHT","PLATE A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",1,"1/0/1900",5,5,"HOME","EMBE","EMBE","EATEN RAW","THREE EMBE C"

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT.","BOUGHT","3 ANDAZI C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, ONION, TOMATOE, SALT, COOKING OIL.","COOKED FOR 1 HOUR","1 SAURCER D"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",2,"",,,"",,,,
-2,,"Snack afternoon",2,"",,,"",,,,
-1,1,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","SHARED 1 PLATE C"
-1,1,"Supper",1,"1/0/1900",2,4,"HOME","SAMAKI","SAMAKI, SALT","FRIED FOR 10 MIN.","NOT SHARED 2 FISH B"
-1,1,"Supper",1,"1/0/1900",2,4,"HOME","MLENDA","BAMIA, MAJANI YA MABOGA, TOMATOE, SALT, MAGADI","COOKED FOR 20 MIN.","SHARED 1 SAURCER D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT.","BOUGHT","3 ANDAZI C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MAHARAGE","MAHARAGE, ONION, TOMATOE, SALT, COOKING OIL.","COOKED FOR 1 HOUR","1 SAURCER D"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","SHARED 1 PLATE C"
+,,"Supper",1,"1/0/1900",2,4,"HOME","SAMAKI","SAMAKI, SALT","FRIED FOR 10 MIN.","NOT SHARED 2 FISH B"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MLENDA","BAMIA, MAJANI YA MABOGA, TOMATOE, SALT, MAGADI","COOKED FOR 20 MIN.","SHARED 1 SAURCER D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,13 +1,13 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TANGAWIZI, TEA LEAVES, SUGAR.","BOILED FOR 15 MIN.","2 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI","NDIZI, CHUMVI","BOILED FOR 30 MIN.","1 PLATE C NDIZI"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN.","1 PLATE C UGALI"
-2,,"Lunch",1,"1/0/1900",2,4,"HOME","MAJANI YA MABOGA,","MAJANI  MABOGA, TOMATOE, ONION COOKING OIL, SALT.","COOKED FOR 30 MIN","1 SAURCER A"
-2,,"Lunch",1,"1/0/1900",2,4,"HOME","FRIED FISH","BOUGHT","BOUGHT","4 FISH C"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","1 UGALI PLATE C"
-2,,"Supper",1,"1/0/1900",2,3,"HOME","SAMAKI","BOUGHT","BOUGHT","4 FISH C"
-2,,"Supper",1,"1/0/1900",2,3,"HOME","MAZIWA MTINDI","BOUGHT","BOUGHT","1 CUP C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TANGAWIZI, TEA LEAVES, SUGAR.","BOILED FOR 15 MIN.","2 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI","NDIZI, CHUMVI","BOILED FOR 30 MIN.","1 PLATE C NDIZI"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN.","1 PLATE C UGALI"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","MAJANI YA MABOGA,","MAJANI  MABOGA, TOMATOE, ONION COOKING OIL, SALT.","COOKED FOR 30 MIN","1 SAURCER A"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","FRIED FISH","BOUGHT","BOUGHT","4 FISH C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","1 UGALI PLATE C"
+,,"Supper",1,"1/0/1900",2,3,"HOME","SAMAKI","BOUGHT","BOUGHT","4 FISH C"
+,,"Supper",1,"1/0/1900",2,3,"HOME","MAZIWA MTINDI","BOUGHT","BOUGHT","1 CUP C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

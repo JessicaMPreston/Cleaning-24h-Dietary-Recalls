@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","PORRIDGE","MAIZE FLOUR, SUGAR","COOKED FOR 20 MINUTES","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","BANANA","BOUGHT","BOUGHT","1 PLATE A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 22 MINUTES","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","MCHICHA","MCHICHA, SALT, ONION, OIL","COOKED FOR 15 MINUTES","1 SAURCER C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 15 MINUTES","1 PLATE D"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","CHICKEN","BOUGHT","BOUGHT","1 CHICKEN A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

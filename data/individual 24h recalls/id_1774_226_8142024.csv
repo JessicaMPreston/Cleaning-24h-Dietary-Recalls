@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA-BLACK","WATER, SUGAR TEA LEAVES","BOILING - 6 MINUTES","1 CUP C 250MLS"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","VITUMBUA 3PCS","BOUGHT","BOUGHT","PLATE A (3PIECES)"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","WATER, MAIZE FLOUR.","COOKING 20 MINUTES","PLATE B"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","UONO-DAGAA","TOMATO, OIL, ONION, DAGAA, SALT. OIL, ONION,","ROASTING 18 MINUTES","PLATE C"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","TEMBELE","TEMBELE, SALT.","COOKING FOR 10 MINUTES","SAURCER C."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","WATER, MAIZE FLOUR","COOKING 20 MIN","PLATE B"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","TEMBELE","OIL, ONION","COOKING - 20 MIN","PLATE C / SAURCER C."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,0,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MDALASINI MAJI SUKARI","BOILED FOR 10 MINUTES.","ONE CUP C"
-,0,"Breakfast",1,"1/0/1900",2,3,"HOME","MIHOGO","BOUGHT","BOUGHT","4 MIHOGO ONE PLATE A"
-,0,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 30 MINUTES","ONE KPLAT E UGALI SHARED."
-1,4,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, NGOGWE, MAFUTA, NYANYA KITUNGUU, CHMVI","COOKED FOR 30 MINUTES.","ONE SAURCER A DAGAA SHARED."
-,0,"Snack afternoon",2,"",,,"",,,,
-,0,"Supper",1,"1/0/1900",2,4,"HOME","CHAI","SUKARI, MAJI MCHAICHAI","BOILED FOR 10 MINUTES","ONE CUP C."
-,0,"Supper",1,"1/0/1900",2,4,"HOME","MIHOGO","BOUGHT","BOUGHT","4 MIHOGO ONE PLATE A"
-,0,"Snack evening",2,"",,,"",,,,
-,0,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MDALASINI MAJI SUKARI","BOILED FOR 10 MINUTES.","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MIHOGO","BOUGHT","BOUGHT","4 MIHOGO ONE PLATE A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 30 MINUTES","ONE KPLAT E UGALI SHARED."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, NGOGWE, MAFUTA, NYANYA KITUNGUU, CHMVI","COOKED FOR 30 MINUTES.","ONE SAURCER A DAGAA SHARED."
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","CHAI","SUKARI, MAJI MCHAICHAI","BOILED FOR 10 MINUTES","ONE CUP C."
+,,"Supper",1,"1/0/1900",2,4,"HOME","MIHOGO","BOUGHT","BOUGHT","4 MIHOGO ONE PLATE A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

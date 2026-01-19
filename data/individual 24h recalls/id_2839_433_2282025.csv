@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","CHAI","TEA LEAVES, SUGAR.","BOILED FOR 10 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","NDIZI","OIL, BANANA","FRIED FOR 10 MINUTES","1 PLATE D."
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,2,"HOME","UGALI","UNGA, WATER","COOKED FOR 20 MINUTES","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",2,2,"HOME","SAMAKI","SAMAKI, OIL SALT","FRIED FOR 15 MINUTES","1 SAMAKI B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","VIAZI","VIAZI, NYANYA MAFUTA, KITUNGUU, CARROT","COOKED FOR 10 MINUTES",
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

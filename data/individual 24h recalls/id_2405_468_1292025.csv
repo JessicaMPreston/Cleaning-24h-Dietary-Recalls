@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA.","SUGAR, MDALASINI","BOILED FOR 10 MIN","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","VIAZI","VIAZI","FRIED FOR 10 MIN","1 PLATE A"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE C SHARED"
-2,,"Lunch",1,"1/0/1900",3,3,"HOME","NYAMA","NYAMA, ONION, NYANYA SALT","COOKED FOR 35 MIN","1 SAURCER A. SHARED"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",3,3,"HOME","CHIPS","BOUGHT","BOUGHT","1 PLATE A"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA.","SUGAR, MDALASINI","BOILED FOR 10 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","VIAZI","VIAZI","FRIED FOR 10 MIN","1 PLATE A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE C SHARED"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","NYAMA","NYAMA, ONION, NYANYA SALT","COOKED FOR 35 MIN","1 SAURCER A. SHARED"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","CHIPS","BOUGHT","BOUGHT","1 PLATE A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

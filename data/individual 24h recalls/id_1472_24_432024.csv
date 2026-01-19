@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,2,"HOME","TEA","WATER, SUGAR, MDALASINI, ILIKI","BOILED FOR THIRTY MINUTES.","TEA ONE CUP C"
 ,,"Breakfast",1,"1/0/1900",4,2,"HOME","ANDAZI","BOUGHT",,"TWO ANDAZI D."
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA SEMBE, WATER","COOKED FOR THIRTY MINUTES,","UGALI PLATE D"
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","STEW","ONION, TOMATO, WATER, COOKING OIL, SALT","COOKED FOR TWENTY MINUTES","STEW SAURCER D"
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","FISH","BOUGHT",,"ONE FISH B"
-,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",3,2,"HOME","RICE","RICE, WATER, COOKING OIL. SALT","COOKED FOR FORTY FIVE MINUTES","RICE PLATE H"
-1,2,"Supper",1,"1/0/1900",3,2,"HOME","BEANS","BEANS, COOKING OIL, SALT, ONION","COOKED FOR ONE HOUR","BEANS SAURCER D"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,2,"HOME","RICE","RICE, WATER, COOKING OIL. SALT","COOKED FOR FORTY FIVE MINUTES","RICE PLATE H"
+,,"Supper",1,"1/0/1900",3,2,"HOME","BEANS","BEANS, COOKING OIL, SALT, ONION","COOKED FOR ONE HOUR","BEANS SAURCER D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

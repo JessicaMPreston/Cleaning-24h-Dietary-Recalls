@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,3,"Breakfast",1,"1/0/1900",5,3,"HOME","CHAI","SUGAR, LEMON, LEAF.","BOILING FOR 30 MINUTES.","CUP C"
-1,3,"Breakfast",1,"1/0/1900",5,3,"HOME","ROASTED MAIZE","ROASTED MAIZE","ROASTED FOR 20 MINUTES","2 PIECES"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",4,5,"HOME","CHAI","SUGAR, LEMON, LEAF","BOILING FOR 30 MINUTES","CUP C"
-1,3,"Lunch",1,"1/0/1900",4,5,"HOME","ROASTED MAIZE","MAIZE","ROASTED FOR 20 MINUTES.","1 PIECE"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",2,"",,,"",,,,
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",5,3,"HOME","CHAI","SUGAR, LEMON, LEAF.","BOILING FOR 30 MINUTES.","CUP C"
+,,"Breakfast",1,"1/0/1900",5,3,"HOME","ROASTED MAIZE","ROASTED MAIZE","ROASTED FOR 20 MINUTES","2 PIECES"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","CHAI","SUGAR, LEMON, LEAF","BOILING FOR 30 MINUTES","CUP C"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","ROASTED MAIZE","MAIZE","ROASTED FOR 20 MINUTES.","1 PIECE"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",2,,,,,,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

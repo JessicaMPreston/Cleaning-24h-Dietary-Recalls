@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","TEA LEAVES, WATER","BOILED FOR 20 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","MKATE","BOUGHT","BOUGHT","2 BREAD B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","MTORI","NDIZI, COCONUT, ONION,CARROT, HOHO, UTUMBO","COOKED FOR 1 HOUR","PLATE B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,5,"HOME","CHIPS","IRISH POTATOES","FRIED FOR 20 MINUTES","PLATE A"
 ,,"Supper",1,"1/0/1900",4,5,"HOME","MAYAI","EGGS, OIL","FRIED FOR 20 MINUTES","PLATE A"
 ,,"Supper",1,"1/0/1900",4,5,"HOME","ZABIBU, EMBE",,"NATURAL","EMBE D"
 ,,"Supper",1,"1/0/1900",4,5,"HOME",,"NATURAL",,
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

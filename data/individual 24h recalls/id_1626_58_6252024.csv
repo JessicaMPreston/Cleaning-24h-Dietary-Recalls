@@ -1,13 +1,13 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,5,"HOME","MILK","MILK, BOUGHT","BOILING FOR 30 MINUTES","CUP B"
 ,,"Breakfast",1,"1/0/1900",5,5,"HOME","BREAD","BOUGHT",,"BREAD A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR","COOKING FOR 1:30 HOUR,","UGALI PLATE C"
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","MAHARAGE","BEANS, COOKING OIL, SALT, ONION","COOKING FOR 2HOURS","BEANS SAURCER A"
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, SALT","COOKING FOR 20 MINUTES","MCHICHA SAURCER A"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR,WATER","COOKING FOR 1:30 HOURS","UGALI PLATE C"
 ,,"Supper",1,"1/0/1900",4,3,"HOME","MAHARAGE","BEANS, ONION,SALT, COOKING OIL,","COOKING FOR 2HOURS,","BEANS SAURCER A,"
 ,,"Supper",1,"1/0/1900",4,3,"HOME","MCHICHA","MCHICHA, SALT","COOKING FOR 20 MINUTES","MCHICHA SAURCER A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

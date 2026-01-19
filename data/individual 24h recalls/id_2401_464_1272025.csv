@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","VIAZI","SALT, VIAZI","COOKED FOR 20 MIN","1 PLATE B"
-,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE F SHARED."
-1,4,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION, COOKING OIL","COOKED FOR 20 MIN","4 SAMAKI B SHARED"
-,,"Snack afternoon",2,"",,,"",,,,
-1,4,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE F SHARED"
-1,4,"Supper",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION COOKING OIL.","COOKED FOR 20 MIN","4 SAMAKI B SHARED"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE F SHARED."
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION, COOKING OIL","COOKED FOR 20 MIN","4 SAMAKI B SHARED"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE F SHARED"
+,,"Supper",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION COOKING OIL.","COOKED FOR 20 MIN","4 SAMAKI B SHARED"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

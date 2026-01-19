@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,5,"HOME","CHAI","MCHAICHAI, IRIKI, MAJI, SUKARI","BOILING FIFTEEN MINUTES","ONE CUP C"
 ,,"Breakfast",1,"1/0/1900",2,5,"HOME","VIAZI MVIRINGO","VIAZI, MAJI NYANYA, MAFUTA KITUNGUU, CHUMVI","ROAST THIRTY MINUTES","PLATE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, FIFTEEN","PLATE B"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, CHUMVI, KITUNGUU, MAFUTA NYANYA,","ROAST, FIFTEEN MINUTES","TWO FISH C SAURCER D OF STEW"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","MAHARAGE","MAJI MAHARAGE, NAZI CHUMVI HOHO KITUNGUU, MAJI","BOILING, TWO HOURS","SAURCER A"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,5,"HOME","TAMBI","TAMBI, SUKARI","FRYING, AND BOILING, TWENTY MINUTES","PLATE B"
 ,,"Supper",1,"1/0/1900",3,5,"HOME","MAHARAGE","MAFUTA MAHARAGE, NAZI CHUMVI, HOHO, MAJI, KITUNGUU","COOKED IN THE AFTERNOON","SAURCER C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

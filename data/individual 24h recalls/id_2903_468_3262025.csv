@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","MILK","MILK","BOILED FOR 15 MINUTES","1CUPA"
-2,,"Morning snack",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, ILIKI SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
-2,,"Morning snack",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","2 BREAD B"
-1,1,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 35 MINUTES","SHARED 1 PLATE C"
-1,1,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, SALT","FRIED FOR 5 MINUTES","3 FISH C"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",3,4,"HOME","PILAU","RICE, MEAT, COOKING OIL, SALT, GARLIC, PILAU MIX","COOKED FOR 40 MINUTES","1 PLATE C"
-2,,"Supper",1,"1/0/1900",3,4,"HOME","KABICHI","KABICHI, TOMATOE ONION, SALT, COOKING OIL","COOKED FOR 5 MINUTES","1 PLATE C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","MILK","MILK","BOILED FOR 15 MINUTES","1CUPA"
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, ILIKI SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Morning snack",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","2 BREAD B"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 35 MINUTES","SHARED 1 PLATE C"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, SALT","FRIED FOR 5 MINUTES","3 FISH C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","PILAU","RICE, MEAT, COOKING OIL, SALT, GARLIC, PILAU MIX","COOKED FOR 40 MINUTES","1 PLATE C"
+,,"Supper",1,"1/0/1900",3,4,"HOME","KABICHI","KABICHI, TOMATOE ONION, SALT, COOKING OIL","COOKED FOR 5 MINUTES","1 PLATE C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

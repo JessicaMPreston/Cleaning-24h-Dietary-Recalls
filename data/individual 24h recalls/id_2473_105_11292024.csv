@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","MILK","NATURAL MILK","BOILED FOR 10 MINUTES","1 CUP B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","PLATE D"
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI","FISH, TOMATO ONION, OIL SALT","FRIED THEN COOKED FOR 20 MINUTES","FISH A"
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","MATEMBELE","TEMBELE, SALT OIL, ONION, TOMATO","COOKED FOR 10 MINUTES","SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,5,"HOME","VIAZI","IRISH POTATOES TOMATO, ONION SALT","COOKED FOR 30 MINUTES","PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

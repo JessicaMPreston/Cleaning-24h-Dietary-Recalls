@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",2,"",,,"",,,,
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES.","SHARED 1 PLATE C UGALI."
-1,1,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, TOMATOE, ONION, COOKINGOIL.","COOKED FOR 20 MINUTES.","SHARED 1 SAURCER B-DAGAA"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",3,4,"HOME","TAMBI","TAMBI, SUGAR, COOKING OIL","COOKED FOR 15 MINUTES","1 PLATE C - TAMBI"
-2,,"Supper",1,"1/0/1900",3,4,"HOME","TEA","SUGAR, TEA LEAVES.","BOILED FOR 10 MINUTES.","1 CUP C."
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",2,,,,,,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MINUTES.","SHARED 1 PLATE C UGALI."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, TOMATOE, ONION, COOKINGOIL.","COOKED FOR 20 MINUTES.","SHARED 1 SAURCER B-DAGAA"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","TAMBI","TAMBI, SUGAR, COOKING OIL","COOKED FOR 15 MINUTES","1 PLATE C - TAMBI"
+,,"Supper",1,"1/0/1900",3,4,"HOME","TEA","SUGAR, TEA LEAVES.","BOILED FOR 10 MINUTES.","1 CUP C."
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

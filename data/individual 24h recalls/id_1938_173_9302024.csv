@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TANGAWIZI, WATER, SUGAR,","BOILED FOR 20 MIN,","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","VIAZI VITAMU","VIAZI VITAMU, WATER","BOILED FOR 30 MIN","3 PIECE PLATE A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 45 MIN","1 PLATE C"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","NYAMA","NYAMA, ONION CARROT, COOKING OIL, SALT, WATER TOMATOES","BOILED AND COOKED FOR 1 HOUR 20 MIN","1 PLATE B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","CHIPS PLAIN","VIAZI, COOKING OIL, SALT","FRIED FOR 10 MIN","1 PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

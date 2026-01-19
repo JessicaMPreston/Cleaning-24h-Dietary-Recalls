@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","UJI","MILK, UWONO","COOKED FOR 20 MIN","1 CUP B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, SALT, ONION, COOKING OIL","COOKED FOR 45 MIN.","1 SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, OIL SALT","COOKED FOR 20 MIN","1 PLATE C SHARED"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, SALT ONION,","COOKED FOR 45 MIN.","1 SAURCER B SHARED"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 10 MIN","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",4,3,"HOME","ANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, ONION COOKING OIL, SALT.","COOKED FOR 45 MIN","1 SAURCER B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20MIN","1 PLATE D"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","MCHUNGA","COCONUT, SALT, MCHUNGA","COOKED FOR 5MIN","1 SAURCER A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

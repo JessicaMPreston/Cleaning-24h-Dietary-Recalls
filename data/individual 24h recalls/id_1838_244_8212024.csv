@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","WATER MCHAICHAI SUGAR","BOILED FOR 15 MINUTES","CUP-C-ONE CUP"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","MKATE","BOUGHT",,"BREAD-B TWO SLICE"
-2,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","WATER, SEMBE MAIZE FLOUR.","COOKED FOR 40 MINUTES","PLATE -E"
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI WA KUKAANGA","COOKING OIL, SALT, NYANYA, KITUNGUU","COOKING FOR TWENTY MINUTES","FISH-D FIVE-FISHES"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,4,"Supper",1,"1/0/1900",2,5,"HOME","WALI","WATER SALT COOKING OIL","COOKED FOR 1 HOUR","PLATE-E"
-1,4,"Supper",1,"1/0/1900",2,5,"HOME","MAHARAGE","WATER SALT COOKING OIL ONION","COOKED FOR 1 HOUR","SAURCER-B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","WATER MCHAICHAI SUGAR","BOILED FOR 15 MINUTES","CUP-C-ONE CUP"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","MKATE","BOUGHT",,"BREAD-B TWO SLICE"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","WATER, SEMBE MAIZE FLOUR.","COOKED FOR 40 MINUTES","PLATE -E"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI WA KUKAANGA","COOKING OIL, SALT, NYANYA, KITUNGUU","COOKING FOR TWENTY MINUTES","FISH-D FIVE-FISHES"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,5,"HOME","WALI","WATER SALT COOKING OIL","COOKED FOR 1 HOUR","PLATE-E"
+,,"Supper",1,"1/0/1900",2,5,"HOME","MAHARAGE","WATER SALT COOKING OIL ONION","COOKED FOR 1 HOUR","SAURCER-B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

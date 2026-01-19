@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","SUGAR, WATER, TEA LEAF,","BOILED FOR 10 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","BANANA, OIL, SALT","FRIED FOR 10 MINUTES","1 PLATE D"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES","1 PLATE C,"
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","SARDINES, OIL, SALT, TOMATO, ONION","COOKED FOR 30 MINUTES","1 SAURCER C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","TAMBI","TAMBI, SUGAR, COOKING OIL","COOKED FOR 20 MINUTES","1 PASTA PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

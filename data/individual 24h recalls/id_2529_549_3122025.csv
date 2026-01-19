@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",2,"",,,"",,,,
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",2,"",,,"",,,,
-2,,"Snack afternoon",2,"",,,"",,,,
-1,1,"Supper",1,"1/0/1900",5,5,"HOME","TAMBI","SUKARI COOKING OIL","COOKED FOR 15 MINUTES","PLATE A-ONE"
-1,1,"Supper",1,"1/0/1900",5,5,"HOME","MAHARAGE",,"COOKED FOR 2 HOURS","SAURCER C-ONE"
-1,1,"Supper",1,"1/0/1900",5,5,"HOME","CHAI","SUKARI MDALASINI SUGAR","BOILED FOR 10 MINUTES","CUP B- ONE"
-2,,"Snack evening",2,"",,,"",,,,
-1,1,"Night snack",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 15 MINUTES","PLATE B- ONE"
-1,1,"Night snack",1,"1/0/1900",2,4,"HOME","FISH (FRIED)","COOKING OIL SALT NYANYA ONION WATER","COOKED FOR TWENTY MINUTES","MCHUZI- SAURCER C ONE FISH B- ONE"
+,,"Breakfast",2,,,,,,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",5,5,"HOME","TAMBI","SUKARI COOKING OIL","COOKED FOR 15 MINUTES","PLATE A-ONE"
+,,"Supper",1,"1/0/1900",5,5,"HOME","MAHARAGE",,"COOKED FOR 2 HOURS","SAURCER C-ONE"
+,,"Supper",1,"1/0/1900",5,5,"HOME","CHAI","SUKARI MDALASINI SUGAR","BOILED FOR 10 MINUTES","CUP B- ONE"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR SEMBE","COOKED FOR 15 MINUTES","PLATE B- ONE"
+,,"Night snack",1,"1/0/1900",2,4,"HOME","FISH (FRIED)","COOKING OIL SALT NYANYA ONION WATER","COOKED FOR TWENTY MINUTES","MCHUZI- SAURCER C ONE FISH B- ONE"

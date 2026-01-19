@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","MAJI, SUKARI, TANGAWIZI","BOILING, FIFTEEN MINUTES.","CUPC, HALF CUP"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI A - THREE PIECES"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, TEN MINUTES","PLATE D- HALF"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","SPINACH","SPINACH, NYANYA, MAFUTA, KITUNGUU, KAROTI, HOHO, CHUMVI","FRYING, TWENTY MINUTES","SAURCER C OF MCHICHA"
 ,,"Snack afternoon",1,"1/0/1900",3,5,"HOME","MAKANDE","MAHINDI, KAROTI, MAHARAGE, HOHO, KITUNGUU, NAZI, CHUMVI. SPINACH","BOILING, TWO HOURS. FRYING, LEFT OVER.","TWO PLATE A. SAURCER C OF MCHICHA"
 ,,"Supper",1,"1/0/1900",3,5,"HOME","MAKANDE","MAHINDI, KAROTI, HOHO, MAHARAGE, NAZI, KITUNGUU, CHUMVI","BOILING, LEFT OVER","PLATE B."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

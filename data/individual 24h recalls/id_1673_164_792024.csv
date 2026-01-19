@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,3,"Breakfast",1,"1/0/1900",5,4,"HOME","UJI","MAIZE FLOUR, SUGAR, SALT","BOILING FOR 1 HOUR","CUP B"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","PLATE F"
-1,3,"Lunch",1,"1/0/1900",5,4,"HOME","SAMAKI","FISH, TOMATO, COOKING OIL, SALT.","COOKING FOR 45 MINUTES","FISH B"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,5,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","TEA LEAF, (MCHAICHAI) SUGAR","BOILING FOR 30 MINUTES","CUP C"
-1,5,"Supper",1,"1/0/1900",4,4,"HOME","MIHOGO","CASSAVA","BOILING FOR 1 HOUR","PLATE C."
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","UJI","MAIZE FLOUR, SUGAR, SALT","BOILING FOR 1 HOUR","CUP B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","PLATE F"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","SAMAKI","FISH, TOMATO, COOKING OIL, SALT.","COOKING FOR 45 MINUTES","FISH B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","TEA LEAF, (MCHAICHAI) SUGAR","BOILING FOR 30 MINUTES","CUP C"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MIHOGO","CASSAVA","BOILING FOR 1 HOUR","PLATE C."
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

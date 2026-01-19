@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",1,3,"HOME","CHAI","SUKARI, MDALASINI","BOILED FOR SEVEN MINUTES","CUP C-  ONE"
-2,,"Breakfast",1,"1/0/1900",1,3,"HOME","MANDAZI","BOUGHT","BOUGHT","TWO MANDAZI"
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR (SEMBE), WATER","COOKED FOR 30 MINUTES","PLATE D - ONE"
-1,1,"Lunch",1,"1/0/1900",2,4,"HOME","FRIED FISH","COOKING OIL NYANYA SALT KITUNGUU BAMIA WATER","COOKED FOR TWENTY MINUTES","TWO FISH - B MCHUZI SAURCER C - ONE"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",1,4,"HOME","WALI","COOKING OIL,SALT,IRIKI","COOKED FOR 40 MINUTES","PLATE C- ONE"
-2,,"Supper",1,"1/0/1900",1,4,"HOME","MAHARAGE","NAZI ONION COOKING OIL CARROT","COOKED FOR TWO HOURS","SAURCER C- ONE"
-2,,"Snack evening",1,"1/0/1900",1,1,"HOME","PAW PAW",,,"PORTION A- ONE PLATE"
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","CHAI","SUKARI, MDALASINI","BOILED FOR SEVEN MINUTES","CUP C-  ONE"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","MANDAZI","BOUGHT","BOUGHT","TWO MANDAZI"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR (SEMBE), WATER","COOKED FOR 30 MINUTES","PLATE D - ONE"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","FRIED FISH","COOKING OIL NYANYA SALT KITUNGUU BAMIA WATER","COOKED FOR TWENTY MINUTES","TWO FISH - B MCHUZI SAURCER C - ONE"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",1,4,"HOME","WALI","COOKING OIL,SALT,IRIKI","COOKED FOR 40 MINUTES","PLATE C- ONE"
+,,"Supper",1,"1/0/1900",1,4,"HOME","MAHARAGE","NAZI ONION COOKING OIL CARROT","COOKED FOR TWO HOURS","SAURCER C- ONE"
+,,"Snack evening",1,"1/0/1900",1,1,"HOME","PAW PAW",,,"PORTION A- ONE PLATE"
+,,"Night snack",2,,,,,,,,

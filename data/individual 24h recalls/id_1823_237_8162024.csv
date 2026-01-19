@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MILK","MILK BOUGHT","BOILED FOR 15 MIN.","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","3 BREAD A"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","WALI (RICE)","RICE, SALT","COOKED FOR 20 MIN","SHARED 2 PLATE A."
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","MBAAZI","MBAAZI, ONION, TOMATOE, SALT COCONUT JUICE","COOKED FOR 1 HOUR","MBAAZI COMPARED TO 1 - MAHARAGE SAURCER A"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 20 MIN","SHARED 1 PLATE A"
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","MBAAZI","MBAAZI, ONION, TOMATOE, SALT, COCONUT JUICE","COOKED FOR 1 HOUR.","MBAAZI COMPARED TO 1 MAHARAGE SAURCER A"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MILK","MILK BOUGHT","BOILED FOR 15 MIN.","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","3 BREAD A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","WALI (RICE)","RICE, SALT","COOKED FOR 20 MIN","SHARED 2 PLATE A."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MBAAZI","MBAAZI, ONION, TOMATOE, SALT COCONUT JUICE","COOKED FOR 1 HOUR","MBAAZI COMPARED TO 1 - MAHARAGE SAURCER A"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 20 MIN","SHARED 1 PLATE A"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MBAAZI","MBAAZI, ONION, TOMATOE, SALT, COCONUT JUICE","COOKED FOR 1 HOUR.","MBAAZI COMPARED TO 1 MAHARAGE SAURCER A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

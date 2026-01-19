@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,3,"HOME","CHAI","MAJI, SUKARI, TANGAWIZI, IRIKI,","BOILING, TEN MINUTES,","CUP C - ONE CUP"
-2,,"Breakfast",1,"1/0/1900",3,3,"HOME","HALF CAKES","BOUGHT","BOUGHT","ANDAZI D-2PIECES"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAJI, UNGA WA SEMBE","BOILING FIFTEEN MINUTES","PLATE C"
-1,3,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","SAMAKI, CHUMVI, MAFUTA","FRYING THIRTY MINUTES","FISH C-2 PIECES"
-2,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","MIWA","MIWA","BOUGHT, EATEN RAW","PLATE D"
-1,3,"Supper",1,"1/0/1900",4,4,"HOME","WALI","MCHELE, MAJI, MAFUTA, CHUMVI","BOILING TWENTY MINUTES","PLATE F"
-1,3,"Supper",1,"1/0/1900",4,4,"HOME","MAHARAGE","MAHARAGE, NAZI, CHUMVI, KITUNGUU","BOILING ONE AND HALF HOUR","SAURCER D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","CHAI","MAJI, SUKARI, TANGAWIZI, IRIKI,","BOILING, TEN MINUTES,","CUP C - ONE CUP"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","HALF CAKES","BOUGHT","BOUGHT","ANDAZI D-2PIECES"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAJI, UNGA WA SEMBE","BOILING FIFTEEN MINUTES","PLATE C"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","SAMAKI, CHUMVI, MAFUTA","FRYING THIRTY MINUTES","FISH C-2 PIECES"
+,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","MIWA","MIWA","BOUGHT, EATEN RAW","PLATE D"
+,,"Supper",1,"1/0/1900",4,4,"HOME","WALI","MCHELE, MAJI, MAFUTA, CHUMVI","BOILING TWENTY MINUTES","PLATE F"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MAHARAGE","MAHARAGE, NAZI, CHUMVI, KITUNGUU","BOILING ONE AND HALF HOUR","SAURCER D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

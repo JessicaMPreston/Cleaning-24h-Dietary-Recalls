@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, SUKARI IRIKI","BOILING, TWENTY MINUTES","CUP B-ONE CUP"
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","BOUGHT","BOUGHT","THREE FRIED BANANAS"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, TWENTY MINUTES","PLATE F"
-1,2,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA CHUMVI, LIMAO","FRYING, THIRTY MINUTES","FISH B THREE PIECES"
-1,2,"Lunch",1,"1/0/1900",5,5,"HOME","TEMBELE","TEMBELE, CHUMVI, KITUNGUU, NYANYA, MAFUTA","FRYING, FIFTEEN MINUTES","SAURCER B"
-2,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","ICE CREAM","BOUGHT","BOUGHT","2 ICE CREAM SOLD EACH 100/="
-2,,"Supper",1,"1/0/1900",3,5,"HOME","CHIPS","BOUGHT","BOUGHT","PLATE A"
-2,,"Supper",1,"1/0/1900",3,5,"HOME","JUICE","BOUGHT","BOUGHT","300 MLS"
-2,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","MAJI, SUKARI IRIKI","BOILING, TWENTY MINUTES","CUP B-ONE CUP"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","BOUGHT","BOUGHT","THREE FRIED BANANAS"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, TWENTY MINUTES","PLATE F"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, MAFUTA CHUMVI, LIMAO","FRYING, THIRTY MINUTES","FISH B THREE PIECES"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","TEMBELE","TEMBELE, CHUMVI, KITUNGUU, NYANYA, MAFUTA","FRYING, FIFTEEN MINUTES","SAURCER B"
+,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","ICE CREAM","BOUGHT","BOUGHT","2 ICE CREAM SOLD EACH 100/="
+,,"Supper",1,"1/0/1900",3,5,"HOME","CHIPS","BOUGHT","BOUGHT","PLATE A"
+,,"Supper",1,"1/0/1900",3,5,"HOME","JUICE","BOUGHT","BOUGHT","300 MLS"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

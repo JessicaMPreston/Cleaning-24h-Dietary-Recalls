@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES SUGAR.","BOILED FOR 5 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
-,,"Morning snack",2,"",,,"",,,,
-,,"Lunch",1,"",,,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 PLATE D."
-,,"Lunch",1,"",,,"HOME","SAMAKI","SAMKI, TOMATOE ONION, COCONUT JUICE SALT","COOKED FOR 30 MINUTES","2 SAMAKI B"
-,,"Lunch",1,"",,,"HOME","MCHUNGA","MCHUNGA COCONUT JUICE ONION, SALT","COOKED FOR 20 MINUTES","1 SAURCER C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,,,,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 PLATE D."
+,,"Lunch",1,,,,"HOME","SAMAKI","SAMKI, TOMATOE ONION, COCONUT JUICE SALT","COOKED FOR 30 MINUTES","2 SAMAKI B"
+,,"Lunch",1,,,,"HOME","MCHUNGA","MCHUNGA COCONUT JUICE ONION, SALT","COOKED FOR 20 MINUTES","1 SAURCER C"
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","CHIPS","BOUGHT","BOUGHT","1 PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

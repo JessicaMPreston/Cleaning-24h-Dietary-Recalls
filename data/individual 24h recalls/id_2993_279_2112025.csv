@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES, SUGAR, WATER","BOILED FOR 30MIN","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","NDIZI","NDIZI, SALT, WATER","BOILED FOR 1 HOUR","1 PLATE C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","BEANS","BEANS, NAZI, SALT, WATER, ONION","BOILED FOR 2 HOURS","1 SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","RICE","RICE, COCONUT OIL, WATER","BOILED FOR 1 HOUR","1 PLATE B"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","FISH","FISH, NAZI, ONION, COOKING OIL, SALT","COOKING FOR 40 MIN","2 FISH B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

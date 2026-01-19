@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,1,"HOME","CHAI","WATER, MDALASIN SUGAR, IRIKI, TANGAWIZI","BOUGHT","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",3,1,"HOME","CHAPATI","NGANO. UNGA, CHUMVI MAFUTA YA KUPIKIA","BOUGHT","2 CHAPATI A"
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",3,1,"HOME","UGALI","UNGA WA MAHINDI MAJI","20 MIN","1 PLATE D."
-1,1,"Lunch",1,"1/0/1900",3,1,"HOME","DAGAA","DAGAA, NAZI, VIAZI MBATATA, CHUMVI, NYANYA, KITUNGUU","15 MIN","1 SAURCER B."
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",3,1,"HOME","WALI","MCHELE, MAFUTA YA KUPIKIA, CHUMVI","COOKED FOR 30 MIN","1 PLATE D"
-2,,"Supper",1,"1/0/1900",3,1,"HOME","MAHARAGE","NAZI, KITUNGUU, CHUMVI, KAROTI","COOKED FOR 2 HOURS","1 SAURCER C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,1,"HOME","CHAI","WATER, MDALASIN SUGAR, IRIKI, TANGAWIZI","BOUGHT","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,1,"HOME","CHAPATI","NGANO. UNGA, CHUMVI MAFUTA YA KUPIKIA","BOUGHT","2 CHAPATI A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,1,"HOME","UGALI","UNGA WA MAHINDI MAJI","20 MIN","1 PLATE D."
+,,"Lunch",1,"1/0/1900",3,1,"HOME","DAGAA","DAGAA, NAZI, VIAZI MBATATA, CHUMVI, NYANYA, KITUNGUU","15 MIN","1 SAURCER B."
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,1,"HOME","WALI","MCHELE, MAFUTA YA KUPIKIA, CHUMVI","COOKED FOR 30 MIN","1 PLATE D"
+,,"Supper",1,"1/0/1900",3,1,"HOME","MAHARAGE","NAZI, KITUNGUU, CHUMVI, KAROTI","COOKED FOR 2 HOURS","1 SAURCER C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

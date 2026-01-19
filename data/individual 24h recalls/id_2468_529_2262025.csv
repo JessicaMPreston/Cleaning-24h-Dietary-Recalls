@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",5,5,"HOME","SUPU YA NG'OMBE","NYAMA YA NG'OMBE, MAJI, CHUMVI, LIMAO","BOUGHT","PLATE B"
-2,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAPATI","BOUGHT","BOUGHT","ONE CHAPATI C"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",2,"",,,"",,,,
-2,,"Snack afternoon",1,"1/0/1900",3,4,"HOME","MANGO JUICE BAGIA","BOUGHT BOUGHT","BOUGHT BOUGHT","350 MLS THREE BAGIA SAME SIZE AS CAKE C"
-1,4,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, SEVEN MINUTES","PLATE D"
-1,4,"Supper",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI NAZI KITUNGUU, HOHO KAROTI, NYANYA CHUMVI, MAJI","ROASTING, THIRTY MINUTES","ONE FISH D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","SUPU YA NG'OMBE","NYAMA YA NG'OMBE, MAJI, CHUMVI, LIMAO","BOUGHT","PLATE B"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAPATI","BOUGHT","BOUGHT","ONE CHAPATI C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
+,,"Snack afternoon",1,"1/0/1900",3,4,"HOME","MANGO JUICE BAGIA","BOUGHT BOUGHT","BOUGHT BOUGHT","350 MLS THREE BAGIA SAME SIZE AS CAKE C"
+,,"Supper",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE MAJI","BOILING, SEVEN MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI NAZI KITUNGUU, HOHO KAROTI, NYANYA CHUMVI, MAJI","ROASTING, THIRTY MINUTES","ONE FISH D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

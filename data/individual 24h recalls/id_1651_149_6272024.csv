@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","VITUMBUA","BOUGHT","BOUGHT","3 VITUMBUA PLATE A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","RICE","RICE, WATER, SALT, COOKING OIL.","BOILED FOR 30 MINUTES.","RICE PLATE C."
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","BEANS","BEANS, WATER, SALT, COCONUT OIL.","BOILED AND COOKED FOR 1 HOUR AND 30 MINUTES.","1 SAURCER B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,5,"HOME","RICE","RICE, WATER, SALT, COOKING OIL","BOILED FOR 30 MINUTES","RICE PLATE C"
 ,,"Supper",1,"1/0/1900",4,5,"HOME","BEANS","BEANS, WATER, SALT, COCONUT OIL.","BOILED AND COOKED FOR 1 HOUR AND 30 MINUTES.","1 SAURCER B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

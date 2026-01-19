@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","UJI","MAIZE FLOUR, CASSAVA FLOUR, SUGAR, WATER","BOILED FOR 30 MINUTES","1 CUP C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES","PLATE D"
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","MATEMBELE","TEMBELE, ONION, SALT, TOMATO, LEMON","COOKED FOR 20 MINUTES","SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","MAKANDE","MAIZE, BEANS, OIL, SALT, ONION","COOKED FOR 1 HOUR","PLATE C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,2,"HOME","CHAI","SUGAR, WATER, TEA LEAF","BOILING FOR 20 MINUTES","CUP C"
 ,,"Breakfast",1,"1/0/1900",3,2,"HOME","VIAZI","VIAZI, SALT","BOILING FOR 20 MINUTES",
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 30 MIN","PLATE A"
 ,,"Lunch",1,"1/0/1900",5,3,"HOME","MTINDI","PERMENTED MILK","BOUGHT","1 CUP C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 30 MINUTES","PLATE A"
 ,,"Supper",1,"1/0/1900",4,3,"HOME","CHICKEN","CHICKEN","COOKING FOR 30 MINUTES","CHICKEN A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

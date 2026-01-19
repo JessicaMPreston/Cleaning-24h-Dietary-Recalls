@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","BANANAS","BANANA, SALT, WATER","COOKED FOR 22 MINUTES","1 PLATE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 18 MINUTES","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","SAMAKI","SAMAKI, SALT, COOKING OIL","FRIED FOR 15 MINUTES","2 SAMAKI B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","RICE, OIL, SALT","COOKED FOR 25 MINUTES","1 PLATE C"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","BEANS, OIL, COCONUT, SALT, ONION","COOKED FOR 47 MINUTES","1 SAURCER C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

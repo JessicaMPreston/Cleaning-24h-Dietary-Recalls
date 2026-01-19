@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","UJI","UNGA WA MAHINDI, SEMBE MAJI","BOILED FOR 20 MIN","2 CUP C"
-2,,"Morning snack",2,"",,,"",,,,
-1,5,"Lunch",1,"1/0/1900",2,4,"HOME","NDIZI ZA KUPIKWA","NDIZI, NAZI CHUMVI, MAJI","BOILED FOR 1 HR","1 PLATE F"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,5,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 20 MIN","1 PLATE E SHARED"
-1,5,"Supper",1,"1/0/1900",4,5,"HOME","MCHUNGA","MCHUNGA, MAJI, CHUMVI","BOILED FOR 1 HR.","1 SAURCER B SHARED"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","UJI","UNGA WA MAHINDI, SEMBE MAJI","BOILED FOR 20 MIN","2 CUP C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","NDIZI ZA KUPIKWA","NDIZI, NAZI CHUMVI, MAJI","BOILED FOR 1 HR","1 PLATE F"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","BOILED FOR 20 MIN","1 PLATE E SHARED"
+,,"Supper",1,"1/0/1900",4,5,"HOME","MCHUNGA","MCHUNGA, MAJI, CHUMVI","BOILED FOR 1 HR.","1 SAURCER B SHARED"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

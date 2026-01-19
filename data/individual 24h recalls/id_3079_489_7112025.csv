@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,0,"Breakfast",1,"1/0/1900",1,4,"HOME","UJI","UNGA WA ULEZI SUKARI MAFUTA","BOILED FOR 25 MIN","1 CUP B"
-2,0,"Breakfast",1,"1/0/1900",1,4,"HOME","CHAI","MAJI, MDALASINI SUKARI","BOILED FOR 5 MIN","1 CUP C"
-2,0,"Breakfast",1,"1/0/1900",1,4,"HOME","WALI","MCHELE, MAJI MAFUTA YA KUPIKIA CHUMVI","COOKED FOR 45 MIN","1 PLATE C"
-,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",2,4,"HOME","WALI","MCHELE, MAJI MAFUTA YA KUPIKIA CHUMVI","COOKED FOR 45 MIN","SHARED 1 PLATE A"
-1,1,"Lunch",1,"1/0/1900",2,4,"HOME","NYAMA","NYAMA, NYANYA MAFUTA YA KUPIKIA KITUNGUU MAJI CHUMVI","COOKED FOR 40 MIN","SHARED 1 SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
-1,1,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","COOKED FOR 30 MIN","SHARED 1 PLATE B"
-1,1,"Supper",1,"1/0/1900",2,3,"HOME","NYAMA YA KUKU YA KUKAANGA","ALINUNUA","ALINUNUA",
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",1,4,"HOME","UJI","UNGA WA ULEZI SUKARI MAFUTA","BOILED FOR 25 MIN","1 CUP B"
+,,"Breakfast",1,"1/0/1900",1,4,"HOME","CHAI","MAJI, MDALASINI SUKARI","BOILED FOR 5 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",1,4,"HOME","WALI","MCHELE, MAJI MAFUTA YA KUPIKIA CHUMVI","COOKED FOR 45 MIN","1 PLATE C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","WALI","MCHELE, MAJI MAFUTA YA KUPIKIA CHUMVI","COOKED FOR 45 MIN","SHARED 1 PLATE A"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","NYAMA","NYAMA, NYANYA MAFUTA YA KUPIKIA KITUNGUU MAJI CHUMVI","COOKED FOR 40 MIN","SHARED 1 SAURCER B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA MAHINDI SEMBE, MAJI","COOKED FOR 30 MIN","SHARED 1 PLATE B"
+,,"Supper",1,"1/0/1900",2,3,"HOME","NYAMA YA KUKU YA KUKAANGA","ALINUNUA","ALINUNUA",
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

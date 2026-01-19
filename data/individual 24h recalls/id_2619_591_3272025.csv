@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES SUGAR","BOILED FOR 12 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","4 MAANDAZI A"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","1 PLATE C SHARED"
-1,3,"Lunch",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, SALT, ONION, TOMATOES","COOKED FOR 15 MINUTES","1 SAURCER B SHARED"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 22 MINUTES","1 PLATE C SHARED"
-1,3,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE SALT, ONION COCONUT","COOKED FOR 45 MINUTES","1 SAURCER B SHARED"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES SUGAR","BOILED FOR 12 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","4 MAANDAZI A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","1 PLATE C SHARED"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, SALT, ONION, TOMATOES","COOKED FOR 15 MINUTES","1 SAURCER B SHARED"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 22 MINUTES","1 PLATE C SHARED"
+,,"Supper",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE SALT, ONION COCONUT","COOKED FOR 45 MINUTES","1 SAURCER B SHARED"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

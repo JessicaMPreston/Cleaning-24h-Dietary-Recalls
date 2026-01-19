@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,2,"HOME","UJI, MILK","MAIZE FLOUR, WATER, SUGAR, KARANGA, MILK, SALT, BLUE BAND","BOILED FOR 1 HOUR","1 CUP-B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI","MAIZE FLOUR, WATER,","COOKED FOR 40 MINUTES,","1 PLATE - C,"
 ,,"Lunch",1,"1/0/1900",3,2,"HOME","NYAMA","NYAMA, ONION, SALT, CARROT, TOMATOES, COOKING OIL","BOILED AND COOKED FOR 1 HOUR 30 MIN","1 SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,2,"HOME","MTORI","NDIZI, NYAMA ONION, TOMATOES SALT, COOKING OIL, WATER","COOKED FOR 1 HOUR","MTORI LIKE 1 SAURCER OF PLATE A OF KONGORO"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","SUGAR, TEA LEAVES","COOKED FOR 10 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
-2,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","SHARED PLATE H"
-1,4,"Lunch",1,"1/0/1900",4,4,"HOME","CABBAGE","CABBAGE, OIL ONION, TOMATOES","COOKED FOR 20 MINUTES","SHARED 2 PLATE A"
-1,4,"Lunch",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, OIL ONION, TOMATOES SALT","COOKED FOR 17 MINUTES","SHARED 2 SAURCER A"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",3,2,"HOME","SODA/COCA","BOUGHT","BOUGHT","350MLS"
-2,,"Supper",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","SUGAR, TEA LEAVES","COOKED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","SHARED PLATE H"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","CABBAGE","CABBAGE, OIL ONION, TOMATOES","COOKED FOR 20 MINUTES","SHARED 2 PLATE A"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, OIL ONION, TOMATOES SALT","COOKED FOR 17 MINUTES","SHARED 2 SAURCER A"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,2,"HOME","SODA/COCA","BOUGHT","BOUGHT","350MLS"
+,,"Supper",1,"1/0/1900",3,2,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

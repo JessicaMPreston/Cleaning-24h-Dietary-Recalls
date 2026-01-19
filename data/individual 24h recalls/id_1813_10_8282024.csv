@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","WATER SUGAR, MAJANI YA CHAI,","BOILED FOR 15 MINUTES","CUP C- ONE CUP"
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","MAKANDE","MAJI, CHUMVI, MAHINDI, COOKING OIL, MAHARAGE, ONION","COOKED FOR 2 HOUR","PLATE -B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","WATER, MAIZE FLOUR(DONA)","COOKED FOR 45 MINUTES","FISH B-TWO FISHES"
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","SAMAKI WA KUKAANGA","WATER,SALT, TOMATOES, ONION, COOKING  OIL","COOKED FOR 25 MINUTES","FISH B-TWO FISHES"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",2,4,"HOME","WALI","WATER, SALT, COOKING OIL","COOKED FOR 1 HOUR","PLATE -C"
 ,,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","WATER, SALT,COOKING OIL","COOKED FOR 11/2 HOUR","SAURCER -C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","MAIZE FLOUR WATER SUGAR","BOILED FOR 1 HOUR.","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","EMBE","EMBE","EMBE","2 EMBE"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 1 HOUR","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, ONION TOMATOES, SALT COOKING OIL","COOKED FOR 30 MIN","1 SAURCER A"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,3,"HOME","WALI","RICE, WATER COCONUT OIL","COOKED FOR 1 HOUR","1 PLATE B"
 ,,"Supper",1,"1/0/1900",4,3,"HOME","SAMAKI","FISH, ONION TOMATO, SALT COOKING OIL.","COOKED FOR 40 MIN.","3 FISH C."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

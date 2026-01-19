@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","MILLET FLOUR WATER GROND NUTS","BOILING FOR 1:30 HOURS","1 CUP B"
-2,,"Morning snack",2,"",,,"",,,,
-1,5,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","SHARED PLATE F"
-1,5,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","FISH, COCONUT MILK, ONION, TOMATO, OKRA","FRIED THEN COOKED FOR 1 HOUR","1/2 FISH B"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,5,"Supper",1,"1/0/1900",4,3,"HOME","SODA SPRITE","BOUGHT","BOUGHT","1 SODA"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","MILLET FLOUR WATER GROND NUTS","BOILING FOR 1:30 HOURS","1 CUP B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 1 HOUR","SHARED PLATE F"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","FISH, COCONUT MILK, ONION, TOMATO, OKRA","FRIED THEN COOKED FOR 1 HOUR","1/2 FISH B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","SODA SPRITE","BOUGHT","BOUGHT","1 SODA"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

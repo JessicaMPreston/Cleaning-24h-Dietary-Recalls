@@ -1,13 +1,13 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOSPITAL","TEA",,"BOUGHT","CUP - C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOSPITAL","MANDAZI",,"BOUGHT","TWO ANDAZI C"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",2,4,"HOSPITAL","UGALI","WATER, MAIZE FLOUR","COOKED 45-MINUTES","PLATE - A"
-1,2,"Lunch",1,"1/0/1900",2,4,"HOSPITAL","SAMAKI","WATER, ONIONS, SALT TOMATOES, COOKING OIL","30-MINUTES COOKED","FISH - C"
-1,2,"Lunch",1,"1/0/1900",2,4,"HOSPITAL","MCHICHA","SALT. ONIONS, COOKING OIL","FRIED 10 MINUTES","SAURCER - D"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED 45 MINUTES","PLATE - B"
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","SAMAKI","WATER, SALT, COOKING OIL, ONIONS, TOMATOES","COOKED 30 MINUTES","FISH - C"
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","MCHUNGA","COOKING OIL, SALT, ONIONS","COOKED 30 MINUTES","SAURCER - D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOSPITAL","TEA",,"BOUGHT","CUP - C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOSPITAL","MANDAZI",,"BOUGHT","TWO ANDAZI C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOSPITAL","UGALI","WATER, MAIZE FLOUR","COOKED 45-MINUTES","PLATE - A"
+,,"Lunch",1,"1/0/1900",2,4,"HOSPITAL","SAMAKI","WATER, ONIONS, SALT TOMATOES, COOKING OIL","30-MINUTES COOKED","FISH - C"
+,,"Lunch",1,"1/0/1900",2,4,"HOSPITAL","MCHICHA","SALT. ONIONS, COOKING OIL","FRIED 10 MINUTES","SAURCER - D"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED 45 MINUTES","PLATE - B"
+,,"Supper",1,"1/0/1900",2,4,"HOME","SAMAKI","WATER, SALT, COOKING OIL, ONIONS, TOMATOES","COOKED 30 MINUTES","FISH - C"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MCHUNGA","COOKING OIL, SALT, ONIONS","COOKED 30 MINUTES","SAURCER - D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 10 MIN","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","ANDAZI","BOUGHT","BOUGHT","2 ANDAZI A"
-,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D"
-1,4,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION, NYANYA. SALT","COOKED FOR 15 MIN","2 SAMAKI A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, ONION, NYANYA. SALT","COOKED FOR 15 MIN","2 SAMAKI A"
 ,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","EMBE","BOUGHT","BOUGHT","1 EMBE A"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOOR, WATER","COOKED FOR 20 MIN","1 PLATE B SHARED"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","MCHICHA","MCHICHA, ONION SALT","COOKED FOR 10 MIN","1 SAURCER B SHARED"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

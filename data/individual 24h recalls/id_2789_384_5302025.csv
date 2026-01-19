@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES SUGAR.","BOILED FOR 5 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",3,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE F."
-1,3,"Lunch",1,"1/0/1900",3,4,"HOME","NYAMA","NYAMA, TOMATOE, ONION, COOKING OILSALT","COOKED FOR 1 HOUR","SHARED 1 SAURCER B"
-1,3,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SALT FISH","FRIED FOR 10 MINUTES","SHARED 3 FISH A"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",1,"1/0/1900",2,3,"HOME","PORRIDGE","RICE, SUGAR, WATER","BOILED FOR 30 MINUTES","2 CUP C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES SUGAR.","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 40 MINUTES","SHARED 1 PLATE F."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","NYAMA","NYAMA, TOMATOE, ONION, COOKING OILSALT","COOKED FOR 1 HOUR","SHARED 1 SAURCER B"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SALT FISH","FRIED FOR 10 MINUTES","SHARED 3 FISH A"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,3,"HOME","PORRIDGE","RICE, SUGAR, WATER","BOILED FOR 30 MINUTES","2 CUP C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

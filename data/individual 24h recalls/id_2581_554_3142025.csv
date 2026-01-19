@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,5,"HOME","UJI","UNGA WA SEMBE CHUMVI MAJI","COOKED BY HER DAUGHTER","ONE CUP B"
 ,,"Breakfast",1,"1/0/1900",5,5,"HOME","MIHOGO","BOUGHT","BOUGHT","TWO CASSAVA B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, TEN MINUTES","PLATE D"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","MLENDA","BAMIA, CHUMVI, MAJI, NGOGWE","BOILING, TWENTY MINUTES","SAME AS SAURCER D OF MAJANI YA MABOGA"
-,,"Snack afternoon",2,"",,,"",,,,
-,,"Supper",2,"",,,"",,,,
-,,"Snack evening",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",2,,,,,,,,
+,,"Snack evening",2,,,,,,,,
 ,,"Night snack",1,"1/0/1900",3,3,"HOME","MUWA","MUWA","EATEN RAW","PLATE C"

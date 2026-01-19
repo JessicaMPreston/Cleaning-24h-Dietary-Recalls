@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","ANDAZI","BOUGHT","BOUGHT","5 ANDAZI B"
-2,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 23 MINUTES","1 PLATE E SHARED"
-1,4,"Lunch",1,"1/0/1900",3,3,"HOME","NYAMA","MEAT, OIL, SALT, ONION, TOMATOES","COOKED FOR 49 MINUTES","1 SAURCER B SHARED"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",2,"",,,"",,,,
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","ANDAZI","BOUGHT","BOUGHT","5 ANDAZI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 23 MINUTES","1 PLATE E SHARED"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","NYAMA","MEAT, OIL, SALT, ONION, TOMATOES","COOKED FOR 49 MINUTES","1 SAURCER B SHARED"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",2,,,,,,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

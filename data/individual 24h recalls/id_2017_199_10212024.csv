@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","TANGAWIZI, SUKARI,","BOILED FOR TWENTY MINUTES,","CUP C, ONE CUP"
 ,,"Breakfast",1,"1/0/1900",4,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI C, TWO MAANDAZI"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","CHAI","TANGAWIZI, SUKARI","BOILED FOR TWENTY MINUTES","CUP C-ONE CUP"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI C, TWO MAANDAZI"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,3,"HOME","CHAI","TANGAWIZI, SUKARI, WATER","BOILEED FOR TWNTY MINUTES","CUP C- ONE CUP"
 ,,"Supper",1,"1/0/1900",4,3,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI-C, TWO MAANDAZI"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

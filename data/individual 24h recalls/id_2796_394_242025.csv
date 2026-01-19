@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA.","SUGAR, TEA LEAVES","BOILED FOR 10 MIN","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","CASSAVA","FRIED CASSAVA","FRIED FOR 10 MIN.","2 CASSAVA B"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE B SHARED"
-1,2,"Lunch",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, COOKING OIL ONION, NYANYA SALT","COOKED FOR 20 MIN.","1 PLATE C SHARED"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",2,2,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE B SHARED"
-1,2,"Supper",1,"1/0/1900",2,2,"HOME","DAGAA","DAGAA, NYANYA, ONION, CARROT, SALT","COOKED FOR 20 MIN.","1 PLATE C SHARED."
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA.","SUGAR, TEA LEAVES","BOILED FOR 10 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","CASSAVA","FRIED CASSAVA","FRIED FOR 10 MIN.","2 CASSAVA B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE B SHARED"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, COOKING OIL ONION, NYANYA SALT","COOKED FOR 20 MIN.","1 PLATE C SHARED"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,2,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE B SHARED"
+,,"Supper",1,"1/0/1900",2,2,"HOME","DAGAA","DAGAA, NYANYA, ONION, CARROT, SALT","COOKED FOR 20 MIN.","1 PLATE C SHARED."
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

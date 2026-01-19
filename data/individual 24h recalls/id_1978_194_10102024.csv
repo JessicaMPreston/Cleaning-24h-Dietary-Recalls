@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, SUGAR,","BOILED FOR 20MIN,","1 CUP B,"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","CASSAVA","CASSAVA, SALT, WATER","BOILED FOR 30MIN","1 PLATE B"
-,,"Morning snack",2,"",,,"",,,,
-,,"Lunch",2,"",,,"",,,,
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","WALI","RICE, WATER, COOKING OIL, SALT","BOILED FOR 1HOUR","1 PLATE B"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","BEANS","BEANS, ONION, SALT, TOMATOES, HOHO, CORROTS, COOKING OIL","BOILED FOR 2HOUR","1 SAURCER C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

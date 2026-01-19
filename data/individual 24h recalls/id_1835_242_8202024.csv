@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, MAJI MAJANI","BOILING, EIGHT MINUTES","ONE CUP C"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","THREE ANDAZI A"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA SEMBE, MAJI.","BOILING, TEN MINUTES","PLATE F"
-1,2,"Lunch",1,"1/0/1900",5,5,"HOME","MCHUNGA","MCHUNGA, NAZI, MAJI, CHUMVI","BOILING, FOURTY MINUTES","SAURCER B"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",4,5,"HOME","JUICE","BOUGHT","BOUGHT","200MLS U-FRESH"
-1,2,"Supper",1,"1/0/1900",4,5,"HOME","VITUMBUA","BOUGHT","BOUGHT","VITUMBUA B-THREE PIECES"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, MAJI MAJANI","BOILING, EIGHT MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","THREE ANDAZI A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA SEMBE, MAJI.","BOILING, TEN MINUTES","PLATE F"
+,,"Lunch",1,"1/0/1900",5,5,"HOME","MCHUNGA","MCHUNGA, NAZI, MAJI, CHUMVI","BOILING, FOURTY MINUTES","SAURCER B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","JUICE","BOUGHT","BOUGHT","200MLS U-FRESH"
+,,"Supper",1,"1/0/1900",4,5,"HOME","VITUMBUA","BOUGHT","BOUGHT","VITUMBUA B-THREE PIECES"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

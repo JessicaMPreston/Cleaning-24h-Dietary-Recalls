@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES, SUGAR, GINGER","BOILED FOR 10 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,2,"HOME","ANDAZI","BOUGHT","BOUGHT","4 ANDAZI A"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOOR, WATER","COOKED 20 MINUTES","1 PLATE C SHARED"
-1,3,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, OIL ONION, TOMATOES SALT","COOKED FOR 17 MINUTES","2 SAMAKI B SHARED."
-1,3,"Lunch",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, SALT COOKING OIL, GINGER, ONION","COOKED FOR 42 MINUTES","1 SAURCER A"
-2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","MANGO","BOUGHT","BOUGHT","2 EMBE B"
-1,3,"Supper",1,"1/0/1900",4,5,"HOME","RICE","RICE, OIL, SALT","COOKED FOR 20 MINUTES","1 PLATE A SHARED"
-1,3,"Supper",1,"1/0/1900",4,5,"HOME","BEANS","BEANS, OIL, SALT ONION, GINGER","COOKED FOR 40 MINUTES","1 SAURCER A SHARED"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES, SUGAR, GINGER","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","ANDAZI","BOUGHT","BOUGHT","4 ANDAZI A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOOR, WATER","COOKED 20 MINUTES","1 PLATE C SHARED"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, OIL ONION, TOMATOES SALT","COOKED FOR 17 MINUTES","2 SAMAKI B SHARED."
+,,"Lunch",1,"1/0/1900",3,3,"HOME","MAHARAGE","MAHARAGE, SALT COOKING OIL, GINGER, ONION","COOKED FOR 42 MINUTES","1 SAURCER A"
+,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","MANGO","BOUGHT","BOUGHT","2 EMBE B"
+,,"Supper",1,"1/0/1900",4,5,"HOME","RICE","RICE, OIL, SALT","COOKED FOR 20 MINUTES","1 PLATE A SHARED"
+,,"Supper",1,"1/0/1900",4,5,"HOME","BEANS","BEANS, OIL, SALT ONION, GINGER","COOKED FOR 40 MINUTES","1 SAURCER A SHARED"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

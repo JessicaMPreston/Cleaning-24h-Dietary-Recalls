@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, IRIKI, MDALASINI,","BOILED FOR 10 MINUTES","CUP C- 1 1/2"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","MKATE","BOUGHT",,"TWO MIKATE BREAD A"
-2,,"Morning snack",1,"1/0/1900",1,2,"HOME","SUGAR CANE","BOUGHT",,"PLATE -C"
-1,4,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR SEMBE, MAJI","COOKED FOR 40 MINUTES","PLATE E ONE"
-1,4,"Lunch",1,"1/0/1900",4,4,"HOME","FRIED FISH","COOKING OIL, ONION, NYANYA, SALT, MAJI","COOKED FOR 20 MINUTES","FISH FISH A AND SAURCER -D"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","SUKARI, IRIKI, MDALASINI","COOKED FOR TEN MINUTES","CUP C-ONE CUP"
-2,,"Supper",1,"1/0/1900",4,4,"HOME","MKATE","BOUGHT",,"BREAD A  THREE MIKATE"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, IRIKI, MDALASINI,","BOILED FOR 10 MINUTES","CUP C- 1 1/2"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","MKATE","BOUGHT",,"TWO MIKATE BREAD A"
+,,"Morning snack",1,"1/0/1900",1,2,"HOME","SUGAR CANE","BOUGHT",,"PLATE -C"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR SEMBE, MAJI","COOKED FOR 40 MINUTES","PLATE E ONE"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","FRIED FISH","COOKING OIL, ONION, NYANYA, SALT, MAJI","COOKED FOR 20 MINUTES","FISH FISH A AND SAURCER -D"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","CHAI","SUKARI, IRIKI, MDALASINI","COOKED FOR TEN MINUTES","CUP C-ONE CUP"
+,,"Supper",1,"1/0/1900",4,4,"HOME","MKATE","BOUGHT",,"BREAD A  THREE MIKATE"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

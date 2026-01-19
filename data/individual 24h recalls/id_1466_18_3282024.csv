@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","TEA","WATER, SUGAR, MCHAICHAI.","BOILED FOR 15MINS,","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","VITUMBUA","RICE, WHEAT FLOUR, COOKING OIL AND SUGAR","FRIED FOR 5MINS","6 VITUMBUA A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","BOILED FOR 25 MINUTES.","UGALI PLATE B,"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","FISH, SALT & ONION","BOILED FOR 30 MINUTES","7 FISH PLATE B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,5,"HOME","CHIPS MAYAI (CHIPS WITH EGGS)","POTATOES, COOKING OIL & EGGS","FRIED FOR 5 MINUTES","CHIPS MAYAI PLATE - A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

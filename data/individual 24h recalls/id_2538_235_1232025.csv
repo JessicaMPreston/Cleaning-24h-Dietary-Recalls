@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","SUKARI, MAJI, MCHAICHAI","BOILED FOR 10 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","MAANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","1 PLATE C."
 ,,"Lunch",1,"1/0/1900",3,5,"HOME","UONO","UONO, NYANYA, MAFUTA, KITUNGUU, CHUMVI","COOKED FOR 45 MINUTES","1 SAURCER B OF DAGAA COMPARED."
-,,"Snack afternoon",2,"",,,"",,,,
-1,4,"Supper",1,"1/0/1900",2,4,"HOME","MAKANDE","MAKANDE, MAFUTA KITUNGUU, CHUMVI","COOKED FOR 2 HRS","SHARED MAKANDE PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","MAKANDE","MAKANDE, MAFUTA KITUNGUU, CHUMVI","COOKED FOR 2 HRS","SHARED MAKANDE PLATE A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

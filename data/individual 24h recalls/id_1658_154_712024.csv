@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","TEALEAVES AND WATER, SUGAR.","BOILED FOR 10 MINUTES.","1 CUP - B"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","VITUMBUA","BOUGHT","BOUGHT","3 VITUMBUA - A"
-,,"Morning snack",2,"",,,"",,,,
-,,"Lunch",2,"",,,"",,,,
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR AND WATER","COOKED FOR 20 MINUTES","UGALI PLATE D"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","DAGAA","DAGAA, COKING OIL, SALT, ONION, TOMATOES","COOKED FOR 30 MINUTES.","DAGAA SAURCER B."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,0,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
-2,0,"Breakfast",1,"1/0/1900",2,2,"HOME","CASSAVA","BOUGHT","BOUGHT","5 CASSAVA B"
-2,0,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES","SHARED 1 PLATE B"
-1,1,"Lunch",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA, KITUNGU COCONUT JUICE SALT","COOKED FOR 20 MINUTES","1 SAURCER B"
-1,1,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, TOMATOE ONION, SALT COOKING OIL","COOKED FOR 30 MINUTES","4 FISH B"
-2,0,"Snack afternoon",2,"",,,"",,,,
-2,0,"Supper",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES MDALASINI, SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
-2,0,"Supper",1,"1/0/1900",3,4,"HOME","BREAD","BOUGHT","BOUGHT","4 BREAD A."
-2,0,"Snack evening",2,"",,,"",,,,
-2,0,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","TEA","TEA LEAVES SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,2,"HOME","CASSAVA","BOUGHT","BOUGHT","5 CASSAVA B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MINUTES","SHARED 1 PLATE B"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA, KITUNGU COCONUT JUICE SALT","COOKED FOR 20 MINUTES","1 SAURCER B"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, TOMATOE ONION, SALT COOKING OIL","COOKED FOR 30 MINUTES","4 FISH B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES MDALASINI, SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Supper",1,"1/0/1900",3,4,"HOME","BREAD","BOUGHT","BOUGHT","4 BREAD A."
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

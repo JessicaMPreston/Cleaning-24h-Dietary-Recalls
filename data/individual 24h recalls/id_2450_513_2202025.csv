@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","UNGA SEMBE, MAJI","BOILED FOR 20 MINUTES","ONE CUP C"
-2,,"Morning snack",2,"",,,"",,,,
-1,5,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR ONE HOUR.","SHARED UGALI PLATE E."
-1,5,"Lunch",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, NYANYA KITUNGUU, MAFUTA CHUMVI","COOKED FOR 45 MINUTES","TWO FISH D."
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",2,4,"HOME","CHIPSI KAVU","BOUGHT","BOUGHT","CHIPS PLATE B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","UNGA SEMBE, MAJI","BOILED FOR 20 MINUTES","ONE CUP C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR ONE HOUR.","SHARED UGALI PLATE E."
+,,"Lunch",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, NYANYA KITUNGUU, MAFUTA CHUMVI","COOKED FOR 45 MINUTES","TWO FISH D."
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","CHIPSI KAVU","BOUGHT","BOUGHT","CHIPS PLATE B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",5,4,"HOME","PORRIAGE","UNGA WA DONA, SALT, COOKING OIL","BOILED FOR TWENTY MINUTES","ONE CUP B PORRIAGE"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","WATER UNGA WA DONA","COOKED FOR THRTY FIVE MINUTES.","UGALI SHARED PLATE H."
-1,3,"Lunch",1,"1/0/1900",5,4,"HOME","BEANS","BEANS, COCONUT, WATER ONION, SALT, WATER","COOKED FOR TWO HOURS","BEANS SAURCER A"
-1,3,"Lunch",1,"1/0/1900",5,4,"HOME","MCHICHA","MCHICHA, SALT","BOILED FOR FIVE MINUTES","MCHICHA SAURCER C"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",1,"1/0/1900",4,3,"HOME","MAKANDE","MAHINDI, BEANS, COCONUT, WATER","COOKED FOR THREE HOURS","MAKANDE TWO PLATE A"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","PORRIAGE","UNGA WA DONA, SALT, COOKING OIL","BOILED FOR TWENTY MINUTES","ONE CUP B PORRIAGE"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","WATER UNGA WA DONA","COOKED FOR THRTY FIVE MINUTES.","UGALI SHARED PLATE H."
+,,"Lunch",1,"1/0/1900",5,4,"HOME","BEANS","BEANS, COCONUT, WATER ONION, SALT, WATER","COOKED FOR TWO HOURS","BEANS SAURCER A"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","MCHICHA","MCHICHA, SALT","BOILED FOR FIVE MINUTES","MCHICHA SAURCER C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,3,"HOME","MAKANDE","MAHINDI, BEANS, COCONUT, WATER","COOKED FOR THREE HOURS","MAKANDE TWO PLATE A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

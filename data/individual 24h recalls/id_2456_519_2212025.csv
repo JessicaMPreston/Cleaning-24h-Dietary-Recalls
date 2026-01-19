@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,2,"HOME","UJI","UNGA, SUGAR","COOKED FOR 20 MINUTES","1 CUP B"
-,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","UNGA, WATER","COOKED FOR 20 MINUTES","1 PLATE B SHARED"
-1,3,"Lunch",1,"1/0/1900",2,4,"HOME","DAGAA","DAGAA, OIL ONION SALT, NYANYA","COOKED FOR 15 MINUTES","1 SAURCER B SHARED"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","UNGA, WATER","COOKED FOR 20 MINUTES","1 PLATE B SHARED"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","DAGAA","DAGAA, OIL ONION SALT, NYANYA","COOKED FOR 15 MINUTES","1 SAURCER B SHARED"
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","CASSAVA","CASSAVA, WATER","BOILED FOR 10 MINUTES","1 PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

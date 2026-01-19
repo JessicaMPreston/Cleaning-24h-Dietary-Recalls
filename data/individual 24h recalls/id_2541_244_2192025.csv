@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","MILK","MILK","BOILED FOR 12 MINUTES","1 CUP C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 35 MIN.","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, ONION TOMATOE, SALT COOKING OIL","COOKED FOR 1 HOUR.","1 SAURCER A."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 35 MIN","1 PLATE B"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, ONION TOMATOE, COOKING OIL, SALT","COOKED FOR 1 HOUR","1 SAURCER A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

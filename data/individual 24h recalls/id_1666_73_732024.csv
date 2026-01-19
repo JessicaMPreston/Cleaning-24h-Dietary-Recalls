@@ -1,7 +1,7 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TEALEAVES, GINGER, SUGAR,","BOILED FOR 15 MIN,","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","1 BREAD A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN,","1 PLATE D UGALI"
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","SAMAKI","SAMAKI, ONION, TOMATOE, COOKING OIL, SALT.","COOKED FOR 20 MIN","2 FISH B IN STEW SAURCER D"
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","SPINACHI","SPINACHI, ONION, TOMATOE, SALT.","COOKED FOR 15 MIN","SPINACHI COMPARED TO 1 MCHUNGA SAURCER B"
@@ -9,5 +9,5 @@
 ,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 20 MIN","1 PLATE D-UGALI"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","EGG","AN EGG, COOKING OIL, SALT.","FRIED FOR 3 MIN,","1 FRIED EGG"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","SPINACHI","SPINACHI, ONION, TOMATOE, SALT.","COOKED FOR 15 MIN","SPINACHI COMPARED TO 1 MCHUNGA B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

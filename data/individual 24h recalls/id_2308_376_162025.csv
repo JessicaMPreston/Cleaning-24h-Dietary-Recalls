@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","WALI","MCHELE, MAFUTA CHUMVI MAJI","BOILING, PREPARED FOR THIRTY MINUTES","PLATE"
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","MAHARAGE","MAHARAGE MAFUTA KITUNGUU MAJI, KITUNGUU SWAUMU, CHUMVI MAJI","BOILING, TWO HOURS","SAURCER C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",1,5,"HOME","CHAPATI","BOUGHT","BOUGHT","ONE CHAPATI B"
 ,,"Lunch",1,"1/0/1900",1,5,"HOME","CHAI","MAJI MDALASINI, SUKARI","BOILING TEN MINUTES","MLS 300"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",5,5,"HOME","CHAPATI","BOUGHT","BOUGHT","ONE CHAPATI B"
 ,,"Snack evening",1,"1/0/1900",5,5,"HOME","MAEMBE","MAEMBE","EATEN RAW","EMBE A"
-,,"Night snack",2,"",,,"",,,,
+,,"Night snack",2,,,,,,,,

@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TEA LEAVES, MDALASINI, ILIKI, SUGAR,","BOILED FOR 5 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI C"
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","MAIZE FLOUR,","COOKED FOR 20 MIN,","SHARED 1 PLATE C - UGALI."
-1,1,"Lunch",1,"1/0/1900",1,4,"HOME","NYAMA","NYAMA, GINGER GARLIC, SALT,","FRIED FOR 5MIN,","1 SAURCER C-BEEF SHARED"
-1,1,"Lunch",1,"1/0/1900",1,4,"HOME","MAHARAGE","MAHARAGE, NAZI, ONION, SALT","COOKED FOR 45 MIN","1 SAURCER B"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",2,4,"HOME","CHIPSI MAYAI","BOUGHT","BOUGHT","1 PLATE A"
-2,,"Supper",1,"1/0/1900",2,4,"HOME","KUKU","BOUGHT","BOUGHT","1 CHICKEN A"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TEA LEAVES, MDALASINI, ILIKI, SUGAR,","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",1,4,"HOME","UGALI","MAIZE FLOUR,","COOKED FOR 20 MIN,","SHARED 1 PLATE C - UGALI."
+,,"Lunch",1,"1/0/1900",1,4,"HOME","NYAMA","NYAMA, GINGER GARLIC, SALT,","FRIED FOR 5MIN,","1 SAURCER C-BEEF SHARED"
+,,"Lunch",1,"1/0/1900",1,4,"HOME","MAHARAGE","MAHARAGE, NAZI, ONION, SALT","COOKED FOR 45 MIN","1 SAURCER B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","CHIPSI MAYAI","BOUGHT","BOUGHT","1 PLATE A"
+,,"Supper",1,"1/0/1900",2,4,"HOME","KUKU","BOUGHT","BOUGHT","1 CHICKEN A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

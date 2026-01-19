@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",1,3,"HOME","CHAI","MAJI, MDALASINI IRIKI, KARAFUU SUKARI","BOILED FOR 15 MIN","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",1,3,"HOME","VITUMBUA","ALINUNUA","ALINUNUA","3 VITUMBUA"
-,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","UNGA WA MAHINDI DONA, MAJI","BOILED FOR 15 MIN","1 PLATE D"
-2,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, NAZI KITUNGUU MAJI, HOHO, CAROTI, NYANYA, CHUMVI","COOKED FOR 30 MIN.","1 PLATE A"
-,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","NDIZI ALICHANGANYA NA NYAMA","NDIZI, NYAMA, KITUNGUU, HOHO, CAROTI, CHUMVI","COOKED FOR 1 HR","SHARED 1 PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","CHAI","MAJI, MDALASINI IRIKI, KARAFUU SUKARI","BOILED FOR 15 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",1,3,"HOME","VITUMBUA","ALINUNUA","ALINUNUA","3 VITUMBUA"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","UNGA WA MAHINDI DONA, MAJI","BOILED FOR 15 MIN","1 PLATE D"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","SAMAKI, NAZI KITUNGUU MAJI, HOHO, CAROTI, NYANYA, CHUMVI","COOKED FOR 30 MIN.","1 PLATE A"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","NDIZI ALICHANGANYA NA NYAMA","NDIZI, NYAMA, KITUNGUU, HOHO, CAROTI, CHUMVI","COOKED FOR 1 HR","SHARED 1 PLATE A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

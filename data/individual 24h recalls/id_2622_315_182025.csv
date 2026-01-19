@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, SUGAR, TEA LEAVES","BOILED FOR 10 MIN","1  CUP C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","1 ANDAZI B"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30MIN","SHARED 1 PLATE C"
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, SALT, COOKING OIL","FRIED FOR 10MIN","2 FISH B NOT SHARED"
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","MLENDA","BAMIA, MAJANI YA MABOGA, SALT","COKED FOR 15 MIN","1 SAURCER B BAMIA"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 40 MIN","SHARED 1 PLATE A"
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE, NAZI, ONION, COCONUT JUICE, SALT","COOKED FOR 1 HOUR","SHARED 1 SAURCER B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, SUGAR, TEA LEAVES","BOILED FOR 10 MIN","1  CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","1 ANDAZI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30MIN","SHARED 1 PLATE C"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, SALT, COOKING OIL","FRIED FOR 10MIN","2 FISH B NOT SHARED"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MLENDA","BAMIA, MAJANI YA MABOGA, SALT","COKED FOR 15 MIN","1 SAURCER B BAMIA"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","RICE","RICE, COOKING OIL, SALT","COOKED FOR 40 MIN","SHARED 1 PLATE A"
+,,"Supper",1,"1/0/1900",2,4,"HOME","MAHARAGE","MAHARAGE, NAZI, ONION, COCONUT JUICE, SALT","COOKED FOR 1 HOUR","SHARED 1 SAURCER B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

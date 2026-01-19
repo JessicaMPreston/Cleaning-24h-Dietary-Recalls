@@ -1,13 +1,13 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","MDALASINI, SUGAR","BOILED FOR 10 MIN.","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI","NDIZI, SALT","BOILED FOR 30 MIN.","1 PLATE D"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN.","1 PLATE D, ,"
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","SAMAKI.","SAMAKI","SAMAKI, TOMATOE ONION, SALT.","1 FISH IN STEW SAURCER B"
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","TEMBERE","TEMBERE","TEMBERE, ONION TOMATOE, SALT.","MATEMBERE 1 SAURCER D"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",2,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 2O MIN","1 PLATE D"
 ,,"Supper",1,"1/0/1900",2,3,"HOME","TEMBERE","TEMBERE, ONION, TOMATOE, SALT","COOKED FOR 15 MIN","MATEMBERE 1 SAURCER D"
 ,,"Supper",1,"1/0/1900",2,3,"HOME","SAMAKI","SAMAKI, ONION TOMATOE, SALT","COOKED FOR 20 MIN.","1 FISH A IN STEW SAURCER B."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

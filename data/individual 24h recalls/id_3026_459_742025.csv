@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","MDALASINI, ILIKI WATER, SUGAR","BOILED FOR 20 MIN","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","CASSAVA","CASSAVA WATER, SALT.","BOILED FOR 1 HOUR.","1 PLATE C."
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"UGALI","SAMAKI","MAIZE FLOUR WATER.","COOKED FOR 30MIN.","1 PLATE C"
 ,,"Lunch",1,"1/0/1900",3,4,"UGALI",,"FISH, COCONUT OIL, SALT, ONION, CAROTTS.","COOKED FOR 40 MIN","2 FISH B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","TEA","MDALASINI SUGAR ILIKI, WATER","BOILED FOR 20 MIN","1 CUP B"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","WALI","RICE, NAZI, SALT, WATER ONION, CAROT'S","BOILED FOR 1 HOUR.","1 PLATE C."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

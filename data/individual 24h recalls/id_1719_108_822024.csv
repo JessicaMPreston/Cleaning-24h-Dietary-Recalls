@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","PORRIDGE","MAIZE FLOUR (DONA), COOKING OIL, SUGAR, WATER.","COOKED FOR 30 MINUTES.","CUP C-TWO CUPS,"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI MBIVU",,,"TWO PIECES"
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","WATER, MAIZE FLOUR(DONA)","COOKED FOR 40 MINUTES","PLATE-H"
-1,1,"Lunch",1,"1/0/1900",2,4,"HOME","MBAHAZI","COOKING OIL, ONION, TOMATOES-SALT WATER","COOKED FOR ONE HOUR","AS SAURCER D-BEANS"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,1,"Supper",1,"1/0/1900",1,4,"HOME","UGALI","WATER, MAIZE FLOUR (DONA)","COOKED FOR 40 MINUTES","PLATE - H"
-1,1,"Supper",1,"1/0/1900",1,4,"HOME","MBAHAZI","WATER, SALT, ONION, COOKING OIL, TOMATOES","COOKED FOR ONE HOUR","SAURCER D - BEANS."
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",1,"1/0/1900",4,5,"HOME","FLESH, COW MILK",,,"CUP C-TWO CUPS"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","PORRIDGE","MAIZE FLOUR (DONA), COOKING OIL, SUGAR, WATER.","COOKED FOR 30 MINUTES.","CUP C-TWO CUPS,"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","NDIZI MBIVU",,,"TWO PIECES"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","WATER, MAIZE FLOUR(DONA)","COOKED FOR 40 MINUTES","PLATE-H"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","MBAHAZI","COOKING OIL, ONION, TOMATOES-SALT WATER","COOKED FOR ONE HOUR","AS SAURCER D-BEANS"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",1,4,"HOME","UGALI","WATER, MAIZE FLOUR (DONA)","COOKED FOR 40 MINUTES","PLATE - H"
+,,"Supper",1,"1/0/1900",1,4,"HOME","MBAHAZI","WATER, SALT, ONION, COOKING OIL, TOMATOES","COOKED FOR ONE HOUR","SAURCER D - BEANS."
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",1,"1/0/1900",4,5,"HOME","FLESH, COW MILK",,,"CUP C-TWO CUPS"

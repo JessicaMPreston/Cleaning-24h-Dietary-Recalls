@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","MILK","COW MILK,","BOILING FOR 20 MINUTES","CUP C"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAPATI","WHEAT FLOUR, COOKING OIL,SALT","BOUGHT","CHAPATI B (2 PIECES)"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR","COOKING FOR 45 MINUTES","UGALI PLATE B"
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","SAMAKI","FISH, COOKING LEMON OIL SALT COCONUT MILK","COOKING FOR 30 MINUTES","FISH C (2)"
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","MCHUNGA","MCHUNGA","COOKING FOR 1 HOUR","MCHUNGA SAURCER C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKING FOR 45 MINUTES","UGALI PLATE D"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","SAMAKI","FISH, COOKING OIL, LEMON, SALT","COOKING FOR 30 MINUTES","FISH C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

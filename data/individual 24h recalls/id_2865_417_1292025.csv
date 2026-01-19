@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","MDALASINI TEA LEAVES, SUGAR","COOKED FOR 10 MIN","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","BREAD","BOUGHT","BOUGHT","2 MKATE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR","COOKED FOR 20 MIN","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, SALT, OIL,ONION, NYANYA","COOKED FOR 20 MIN","1 SAURCER C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, OIL, SALT","COOKED FOR 20 MIN","1 PLATE C"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","TEA","MDALASINI, SUGAR","BOILED FOR 10 MIN","1 CUP C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

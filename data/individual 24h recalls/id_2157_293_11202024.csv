@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","TEA","MCHAICHAI SUGAR, WATER","BOILED FOR 30 MIN.","1 CUP C."
 ,,"Breakfast",1,"1/0/1900",4,4,"HOME","CASSAVA","BOUGHT","BOUGHT","1 PLATE B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,2,"HOME","UGALI,","MAIZE FLOUR, WATER.","COOKED FOR 40 MIN.","1 PLATE D."
 ,,"Lunch",1,"1/0/1900",3,2,"HOME","SAMAKI","FISH, ONION, COCONUT OIL, SALT.","COOKED FOR 30 MIN.","2 FISH A"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","WALI MKAVU","RICE, WATER, COOKING OIL","BOILED FOR 1 HOUR","1 PLATE B"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","EMBE","EMBE BICHI, SALT",,
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, SUGAR","BOILED FOR 15 MINUTES.","1 CUP - C"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","CASSAVA","WATER. BOILED CASSAVA & SALT","BOILED FOR 20 MINUTES","CASSAVA - PLATE C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR, WATER","BOILED FOR 15 MINUTES","UGALI PLATE D"
 ,,"Lunch",1,"1/0/1900",4,5,"HOME","DAGAA","DAGAA - SALT, TOMATO, OIL, ONION","COOKED FOR 20 MINUTES","SAURCER - C"
 ,,"Snack afternoon",1,"1/0/1900",3,3,"HOME","JACK FRUIT",,,"PLATE B"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR & WATER","BOILED FOR 15 MINUTES","UGALI PLATE B"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","FISH","FISH, COOKING OIL, SALT, ONION & TOMATO","COOKED FOR 20 MINUTES","FISH PLATE D."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

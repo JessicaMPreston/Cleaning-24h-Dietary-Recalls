@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME","FRIED CASSAVA","BOUGHT","BOUGHT","CASSAVA D THREE PIECES"
-2,,"Morning snack",1,"1/0/1900",4,2,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI A TWO MAANDAZI"
-1,3,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI,","WATER, MAIZE FLOUR SEMBE.","COOKED FOR 35 MINUTES.","PLATE F - ONE PLATE."
-1,3,"Lunch",1,"1/0/1900",4,5,"HOME","BEEF","WATER, LIMAO, SALT","COOKED FOR 1 HOUR","PLATE B - ONE PLATE"
-2,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE B, TWO MACHUNGWA"
-1,3,"Supper",1,"1/0/1900",2,4,"HOME","NDIZI ZA KUCHOMA","BOUGHT","ALIZICHOMA KWA SAA MOJA - 1 HOUR","TWO NDIZI ZA KUCHOMA"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","FRIED CASSAVA","BOUGHT","BOUGHT","CASSAVA D THREE PIECES"
+,,"Morning snack",1,"1/0/1900",4,2,"HOME","MAANDAZI","BOUGHT","BOUGHT","ANDAZI A TWO MAANDAZI"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI,","WATER, MAIZE FLOUR SEMBE.","COOKED FOR 35 MINUTES.","PLATE F - ONE PLATE."
+,,"Lunch",1,"1/0/1900",4,5,"HOME","BEEF","WATER, LIMAO, SALT","COOKED FOR 1 HOUR","PLATE B - ONE PLATE"
+,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","ORANGE",,,"ORANGE B, TWO MACHUNGWA"
+,,"Supper",1,"1/0/1900",2,4,"HOME","NDIZI ZA KUCHOMA","BOUGHT","ALIZICHOMA KWA SAA MOJA - 1 HOUR","TWO NDIZI ZA KUCHOMA"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

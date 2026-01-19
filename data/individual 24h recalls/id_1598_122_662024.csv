@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","UJI","WATER, SALT, MAIZE FLOUR (SEMBE).","BOILED 20 MINUTES.","CUP C - TWO CUP"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","NDIZI MBIVU","WATER, SALT.","BOILED 20 MINUTES.","PLATE D"
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI","WATER, MAIZE FLOUR (SEMBE)","COOKED 30 MINUTES","PLATE C"
-1,1,"Lunch",1,"1/0/1900",2,5,"HOME","MCHICHA NA DAGAA","COCONUT CREAM, SALT, TOMATOES","COOKED 20 MINUTES","SAURCER - D"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",2,"",,,"",,,,
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","UJI","WATER, SALT, MAIZE FLOUR (SEMBE).","BOILED 20 MINUTES.","CUP C - TWO CUP"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","NDIZI MBIVU","WATER, SALT.","BOILED 20 MINUTES.","PLATE D"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI","WATER, MAIZE FLOUR (SEMBE)","COOKED 30 MINUTES","PLATE C"
+,,"Lunch",1,"1/0/1900",2,5,"HOME","MCHICHA NA DAGAA","COCONUT CREAM, SALT, TOMATOES","COOKED 20 MINUTES","SAURCER - D"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",2,,,,,,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

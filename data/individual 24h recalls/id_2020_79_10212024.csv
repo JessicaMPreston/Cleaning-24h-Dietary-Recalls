@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,1,"Breakfast",1,"1/0/1900",1,4,"HOME","CHAI","MDALASINI, SUGAR","BOILED FOR 10 MINUTES,","CUP C-ONE CUP"
-1,1,"Breakfast",1,"1/0/1900",1,4,"HOME","SKONZI","BOUGHT","BOUGHT","THREE SKONZI PLATE D"
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 30 MINUTES","ONE PLATE, PLATE C"
-1,1,"Lunch",1,"1/0/1900",4,5,"HOME","FRIED FISH","VIAZI MVIRINGO, SALT, PILIPILI HOHO, COOKING OIL, CARROTE, WATER","COOKED FOR 30 MINUTES","FISH-D, TWO FISHES"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,1,"Supper",1,"1/0/1900",2,4,"HOME","WALI","WATER , SALT, COOKING OIL","COOKED FOR 1 HOUR","PLATE C-ONE PLATE"
-1,1,"Supper",1,"1/0/1900",2,4,"HOME","FRIED FISH","COOKING OIL, SALT, VIAZI MVIRINGO, NYANYA, ONION, CARROTE, PILIPILI HOHO","COOKED FOR 30 MINUTES","FISH-D, ONE FISH"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",1,4,"HOME","CHAI","MDALASINI, SUGAR","BOILED FOR 10 MINUTES,","CUP C-ONE CUP"
+,,"Breakfast",1,"1/0/1900",1,4,"HOME","SKONZI","BOUGHT","BOUGHT","THREE SKONZI PLATE D"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 30 MINUTES","ONE PLATE, PLATE C"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","FRIED FISH","VIAZI MVIRINGO, SALT, PILIPILI HOHO, COOKING OIL, CARROTE, WATER","COOKED FOR 30 MINUTES","FISH-D, TWO FISHES"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","WALI","WATER , SALT, COOKING OIL","COOKED FOR 1 HOUR","PLATE C-ONE PLATE"
+,,"Supper",1,"1/0/1900",2,4,"HOME","FRIED FISH","COOKING OIL, SALT, VIAZI MVIRINGO, NYANYA, ONION, CARROTE, PILIPILI HOHO","COOKED FOR 30 MINUTES","FISH-D, ONE FISH"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","UJI","WATER COW MILK, SALT, MAIZE, FLOUR SEMBE,","COOKED FOR 45 MINUTES","CUP-ONE CUP"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","FRIED FISHES","BOUGHT",,"FISH B-THREE FISHES"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","WATER, MAIZE FLOUR-SEMBE","COOKED FOR 40 MINUTES","PLATE C"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","COOKING OIL, SALT, TOMATOES, ONION, COOKING OIL","COOKED FOR 20 MINUTES","SAURCER C"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","TEMBELE","TOMATOES ONION, SALT","COOKED FOR 20 MINUTES","SAURCER A"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",1,3,"HOME","TEA","WATER, TEA LEAVES","BOILED FOR 10 MINUTES","CUP C ONE CUP"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,4,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","WATER TEA LEAF SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
-1,4,"Breakfast",1,"1/0/1900",4,3,"HOME","MKATE","BOUGHT","BOUGHT","1 BREAD A"
-2,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE E"
-1,4,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","MCHICHA, ONION SALT, TOMATO COOKING OIL","COOKED FOR 20 MINUTES","SAURCER C"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,4,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE E"
-1,4,"Supper",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, ONION SALT, COOKING OIL TOMATO","COOKED FOR 20 MINUTES","SAURCER C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","WATER TEA LEAF SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","MKATE","BOUGHT","BOUGHT","1 BREAD A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE E"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","MCHICHA","MCHICHA, ONION SALT, TOMATO COOKING OIL","COOKED FOR 20 MINUTES","SAURCER C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE E"
+,,"Supper",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, ONION SALT, COOKING OIL TOMATO","COOKED FOR 20 MINUTES","SAURCER C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

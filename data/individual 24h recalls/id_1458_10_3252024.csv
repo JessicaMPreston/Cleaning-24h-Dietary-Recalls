@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","TEA","WATER, SUGAR, TEA LEAVES.","BOILED FOR TEN MINUTES.","TEA ONE CUP C"
 ,,"Breakfast",1,"1/0/1900",5,4,"HOME","CASSAVA","CASSAVA, SALT, WATER","BOILED FOR 30 MINUTES","FIVE PIECE OF CASSAVA - PLATE D"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","UNGA WA SEMBE, WATER","COOKED FOR TWENTY MINUTES","UGAL PLATE D"
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","STEW","TOMATO, ONION, SALT, COOKING OIL","FRIED FOR TEN MINUTES","STEW SAURCER D"
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","FISH","BOUGHT",,"FISH PLATE B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES, WATER","BOILED FOR TEN MINUTES","TEA ONE CUP C"
 ,,"Supper",1,"1/0/1900",3,2,"HOME","CASSAVA","CASSAVA, SALT, WALTER","BOILED FOR 30MINUTES","FOUR PIECE CASSAVA PLATE B."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

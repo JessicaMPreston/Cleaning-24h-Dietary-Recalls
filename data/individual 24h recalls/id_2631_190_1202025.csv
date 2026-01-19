@@ -1,13 +1,13 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",5,4,"HOME","MILK","HONEY","BOILED FOR 10 MIN","1 CUP B OF MILK"
-2,,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAPATI","WHEAT FLOUR, OIL (COOKING)","FRIED FOR 15 MIN","2 CHAPATI B"
-2,,"Morning snack",1,"1/0/1900",1,2,"HOME","MANGOES","BOUGHT",,"2 EMBE C"
-2,,"Morning snack",1,"1/0/1900",1,2,"HOME","RIPED BANANAS","BOUGHT",,"1 PLATE A"
-1,1,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR.","COOKED FOR 15 MIN","1 PLATE C"
-1,1,"Lunch",1,"1/0/1900",5,4,"HOME","SAMAKI","FRIED FISH","COOKED FOR 15 MIN","1 PLATE C"
-1,1,"Lunch",1,"1/0/1900",5,4,"HOME","VEGETABLE","COKING OIL, TOMATOES AND ONION.","COOKED FOR 5 MIN","1 SAURCER D"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",2,4,"HOME","FRIED BANANS","COOKING OIL","FRIED FOR 5 MIN","1 PLATE B"
-2,,"Supper",1,"1/0/1900",2,4,"HOME","TEA","SUGAR","BOILED FOR 10 MIN","1 CUP OF TEA"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","MILK","HONEY","BOILED FOR 10 MIN","1 CUP B OF MILK"
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","CHAPATI","WHEAT FLOUR, OIL (COOKING)","FRIED FOR 15 MIN","2 CHAPATI B"
+,,"Morning snack",1,"1/0/1900",1,2,"HOME","MANGOES","BOUGHT",,"2 EMBE C"
+,,"Morning snack",1,"1/0/1900",1,2,"HOME","RIPED BANANAS","BOUGHT",,"1 PLATE A"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR.","COOKED FOR 15 MIN","1 PLATE C"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","SAMAKI","FRIED FISH","COOKED FOR 15 MIN","1 PLATE C"
+,,"Lunch",1,"1/0/1900",5,4,"HOME","VEGETABLE","COKING OIL, TOMATOES AND ONION.","COOKED FOR 5 MIN","1 SAURCER D"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","FRIED BANANS","COOKING OIL","FRIED FOR 5 MIN","1 PLATE B"
+,,"Supper",1,"1/0/1900",2,4,"HOME","TEA","SUGAR","BOILED FOR 10 MIN","1 CUP OF TEA"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

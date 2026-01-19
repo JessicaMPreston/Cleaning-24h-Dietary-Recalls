@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","MAIZE FLOUR, SUGAR WATER","15 MINUTES","3 CUPS C"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","30 MINUTES,","ONE PLATE C SHARED"
-1,2,"Lunch",1,"1/0/1900",3,4,"HOME","MLENDA","BAMIA, WATER, MBAAZI, SALT","15 MINUTES","1 SAURCER A OF MATEMBELE"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",3,3,"HOME","MAKANDE","MAIZE, BEANS, COCONUT, WATER, SALT","BOILIED FOR 1HOUR & 30 MIN","1 PLATE A"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","MAIZE FLOUR, SUGAR WATER","15 MINUTES","3 CUPS C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","30 MINUTES,","ONE PLATE C SHARED"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MLENDA","BAMIA, WATER, MBAAZI, SALT","15 MINUTES","1 SAURCER A OF MATEMBELE"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","MAKANDE","MAIZE, BEANS, COCONUT, WATER, SALT","BOILIED FOR 1HOUR & 30 MIN","1 PLATE A"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

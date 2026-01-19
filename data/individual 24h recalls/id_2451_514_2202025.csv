@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","UNGA, SEMBE, CHUMVI, MAJI BOUGHT","BOILED FOR 45 MINUTES","ONE CUP C"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","FENESI","NATURAL","BOUGHT","FENESI PLATE A"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","UGALI PLATE D ."
-2,,"Lunch",1,"1/0/1900",3,4,"HOME","KUNDE","KUNDE, BAMIA. CHUMVI","COOKED 1 HOUR","MAHARAGE COMPARED TO KUNDE SAURCER B"
-2,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA, CHUMVI MAJI","COOKED FOF 45 MINUTES.","MCHUNGA SAURCER D."
-2,,"Snack afternoon",2,"",,,"",,,,
-1,5,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","UGALI PLATE F SHARED"
-1,5,"Supper",1,"1/0/1900",4,4,"HOME","KACHUMBARI","NYANYA, KITUNGUU, LIMAO, CHUMVI","PREPARED FOR 10 MINUTES","ONE KACHUMBARI SAURCER C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","UJI","UNGA, SEMBE, CHUMVI, MAJI BOUGHT","BOILED FOR 45 MINUTES","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","FENESI","NATURAL","BOUGHT","FENESI PLATE A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","UGALI PLATE D ."
+,,"Lunch",1,"1/0/1900",3,4,"HOME","KUNDE","KUNDE, BAMIA. CHUMVI","COOKED 1 HOUR","MAHARAGE COMPARED TO KUNDE SAURCER B"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHUNGA","MCHUNGA, CHUMVI MAJI","COOKED FOF 45 MINUTES.","MCHUNGA SAURCER D."
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","UGALI PLATE F SHARED"
+,,"Supper",1,"1/0/1900",4,4,"HOME","KACHUMBARI","NYANYA, KITUNGUU, LIMAO, CHUMVI","PREPARED FOR 10 MINUTES","ONE KACHUMBARI SAURCER C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

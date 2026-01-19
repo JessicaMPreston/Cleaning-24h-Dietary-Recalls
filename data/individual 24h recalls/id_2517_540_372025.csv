@@ -1,8 +1,8 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,3,"HOME","NDIZI","RIPE BANANA","RIPE BANANA","3 PLATE A"
-,,"Morning snack",2,"",,,"",,,,
-,,"Lunch",2,"",,,"",,,,
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","NDIZI","RIPE BANANA","RIPE BANANA","3 PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

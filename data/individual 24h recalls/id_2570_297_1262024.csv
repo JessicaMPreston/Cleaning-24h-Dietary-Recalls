@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","UJI","MAIZE FLOUR COOKING OIL SUGAR.","BOILED FOR 30 MIN.","1 CUP B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MIN.","1 PLATE C"
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","FISH","FISH, ONION COCONUT OIL. SALT.","COOKED FOR 30 MIN.","3 FISH A"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN","1 PLATE B"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","FISH","FISH, SALT, COCONUT OIL ONION.","COOKED FOR 30 MIN","3 FISH A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

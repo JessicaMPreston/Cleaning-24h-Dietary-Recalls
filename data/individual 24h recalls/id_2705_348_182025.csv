@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","CHAI, KARAFUU, PILIPILI MANGA, SUKARI","BOILED FOR 10 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","NDIZI, MAFUTA, KITUNGUU, CHUMVI","BOILED FOR 30 MINUTES","1 PLATE A"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA MUHOGO, MAJI","COOKED FOR 45 MINUTES","UGALI SHARED PLATE B"
-1,3,"Lunch",1,"1/0/1900",3,5,"HOME","DAGAA","DAGAA, NAZI, NYANYA, KITUNGUU, NGOGWE, CHUMVI","COOKED FOR 30 MINUTES","DAGAA SAURCER A SHARED"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","SEMBE, MAJI","COOKED FOR 45 MINUTES","UGALI PLATE D"
-2,,"Supper",1,"1/0/1900",3,4,"HOME","KISAMVU","KISAMVU, TANGAWIZI, CHUMVI, PILIPILI, KITUNGUU SAUMU, KITUNGUU","COOKED FOR 1 HOUR","SAURCER B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","CHAI, KARAFUU, PILIPILI MANGA, SUKARI","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",4,5,"HOME","NDIZI","NDIZI, MAFUTA, KITUNGUU, CHUMVI","BOILED FOR 30 MINUTES","1 PLATE A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA MUHOGO, MAJI","COOKED FOR 45 MINUTES","UGALI SHARED PLATE B"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","DAGAA","DAGAA, NAZI, NYANYA, KITUNGUU, NGOGWE, CHUMVI","COOKED FOR 30 MINUTES","DAGAA SAURCER A SHARED"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","SEMBE, MAJI","COOKED FOR 45 MINUTES","UGALI PLATE D"
+,,"Supper",1,"1/0/1900",3,4,"HOME","KISAMVU","KISAMVU, TANGAWIZI, CHUMVI, PILIPILI, KITUNGUU SAUMU, KITUNGUU","COOKED FOR 1 HOUR","SAURCER B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

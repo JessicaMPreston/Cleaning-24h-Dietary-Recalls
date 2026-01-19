@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,2,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TANGAWIZI, SUGAR.","BOILED FOR 10 MIN","ONE CUP B"
-1,2,"Breakfast",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","FIVE BREAD B"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",3,5,"HOME","RICE,","RICE, COOKING OIL, SALT.","COOKED FOR 40 MIN.","PLATE A. ."
-1,2,"Lunch",1,"1/0/1900",3,5,"HOME","MAHARAGE,","MAHARAGE, ONION, TOMATOE, COCONUT JUICE, SALT.","COOKED FOR 45 MIN.","SAURCER D"
-1,2,"Lunch",1,"1/0/1900",3,5,"HOME","MNAFU","MNAFU, ONION, SALT, COOKING OIL.","COOKED FOR 10 MIN.","SAME AS SAURCER D OF MAJANI YA MABOGA."
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","PLATE C"
-1,2,"Supper",1,"1/0/1900",2,4,"HOME","NYAMA","NYAMA, ONION, CARROT, TOMATOE, SALT, COOKING OIL","COOKED FOR 50 MIN.","SAURCER C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TANGAWIZI, SUGAR.","BOILED FOR 10 MIN","ONE CUP B"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","BREAD","BOUGHT","BOUGHT","FIVE BREAD B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,5,"HOME","RICE,","RICE, COOKING OIL, SALT.","COOKED FOR 40 MIN.","PLATE A. ."
+,,"Lunch",1,"1/0/1900",3,5,"HOME","MAHARAGE,","MAHARAGE, ONION, TOMATOE, COCONUT JUICE, SALT.","COOKED FOR 45 MIN.","SAURCER D"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","MNAFU","MNAFU, ONION, SALT, COOKING OIL.","COOKED FOR 10 MIN.","SAME AS SAURCER D OF MAJANI YA MABOGA."
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 30 MIN","PLATE C"
+,,"Supper",1,"1/0/1900",2,4,"HOME","NYAMA","NYAMA, ONION, CARROT, TOMATOE, SALT, COOKING OIL","COOKED FOR 50 MIN.","SAURCER C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

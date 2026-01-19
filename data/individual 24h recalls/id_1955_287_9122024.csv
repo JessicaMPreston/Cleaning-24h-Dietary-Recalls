@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAI","SUKARI PILIPILI MANGA IRIKI KARAFUU","BOILED FOR 10 MINUTES","CUP B-ONE CUP"
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","MKATE","BOUGHT",,"6 SLICE-BREAD-B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","MAJI MAIZE FLOUR SEMBE","COOKED FOR 35 MINUTES","PLATE - D."
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","SAMAKI WA KUKAANGA","COOKING OIL LIMAO SALT KITUNGUU SWAUMU","FLIED FOR 1 HOUR","6 FISHES FISH - B."
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","MNAFU","COOKING OIL PILIPILI HOHO KAROTI NYANYA KITUNGUU SALT","COOKED FOR TWENTY MINUTES","MNAFU AS SAURCER - B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",1,3,"HOME","CHAI","MAJI PILIPILI MANGA IRIKI KARAFUU","BOILED FOR 10 MINUTES","CUP-C -ONE C"
 ,,"Supper",1,"1/0/1900",1,3,"HOME","MKATE","BOUGHT",,"UP 5 SLICE BREAD-B"
-,,"Snack evening",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
 ,,"Night snack",1,"1/0/1900",1,3,"HOME","SODA PENAPPLE","BOUGHT",,"350MLS"

@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","WATER, GRREN LEAVES, MDALASINI, SUGAR.","BOILED FOR 15 MINUTES,","ONE CUP C"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAPATI","WHEAT FLOUR, SALT, COOKING OIL.","BOUGHT","ONE CHAPATI B"
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED FOR ONE HOUR,","ONE PLATE D"
-2,,"Lunch",1,"1/0/1900",4,4,"HOME","MATEMBELE","MATEMBELE, ONION, SALT, COOKING OIL, TOMATO","COOKED FOR 30 MINUTES","ONE SAURCER D"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",1,"1/0/1900",3,4,"HOME","RICE","MCHELE, COOKING OIL, SALT, NAZI","COOKED FOR ONE HOUR","ONE SHARED PLATE H"
-1,3,"Supper",1,"1/0/1900",3,4,"HOME","MBAAZI","MBAAZI, COOKING OIL, TOMATO, ONION, SALT","COOKED FOR 30 MINUTES","MBAAZI SHARED SAURCER A."
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","WATER, GRREN LEAVES, MDALASINI, SUGAR.","BOILED FOR 15 MINUTES,","ONE CUP C"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAPATI","WHEAT FLOUR, SALT, COOKING OIL.","BOUGHT","ONE CHAPATI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","WATER, MAIZE FLOUR","COOKED FOR ONE HOUR,","ONE PLATE D"
+,,"Lunch",1,"1/0/1900",4,4,"HOME","MATEMBELE","MATEMBELE, ONION, SALT, COOKING OIL, TOMATO","COOKED FOR 30 MINUTES","ONE SAURCER D"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","MCHELE, COOKING OIL, SALT, NAZI","COOKED FOR ONE HOUR","ONE SHARED PLATE H"
+,,"Supper",1,"1/0/1900",3,4,"HOME","MBAAZI","MBAAZI, COOKING OIL, TOMATO, ONION, SALT","COOKED FOR 30 MINUTES","MBAAZI SHARED SAURCER A."
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

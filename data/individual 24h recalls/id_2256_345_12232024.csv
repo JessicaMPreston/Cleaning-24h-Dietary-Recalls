@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,3,"HOME","TEA","TEA LEAVES WATER, SUGAR","BOILED FOR 15 MIN.","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",4,3,"HOME","BREAD","BOUGHT","BOUGHT","2 BREAD A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MIN","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","BEANS","BEANS, ONION, HOHO, TOMATOES, SALT, WATER, COOKING OIL","BOILED FOR 2 HOURS","1 SAURCER C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","NDIZI","NDIZI, WATER ONION, TOMATOES SALT, HOHO COOKING OIL","COOKED FOR 1 HOUR","1 PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

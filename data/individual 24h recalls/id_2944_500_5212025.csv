@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","MAJI, MCHAICHAI SUKARI","BOILED FOR 10 MINUTES","ONE CUP C."
-2,,"Breakfast",1,"1/0/1900",3,4,"HOME","BAGIA","BOUGHT","BOUGHT","3 BAGIA"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HRS","SHARED ONE UGALI PLATE B"
-1,3,"Lunch",1,"1/0/1900",3,5,"HOME","DAGAA","DAGAA, NYANYA CHUMVI KITUNGUU, NAZI","COOKED FOR 30 MINUTES","SHARED ONE DAGAA SAURCER B"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","ONE UGALI PLATE D"
-2,,"Supper",1,"1/0/1900",2,4,"HOME","DAGAA","DAGAA, NYANYA, CHUMVI, KITUNGUU, NAZI","COOKED FOR 30 MINUTES","ONE DAGAA SAURCER B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","MAJI, MCHAICHAI SUKARI","BOILED FOR 10 MINUTES","ONE CUP C."
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","BAGIA","BOUGHT","BOUGHT","3 BAGIA"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HRS","SHARED ONE UGALI PLATE B"
+,,"Lunch",1,"1/0/1900",3,5,"HOME","DAGAA","DAGAA, NYANYA CHUMVI KITUNGUU, NAZI","COOKED FOR 30 MINUTES","SHARED ONE DAGAA SAURCER B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","UNGA SEMBE, MAJI","COOKED FOR 1 HOUR","ONE UGALI PLATE D"
+,,"Supper",1,"1/0/1900",2,4,"HOME","DAGAA","DAGAA, NYANYA, CHUMVI, KITUNGUU, NAZI","COOKED FOR 30 MINUTES","ONE DAGAA SAURCER B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

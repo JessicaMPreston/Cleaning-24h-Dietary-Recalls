@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","TEA LEAVES SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",5,5,"HOME","KITUMBUA","BOUGHT","BOUGHT","AS 2 ANDAZI A"
-2,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 45 MINUTES","PLATE D"
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","MAHARAGE","BEANS, OIL ONION, WATER SALT","COOKED FOR 1 HOUR","SAURCER C"
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","MCHUNGA","MCHUNGA ALIL, ONION, SALT","COOKED FOR 1 HOUR","SAUCER A"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,4,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE D"
-1,4,"Supper",1,"1/0/1900",4,4,"HOME","UONO","UONO, OIL SALT","FRIED FOR 10 MINUTES","AS SARDINES SAURCER B"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","CHAI","TEA LEAVES SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",5,5,"HOME","KITUMBUA","BOUGHT","BOUGHT","AS 2 ANDAZI A"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 45 MINUTES","PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MAHARAGE","BEANS, OIL ONION, WATER SALT","COOKED FOR 1 HOUR","SAURCER C"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MCHUNGA","MCHUNGA ALIL, ONION, SALT","COOKED FOR 1 HOUR","SAUCER A"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 30 MINUTES","PLATE D"
+,,"Supper",1,"1/0/1900",4,4,"HOME","UONO","UONO, OIL SALT","FRIED FOR 10 MINUTES","AS SARDINES SAURCER B"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

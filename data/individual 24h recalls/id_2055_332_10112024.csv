@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-,,"Breakfast",2,"",,,"",,,,
-,,"Morning snack",2,"",,,"",,,,
+,,"Breakfast",2,,,,,,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,2,"HOME","WALI,","RICE, WATER, COCONUT OIL. IL","BOILED FOR 40 MIN.","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",2,2,"HOME","BEANS","BEANS, COCONUT OIL, SALT, WATER, ONIONS, COOKING O","BOILED FOR 2 HOURS","1 SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES, SUGAR, WATER","BOILED FOR 10 MIN","1 CUP B"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

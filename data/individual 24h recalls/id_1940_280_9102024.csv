@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","SUPU YA KUKU","BOUGHT","BOUGHT","1 CHICKEN A."
-,,"Morning snack",2,"",,,"",,,,
-,,"Lunch",2,"",,,"",,,,
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",2,,,,,,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","SUPU YA KUKU","BOUGHT","BOUGHT","1 CHICKEN A"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI - B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

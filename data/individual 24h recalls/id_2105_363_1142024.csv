@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","TANGAWIZI, SUKARI.","BOILED FOR TEN MINUTES.","CUP C - ONE"
-2,,"Breakfast",1,"1/0/1900",4,3,"HOME","MANDAZI","BOUGHT","BOUGHT","ANDAZI - A THREE MANDAZI"
-2,,"Morning snack",2,"",,,"",,,,
-1,2,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR SEMBE.","COOKED FOR 35 MINUTES.","PLATE E - ONE."
-1,2,"Lunch",1,"1/0/1900",4,4,"HOME","MAHARAGE","COOKING OIL, ONION, SALT","COOKED FOR TWO HOURS","SAURCER B - ONE PLATE"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",1,"1/0/1900",2,4,"HOME","TAMBI","COOKING OIL, SUKARI","COOKED FOR 30 MINUTES","PLATE A - ONE PLATE"
-1,3,"Supper",1,"1/0/1900",2,4,"HOME","CHAI","SUKARI, TANGAWIZI, MAJANI YA CHAI","BOILED FOR TEN MINUTES","CUP C - ONE"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","CHAI","TANGAWIZI, SUKARI.","BOILED FOR TEN MINUTES.","CUP C - ONE"
+,,"Breakfast",1,"1/0/1900",4,3,"HOME","MANDAZI","BOUGHT","BOUGHT","ANDAZI - A THREE MANDAZI"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR SEMBE.","COOKED FOR 35 MINUTES.","PLATE E - ONE."
+,,"Lunch",1,"1/0/1900",4,4,"HOME","MAHARAGE","COOKING OIL, ONION, SALT","COOKED FOR TWO HOURS","SAURCER B - ONE PLATE"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","TAMBI","COOKING OIL, SUKARI","COOKED FOR 30 MINUTES","PLATE A - ONE PLATE"
+,,"Supper",1,"1/0/1900",2,4,"HOME","CHAI","SUKARI, TANGAWIZI, MAJANI YA CHAI","BOILED FOR TEN MINUTES","CUP C - ONE"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

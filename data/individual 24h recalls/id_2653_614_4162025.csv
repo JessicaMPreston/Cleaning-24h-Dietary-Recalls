@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,2,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES CANAMON, SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
-1,2,"Breakfast",1,"1/0/1900",3,2,"HOME","BANANA","BANANA , SALT WATER","BOILED FOR 20 MINUTES","1 PLATE SHARED"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","1 PLATE SHARED"
-1,3,"Lunch",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, OIL, SALT ONION, TOMATOES","COOKED FOR 15 MINUTES","1 SAURCER SHARED"
-2,,"Snack afternoon",2,"",,,"",,,,
-1,3,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, OIL, ONION","COOKED FOR 25 MINUTES","1 PLATE SHARED"
-1,3,"Supper",1,"1/0/1900",3,3,"HOME","BEANS","BEANS, SALT OIL","COOKED FOR 47 MINUTES","1 SAURCER SHARED"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","TEA","TEA LEAVES CANAMON, SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",3,2,"HOME","BANANA","BANANA , SALT WATER","BOILED FOR 20 MINUTES","1 PLATE SHARED"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","1 PLATE SHARED"
+,,"Lunch",1,"1/0/1900",3,3,"HOME","DAGAA","DAGAA, OIL, SALT ONION, TOMATOES","COOKED FOR 15 MINUTES","1 SAURCER SHARED"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,3,"HOME","WALI","WALI, OIL, ONION","COOKED FOR 25 MINUTES","1 PLATE SHARED"
+,,"Supper",1,"1/0/1900",3,3,"HOME","BEANS","BEANS, SALT OIL","COOKED FOR 47 MINUTES","1 SAURCER SHARED"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

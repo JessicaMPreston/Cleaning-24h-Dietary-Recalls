@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,2,"HOME","TEA","MCHAICHAI, MDALASINI, WATER, SUGAR.","BOILED FOR 40 MIN.","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",4,2,"HOME","CHAPATI","BOUGHT","BOUGHT","2 CHAPATI A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MIN","1 PLATE B"
 ,,"Lunch",1,"1/0/1900",3,3,"HOME","SAMAKI","FISH, ONION, SALT, COCONUT OIL","FRIED AND COOKED FOR 50 MIN.","3 FISH C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,2,"HOME","WALI","RICE, SALT, COCONUT OIL","BOILED FOR 1 HOUR","1 PLATE B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

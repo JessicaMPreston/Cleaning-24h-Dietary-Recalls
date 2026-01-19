@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","ILIKI, KARAFUU, MDALASINI, SUGAR","BOILED FOR 10 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","SAMBUSA","BOUGHT","BOUGHT","3 SAMBUSA ZA NYAMA"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 PLATE C"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","SAMAKI","SAMAKI, SALT","FRIED FOR 5 MINUTES","2 SAMAKI B"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","MCHICHA","MCHICHA, ONION, SALT,TOMATO, COOKING OIL","COOKED FOR 10 MINUTES","1 SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL,SALT","COOKED F OR 45 MINUTES","1 PLATE C"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, TOMATOE, ONION, COOKING OIL,SALT","COOKED FOR 1 HOUR","1 SAURCER B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","CHAI, MAJI, TANGAWIZI MDALASINI, SUKARI","BOILED FOR 15 MINUTES","ONE CUP C"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","ANDAZI","BOUGHT","BOUGHT","4 ANDAZI A"
-,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 1 HOUR","SHARED UGALI PLATE E"
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, KAROTI KITUNGUU MAFUTA CHUMVI","COOKED FOR 30 MINUTES","SHARED MCHICHA SAURCER A."
-1,4,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","SAMAKI, CHUMVI MAFUTA","FRIED FOR 45 MINUTES","SHARED 6 FISH C."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 1 HOUR","SHARED UGALI PLATE E"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, KAROTI KITUNGUU MAFUTA CHUMVI","COOKED FOR 30 MINUTES","SHARED MCHICHA SAURCER A."
+,,"Lunch",1,"1/0/1900",4,5,"HOME","SAMAKI","SAMAKI, CHUMVI MAFUTA","FRIED FOR 45 MINUTES","SHARED 6 FISH C."
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,4,"HOME","WALI","MCHELE, MAFUTA CHUMVI","COOKED FOR 45 MINUTES","WALI PLATE C"
 ,,"Supper",1,"1/0/1900",4,4,"HOME","MAHARAGE","MAHARAGE, MAFUTA KITUNGUU, CHUMVI","COOKED FOR 1 HOUR","MAHARAGE SAURCE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAI","MDALASINI ILIKI SUKARI, MAJI","BOILED FOR 15 MIN","ONE CUP C"
 ,,"Breakfast",1,"1/0/1900",3,4,"HOME","CHAPATI","CHAPATI, UNGA WA NGANO, MAFUTA CHUMVI","COOKED FOR 45  MINUTES","TWO CHAPATI C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,5,"HOME","UGALI","SEMBE, MAJI","COOKED FOR 45 MINUTES.","ONE UGALI PLATE D. ."
 ,,"Lunch",1,"1/0/1900",3,5,"HOME","MAJANI YA KUNDE","NAZI, KITUNGUU, NYANYA, CHUMVI","COOKED FOR 45 MINUTES","MAJANI YA KUNDE SAURCER C"
 ,,"Lunch",1,"1/0/1900",3,5,"HOME","SAMAKI","SAMAKI, TANGAWIZI CHUMVI, MAFUTA","FRIED FOR 30 MINUTES","ONE FISH B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,5,"HOME","WALI","WALI, MAFUTA, CHUMVI, ILIKI","COOKED FOR 1 HOUR","RICE PLATE D"
 ,,"Supper",1,"1/0/1900",3,5,"HOME","MAHARAGE","MAHARAGE, CHUMVI, NAZI","COOKED FOR 1 HOUR","MAHARAGE ONE SAURCER C"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

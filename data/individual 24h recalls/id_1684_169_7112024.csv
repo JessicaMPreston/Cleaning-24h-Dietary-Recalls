@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","CHAI","MAJI, SUKARI, MAJANI YA CHAI, IRIKI","BOILING, PREPARED BY HER MOTHER.","CUP C - ONE CUP"
 ,,"Breakfast",1,"1/0/1900",3,5,"HOME","MIHOGO","BOUGHT","FRYING, BOUGHT.","CASSAVA A - 4 PIECES"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, PREPARED BY HER MOTHER.","PLATE C."
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, NYANYA, VITUNGUU, MAFUTA, LIMAO, CHUMVI, MAJI.","FRYING AND ROASTING, PREPARED BY HER MOTHER.","FISH B - 2 PIECES."
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","MATEMBELE.","MATEMBELE, MAFUTA, NYANYA, KITUNGUU, CHUMVI.","FRYING, PREPARED BY HER MOTHER.","SAURCER - D."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","UNGA WA SEMBE, MAJI","BOILING, PREPARED BY HER MOTHER","PLATE C"
 ,,"Supper",1,"1/0/1900",4,5,"HOME","SAMAKI","SAMAKI, CHUMVI, MAFUTA, LIMAO, NYANYA, MAFUTA.","FRYING AND ROASTING, PREPARED BY HER MOTHER.","FISH B - 2 PIECES."
 ,,"Snack evening",1,"1/0/1900",3,3,"HOME","PIPI NA KAUKAU","BOUGHT","BOUGHT","PIPI MBILI NA KAUKAU PAKETI MOJA."
-,,"Night snack",2,"",,,"",,,,
+,,"Night snack",2,,,,,,,,

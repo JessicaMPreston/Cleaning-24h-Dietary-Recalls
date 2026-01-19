@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","TEA","SUGAR, TEA LEAVES","BOILED FOR 12 MINUTES","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","BREAD","BOUGHT","BOUGHT","4 SLACE OF BREAD"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 20 MINUTES","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",4,3,"HOME","MAHARAGE","MAHARAGE SALT ONION, COCONUT","COOKED FOR 49 MINUTES","1 SAURCER B"
 ,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","EMBE","BOUGHT","BOUGHT","1 EMBE C"
-,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","NDIZI","BOUGHT","BOUGHT","1 BANANA A"
+,,"Snack afternoon",1,"1/0/1900",2,2,"HOME","NDIZI","BOUGHT",,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","TEA","GINGER SUGAR","BOILED FOR 10 MINUTES","1 CUP B"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","ANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

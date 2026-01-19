@@ -1,9 +1,9 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",1,2,"HOME","PORRIDGE","MAIZE FLOUR","BOILED FOR 20 MIN","1 CUP B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","VIAZI","VIAZI, TOMATOE, ONION, COOKING OIL, SALT, CARROTS","COOKED FOR 40 MIN.","1 PLATE B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",2,4,"HOME","UGALI","MAIZE FLOUR WATER","COOKED FOR 40 MIN","1 PLATE D"
 ,,"Supper",1,"1/0/1900",2,4,"HOME","TEMBERE","TEMBERE, ONION TOMATOE, COOKING OIL SALT.","COOKED FOR 20 MIN.","1 SAURCER B"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

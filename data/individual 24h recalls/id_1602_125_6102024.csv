@@ -1,12 +1,12 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",1,2,"HOME","TEA","WATER, MDALASINI, SUGAR.","BOILED 20 MINUTES.","CUP C - HALF CUP"
 ,,"Breakfast",1,"1/0/1900",1,2,"HOME","CAKE","BOUGHT","N/A","TWO CAKE C"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE","COOKED 35 MINUTES","PLATE - D"
 ,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","WATER, COOKING OIL, LIMAO, SALT","COOKED ABOUT 20 MINUTES","THREE FISH, FISH B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",1,4,"HOME","UGALI","WATER, MAIZE FLOUR SEMBE","COOKED 30 MINUTES","PLATE D"
 ,,"Supper",1,"1/0/1900",1,4,"HOME","SAMAKI","WATER, COOKING OIL, SALT, LIMAO.","COOKED 20 MINUTES.","TWO FISH, FISH B."
 ,,"Supper",1,"1/0/1900",1,4,"HOME","UJI","WATER, MAIZE FLOUR (SEMBE) SALT.","BOILED 10 MINUTES.","CUP C - ONE CUP"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

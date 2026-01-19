@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-1,4,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","WATER, TANGAWIZI, TEA LEAVES, SUGAR,","BOILED -20MINUTES.","CUP C ONE CUP"
-1,4,"Breakfast",1,"1/0/1900",3,4,"HOME","CASSAVA","WATER, SALT","COOKED -25MINUTES","PLATE C"
-2,,"Morning snack",2,"",,,"",,,,
-1,4,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","WATER, (UNGA WA DONA), MAIZE FLOUR","COOKED 35 MINUTES.","PLATE-H"
-1,4,"Lunch",1,"1/0/1900",2,4,"HOME","TEMBELE","COOKING OIL ONIONS, TOMATOES, SALT","COOKED 20 MINUTES","SARCER-B"
-,,"Snack afternoon",2,"",,,"",,,,
-1,4,"Supper",1,"1/0/1900",3,4,"HOME","RICE","WATER, SALT, COOKING OIL","COOKED 45 MINUTES","PLATE E"
-1,4,"Supper",1,"1/0/1900",3,4,"HOME","BEANS","WATER, SALT ONION, COOKING OIL","COOKED 1 HOUR","SAURCER D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","TEA","WATER, TANGAWIZI, TEA LEAVES, SUGAR,","BOILED -20MINUTES.","CUP C ONE CUP"
+,,"Breakfast",1,"1/0/1900",3,4,"HOME","CASSAVA","WATER, SALT","COOKED -25MINUTES","PLATE C"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,4,"HOME","UGALI","WATER, (UNGA WA DONA), MAIZE FLOUR","COOKED 35 MINUTES.","PLATE-H"
+,,"Lunch",1,"1/0/1900",2,4,"HOME","TEMBELE","COOKING OIL ONIONS, TOMATOES, SALT","COOKED 20 MINUTES","SARCER-B"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","WATER, SALT, COOKING OIL","COOKED 45 MINUTES","PLATE E"
+,,"Supper",1,"1/0/1900",3,4,"HOME","BEANS","WATER, SALT ONION, COOKING OIL","COOKED 1 HOUR","SAURCER D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

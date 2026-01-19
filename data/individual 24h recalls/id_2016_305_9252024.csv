@@ -1,13 +1,13 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","CHAI","SUKARI, MDALASINI, MCHAICHAI, COWSMILK.","BOILED FOR 10 MINUTES.","CUP C - TWO CUPS."
 ,,"Breakfast",1,"1/0/1900",2,4,"HOME","MAANDAZI","BOUGHT",,"ANDAZI - A THREE MAANDAZI"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,5,"HOME","UGALI,","MAJI, MAIZE FLOUR SEMBE.","COOKED FOR 40 MINUTES","PLATE C."
 ,,"Lunch",1,"1/0/1900",2,5,"HOME","MAHARAGE,","NAZI, SALT, KITUNGUU, PILIPILI HOHO, CARROTE.","COOKED FOR 2 HOURS","SAURCER - B"
 ,,"Lunch",1,"1/0/1900",2,5,"HOME","FRIED FISH","COOKING OIL, SALT, TANGAWIZI","FRIED FOR 30 MINUTES","FISH - B ONE FISH"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",2,5,"HOME","UGALI","MAIZE FLOUR SEMBE, WATER","COOKED FOR 35 MINUTES","SAURCER - B"
 ,,"Supper",1,"1/0/1900",2,5,"HOME","MAHARAGE","CARROTE, ONION, NAZI HOHO, SALT. COOKING OIL,","COOKED FOR 2 HOURS.","FISH - B ONE FISH"
 ,,"Supper",1,"1/0/1900",2,5,"HOME","SAMAKI WA KUKAANGA","SALT, TANGAWIZI","FRIED FOR 30 MINUTES",
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

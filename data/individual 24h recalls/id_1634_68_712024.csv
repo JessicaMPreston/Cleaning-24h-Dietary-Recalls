@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA LEAVES & WATER, SUGAR.","BOILED FOR 10 MIN.","1 CUP B"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","MANDAZI","WHEAT FLOUR, COOKING OIL, SUGAR, BAKING POWDER.","BOUGHT.","4 MANDAZI B."
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","UGALI","MAIZE FLOUR,& WATER","COOKED FOR 20 MIN.","1 PLATE C"
 ,,"Lunch",1,"1/0/1900",4,4,"HOME","BEANS","BEANS, WATER, ONIONS, CARROT, COOKING OIL, SALT","BOILED AND COOKED FOR 1 HOUR & 30 MIN","1 PLATE SAURCER B"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES AND SUGAR, WATER","BOILED FOR 15 MIN","1 CUP B"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","CASSAVA","CASSAVA, WATER AND SALT.","BOILED FOR 30 MIN.","3CASSAVA PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

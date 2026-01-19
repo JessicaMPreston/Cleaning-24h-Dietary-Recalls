@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","SALT, UNGA DONA MAJI","BOILED FOR 15 MINUTES","ONE CUP C."
-2,,"Morning snack",2,"",,,"",,,,
-2,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 1 HOUR","ONE PLATE D"
-2,,"Lunch",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, MAFUTA KARANGA, NYANYA CHUMVI","COOKED FOR 1 HOUR","ONE SAURCE. D."
-2,,"Snack afternoon",2,"",,,"",,,,
-1,2,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 1 HOUR","ONE PLATE B SHARED"
-1,2,"Supper",1,"1/0/1900",4,5,"HOME","MCHICHA","NYANYA, CHUMVI MAFUTA, KARANGA","COOKED FOR 1 HOUR","ONE SAURCER C SHARED"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",4,4,"HOME","UJI","SALT, UNGA DONA MAJI","BOILED FOR 15 MINUTES","ONE CUP C."
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",4,5,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 1 HOUR","ONE PLATE D"
+,,"Lunch",1,"1/0/1900",4,5,"HOME","MCHICHA","MCHICHA, MAFUTA KARANGA, NYANYA CHUMVI","COOKED FOR 1 HOUR","ONE SAURCE. D."
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",4,5,"HOME","UGALI","UNGA DONA, MAJI","COOKED FOR 1 HOUR","ONE PLATE B SHARED"
+,,"Supper",1,"1/0/1900",4,5,"HOME","MCHICHA","NYANYA, CHUMVI MAFUTA, KARANGA","COOKED FOR 1 HOUR","ONE SAURCER C SHARED"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

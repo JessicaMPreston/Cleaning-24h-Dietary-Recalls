@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","CHAI","TEA LEAF, SUGAR, WATER,","BOILED FOR 20 MINUTES,","CUP C"
 ,,"Breakfast",1,"1/0/1900",4,5,"HOME","MIHOGO","CASSAVA, SALT, COOKING OIL","FRIED FOR 30 MINUTES","3 CASSAVA B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","UGALI","MAIZE FLOUR, WATER,","COOKED FOR 30 MINUTES","PLATE D"
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","SAMAKI,","FISH, COOKING, SALT, TOMATO, OIL, ONION,","FRIED THEN COOKED FOR 30 MINUTES","2 FISH C"
 ,,"Lunch",1,"1/0/1900",5,4,"HOME","KABICHI","KABICHI, TOMATO, COOKING OIL, SALT, ONION","COOKED FOR 30 MINUTES","AS MAJANI YA MABOGA SAURCER C"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",5,5,"HOME","VIAZI","IRISH POTATOES, TOMATO, ONION, SALT, COOKING OIL","COOKED FOR 1 HOUR","POTATOES PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

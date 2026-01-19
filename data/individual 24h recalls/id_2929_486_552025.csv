@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","TEA","TEA MASALA, SUGAR ILIK, PILIPILI MANGA","BOILED FOR 5 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",3,3,"HOME","BREAD","BOUGHT","BOUGHT","2 BREAD B"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","MAKANDE","MAHARAGE, MAHINDI, SALT ONION, COOKING OIL ROICO SOTOJO","COOKED FOR 2 HUORS","1 PLATE B"
 ,,"Snack afternoon",1,"1/0/1900",2,3,"HOME","NDIZI MBIVU","RAW","RAW","1 PLATE A"
-,,"Snack afternoon",1,"1/0/1900",2,3,"HOME","MACHUNGA","RAW","RAW","6 CHUNGWA A"
-,,"Supper",2,"",,,"",,,,
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack afternoon",1,"1/0/1900",2,3,"HOME","MACHUNGA","RAW",,
+,,"Supper",2,,,,,,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

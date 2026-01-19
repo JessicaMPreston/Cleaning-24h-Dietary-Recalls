@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","ILIKI, TEALEAVES SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
-2,,"Morning snack",2,"",,,"",,,,
-1,3,"Lunch",1,"1/0/1900",3,4,"HOME","NDIZI","NDIZI, TOMATOE ONION, COOKING OIL, SALT","COOKED FOR 1 HOUR","1 PLATE A SHARED"
-1,3,"Lunch",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES, ILIKI SUGAR","BOILED FOR 5 MINUTES.","1 CUP C"
-2,,"Snack afternoon",2,"",,,"",,,,
-2,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 PLATE C"
-2,,"Supper",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, COOKING OIL, SALT","COOKED FOR 10 MINUTES","1 SAURCER D"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","ILIKI, TEALEAVES SUGAR","BOILED FOR 5 MINUTES","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","3 ANDAZI B"
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",3,4,"HOME","NDIZI","NDIZI, TOMATOE ONION, COOKING OIL, SALT","COOKED FOR 1 HOUR","1 PLATE A SHARED"
+,,"Lunch",1,"1/0/1900",3,4,"HOME","TEA","TEA LEAVES, ILIKI SUGAR","BOILED FOR 5 MINUTES.","1 CUP C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 PLATE C"
+,,"Supper",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, COOKING OIL, SALT","COOKED FOR 10 MINUTES","1 SAURCER D"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

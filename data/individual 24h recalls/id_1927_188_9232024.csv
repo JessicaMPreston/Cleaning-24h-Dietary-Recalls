@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",5,5,"HOME","MAZIWA","MAZIWA, SUKARI, TANGAWIZI,","BOILING, SEVEN MINUTES","ONE CUP C"
 ,,"Breakfast",1,"1/0/1900",5,5,"HOME","VITUMBUA","BOUGHT","BOUGHT","3 VITUMBUA A"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","NDIZI NYAMA MIX WITH POTATOES","NDIZI, VIAZI, NYAMA,MAFUTA,KAROTI, NYANYA, KITUNGUU, CHUMVI, MAJI","ROAST, ONE AND HALF HOUR","POTATOES OF PLATE D,MIXED WITH BANANAS PLATE B, MIXED WITH MEAT SAURCER B"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","SODA","BOUGHT","BOUGHT","MIRINDA 350MLS"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",4,5,"HOME","NDIZI NYAMA MIX WITH PATATOES","NDIZI, NYAMA, POTATOES, NYANYA, KAROTI, KITUNGUU, MAFUTA, MAJI, CHUMVI","ATE LEFT OVER","POTATOES PLATE D MIXED WITH BANANA PLATE B MIXED WITH MEAT SAURCER B, MIRINDA 350 MLS"
 ,,"Supper",1,"1/0/1900",4,5,"HOME","SODA","BOUGHT","BOUGHT",
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

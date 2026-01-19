@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","TEA LEAVES SUGAR.","BOILED FOR 5 MINUTES","1 CUP C"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT","BOUGHT","4 ANDAZI B"
-,,"Morning snack",,"",,,"",,,,
+,,"Morning snack",,,,,,,,,
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","UGALI","MAIZE FLOUR, WATER","COOKED FOR 40 MINUTES","1 PLATE D"
 ,,"Lunch",1,"1/0/1900",3,4,"HOME","DAGAA","DAGAA, TOMATOE ONION, COOKING OIL SALT","COOKED FOR 30 MINUTES","1 SAURCER B."
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,4,"HOME","RICE","RICE, COOKING OIL SALT","COOKED FOR 30 MINUTES","1 PLATE C"
 ,,"Supper",1,"1/0/1900",3,4,"HOME","MAHARAGE","MAHARAGE, COOKING OIL TOMATOE, ONION, SALT","COOKED FOR 1 HOUR.","1 SAURCER B."
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

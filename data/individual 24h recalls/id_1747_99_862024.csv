@@ -1,10 +1,10 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",1,4,"HOME","FRESH COW MILK","SUGAR,","BOILED FOR 20 MINUTES","CUP B-ONE CUP"
 ,,"Breakfast",1,"1/0/1900",1,4,"HOME","VITUMBUA","BOUGHT","BOUGHT","VITUMBUA B-5 VITUMBUA"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",1,3,"HOME","SUPU YA NYAMA YA BATA","WATER LIMAO SALT,KITUNGUU SWAUMU, NYAMA YA BATA","ONE HOUR","SUPU AS MCHUZI SAURCER B, NYAMA YA BATA AS CHICKEN A"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",1,4,"HOME","UGALI","WATER MAIZE FLOUR (SEMBE)","COOKED FOR 30 MINUTES","PLATE-D"
 ,,"Supper",1,"1/0/1900",1,4,"HOME","NYAMA YA BATA","COOKING OIL, SALT ONION PILIPILI HOHO TOMATOES CARROTI WATER","COOKED FOR 30 MINUTES","MCHUZI AS SAURCER D-NYAMA YA BATA AS CHICKEN A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

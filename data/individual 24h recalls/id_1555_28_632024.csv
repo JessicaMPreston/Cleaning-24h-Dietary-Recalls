@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","TEA","WATER, SUGAR, TANGAWIZI","BOILED - 15 MINUTES","CUPC-ONE CUP"
 ,,"Breakfast",1,"1/0/1900",2,3,"HOME","MANDAZI","BOUGHT",,"ANDAZI 3 SLIES"
-,,"Morning snack",2,"",,,"",,,,
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","WALI","WATER, SALT COOKING OIL","COOKED 45 MINUTES","PLATE - A"
 ,,"Lunch",1,"1/0/1900",2,4,"HOME","DAGAA","COCONUT CREAM, SALT ONION TOMATOES","COOKED 20 MINUTES","SAURCER A"
 ,,"Snack afternoon",1,"1/0/1900",1,1,"HOME","ORANGE","BOUGHT",,"ORANGE A ONE"
 ,,"Supper",1,"1/0/1900",2,4,"HOME","WALI","WATER COOKING OIL SALT","COOKED 45 MINUTES","PLATE C"
 ,,"Supper",1,"1/0/1900",2,4,"HOME","DAGAA","COCONUT CREAM SALT ONION TOMATOES","COOKED 20 MINUTES","PLATE A"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

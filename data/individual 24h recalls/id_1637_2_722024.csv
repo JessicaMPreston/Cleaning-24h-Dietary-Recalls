@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",5,4,"HOME","UJI","UNGA WA DONA, CHUMVI, MAJI","PREPARED BY HER SISTER","CUP C TWO CUPS"
-,,"Morning snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",5,4,"HOME","UJI","UNGA WA DONA, CHUMVI, MAJI","PREPARED BY HER SISTER","CUP C TWO CUPS"
+,,"Morning snack",2,,,,,,,,
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","UGALI","UNGA WA DONA, MAJI","BOILING, PREPARED BY HER SISTER,","PLATE H"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","MBWEMBWE","MBWEMBWE, MAFUTA, NYANYA, KITUNGUU, CHUMVI","FRYING, PREPARED BY HER SISTER,","SAURCER B OF AMARANTUS,"
 ,,"Lunch",1,"1/0/1900",5,5,"HOME","SAMAKI","SAMAKI, NAZI, NYANYA, KITUNGUU, CHUMVI","ROAST, PREPARED BY HER SISTER","SAMAKI KAMBALE, 2 SLICES"
-,,"Snack afternoon",2,"",,,"",,,,
+,,"Snack afternoon",2,,,,,,,,
 ,,"Supper",1,"1/0/1900",3,3,"HOME","CHAI","MAJI, SUKARI, MCHAICHAI, MAJANI YA CHAI","BOILING, PREPARED  BY HER SISTER","CUP C, ONE CUP"
 ,,"Supper",1,"1/0/1900",3,3,"HOME","SKONZI","BOUGHT","BOUGHT","SIZE LIKE THAT OF ANDAZI A 2 PIECES"
-,,"Snack evening",2,"",,,"",,,,
-,,"Night snack",2,"",,,"",,,,
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,

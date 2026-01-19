@@ -1,11 +1,11 @@
 "sharedplate","n_shared","Meal","meal_accuracy","time","hunger","fullness","place_eaten","dish","ingredient","preperation_method","servingsize"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MAJI, MCHAICHAI SUKARI","BOILED FOR 20 MIN","1 CUP C"
-2,,"Breakfast",1,"1/0/1900",2,3,"HOME","MIHOGO","ALINUNUA","ALINUNUA",
-2,,"Morning snack",2,"",,,"",,,,
-1,1,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA MAHINDI, SEMBE, MAJI","BOILED FOR 30 MIN","SHARED 1 PLATE A"
-1,1,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","SAMAKI, NYANYA KITUNGUU MAJI MAFUTA YA KUPIKIA, CHUMVI","COOKED FOR 30 MIN","SHARED 5 FISH C"
-,,"Snack afternoon",2,"",,,"",,,,
-1,1,"Supper",1,"1/0/1900",2,4,"HOME","NDIZI","NDIZI, NYANYA, MAFUTA, KITUNGUU MAJI, CHUMVI","COOKED FOR 30 MIN","1 PLATE A"
-1,1,"Supper",1,"1/0/1900",2,4,"HOME","CHAI","SUKARI, MAJANI YA CHAI, MAJI","BOILED FOR 15 MIN","1 CUP C"
-2,,"Snack evening",2,"",,,"",,,,
-2,,"Night snack",2,"",,,"",,,,
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","CHAI","MAJI, MCHAICHAI SUKARI","BOILED FOR 20 MIN","1 CUP C"
+,,"Breakfast",1,"1/0/1900",2,3,"HOME","MIHOGO","ALINUNUA","ALINUNUA",
+,,"Morning snack",2,,,,,,,,
+,,"Lunch",1,"1/0/1900",2,3,"HOME","UGALI","UNGA WA MAHINDI, SEMBE, MAJI","BOILED FOR 30 MIN","SHARED 1 PLATE A"
+,,"Lunch",1,"1/0/1900",2,3,"HOME","SAMAKI","SAMAKI, NYANYA KITUNGUU MAJI MAFUTA YA KUPIKIA, CHUMVI","COOKED FOR 30 MIN","SHARED 5 FISH C"
+,,"Snack afternoon",2,,,,,,,,
+,,"Supper",1,"1/0/1900",2,4,"HOME","NDIZI","NDIZI, NYANYA, MAFUTA, KITUNGUU MAJI, CHUMVI","COOKED FOR 30 MIN","1 PLATE A"
+,,"Supper",1,"1/0/1900",2,4,"HOME","CHAI","SUKARI, MAJANI YA CHAI, MAJI","BOILED FOR 15 MIN","1 CUP C"
+,,"Snack evening",2,,,,,,,,
+,,"Night snack",2,,,,,,,,
