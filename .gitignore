@@ -7,3 +7,6 @@
 .DS_Store
 # Quarto folder to ignore
 .quarto
+data-raw/*
+data/*
+docs/*
